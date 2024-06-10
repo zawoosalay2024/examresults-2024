@@ -21,6 +21,13 @@
     "data_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/year-by-region/2018-v1"
   },
   {
+    "title": "2017",
+    "base_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/",
+    "date": "",
+    "auto_refresh": "",
+    "data_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/year-by-region/2017-v1"
+  },
+  {
     "title": "2016",
     "base_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/",
     "date": "",
