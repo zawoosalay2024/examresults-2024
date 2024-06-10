@@ -1,344 +1,3226 @@
 {
-"ရန်ကုန်တိုင်းဒေသကြီး":[ {"title": "(\u1006\u101c\u1019) \u101c\u1088\u102d\u1004\u1039", "src": "2018exam/src/yangon/YG-7.pdf"}, {"title": "(\u1006\u1000\u101b) \u1000\u1019\u102c\u1090\u103c\u1010\u1039", "src": "2018exam/src/yangon/YG-6.pdf"}, {"title": "(\u1006\u1014)  \u101c\u1000\u1039\u1001\u102f\u1015\u1039\u1000\u102f\u1014\u1039\u1038 (\u1000\u103c\u1019\u1039\u1038\u107f\u1001\u1036\u1000\u102f\u1014\u1039\u1038)", "src": "2018exam/src/yangon/YG-51.pdf"}, {"title": "(\u1006\u1000\u1000) \u1031\u1010\u102c\u1039\u1000\u1030\u1038 (\u1000\u103c\u1019\u1039\u1038\u107f\u1001\u1036\u1000\u102f\u1014\u1039\u1038)", "src": "2018exam/src/yangon/YG-66.pdf"}, {"title": "(\u1006\u1000)  \u1000\u103c\u1019\u1039\u1038\u107f\u1001\u1036\u1000\u102f\u1014\u1039\u1038", "src": "2018exam/src/yangon/YG-36.pdf"}, {"title": "(\u1006\u100a) \u1000\u102d\u102f\u1000\u102d\u102f\u1038\u1000\u103c\u107d\u1014\u1039\u1038", "src": "2018exam/src/yangon/YG-45(1).pdf"}, {"title": "(\u1006\u101b\u1015) \u1015\u102d\u1014\u1039\u1038\u1000\u1014\u1039 (\u1001\u101b\u1019\u1039\u1038)", "src": "2018exam/src/yangon/YG-73.pdf"}, {"title": "(\u1006\u101b\u1019) \u1000\u1019\u102c\u1019\u1010\u1039 (\u1001\u101b\u1019\u1039\u1038)", "src": "2018exam/src/yangon/YG-78.pdf"}, {"title": "(\u1006\u101b\u1012) \u1000\u103c\u1019\u1039\u1038\u1019\u102d\u102f\u1038\u1012\u102d\u1014\u1039\u1038 (\u1001\u101b\u1019\u1039\u1038)", "src": "2018exam/src/yangon/YG-70.pdf"}, {"title": "(\u1006\u101b) \u1001\u101b\u1019\u1039\u1038", "src": "2018exam/src/yangon/YG-58.pdf"}, {"title": "(\u1006\u1005\u1001)  \u1005\u1019\u1039\u1038\u1031\u1001\u103a\u102c\u1004\u1039\u1038", "src": "2018exam/src/yangon/YG-15.pdf"}, {"title": "(\u1006\u1001\u1010)  \u1001\u1031\u1014\u102c\u1004\u1039\u1010\u102d\u102f", "src": "2018exam/src/yangon/YG-29(1).pdf"}, {"title": "(\u1006\u1010\u1001)  \u1000\u101b\u1004\u1039\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1010\u103c\u1036\u1031\u1010\u1038)", "src": "2018exam/src/yangon/YG-75(1).pdf"}, {"title": "(\u1006\u1010\u1004) \u1019\u1031\u1004\u1038\u1011\u102d\u1014\u1039\u1000\u102f\u1014\u1039\u1038 (\u1010\u103c\u1036\u1031\u1010\u1038)", "src": "2018exam/src/yangon/file_1vW18kF26auKF7C0VCI-DqHc3P-gczYD2.bin"}, {"title": "(\u1006\u1010\u1018)  \u1000\u1036\u1018\u1032\u1037 (\u1010\u103c\u1036\u1031\u1010\u1038)", "src": "2018exam/src/yangon/YG-74(1).pdf"}, {"title": "(\u1006\u1010\u1011) \u1001\u1010\u1071\u102d\u101a (\u1010\u103c\u1036\u1031\u1010\u1038)", "src": "2018exam/src/yangon/YG-71.pdf"}, {"title": "(\u1006\u1010) \u1010\u103c\u1036\u1031\u1010\u1038", "src": "2018exam/src/yangon/YG-47.pdf"}, {"title": "(\u1006\u1010\u1019)  \u1010\u102c\u1031\u1019\u103c", "src": "2018exam/src/yangon/YG-24.pdf"}, {"title": "(\u1006\u1025) \u1025\u1000\u1060\u1036 (\u1010\u102d\u102f\u1000\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/yangon/YG-64.pdf"}, {"title": "(\u1006\u1017) \u1016\u101c\u102f\u1036 (\u1010\u102d\u102f\u1000\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/yangon/YG-54.pdf"}, {"title": "(\u1006\u1013) \u1021\u1031\u1016\u103a\u102c\u1000\u1039 (\u1010\u102d\u102f\u1000\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/yangon/YG-50.pdf"}, {"title": "(\u1006\u1007)  \u1031\u1010\u102c\u1039\u101c\u1010\u102e (\u1010\u102d\u102f\u1000\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/yangon/YG-43.pdf"}, {"title": "(\u1006\u1018)  \u1010\u102d\u102f\u1000\u1039\u1080\u1000\u102e\u1038", "src": "2018exam/src/yangon/YG-55.pdf"}, {"title": "(\u1006\u1011\u1010)  \u1000\u103a\u1034\u1031\u1010\u102c (\u1011\u1014\u1039\u1038\u1010\u1015\u1004\u1039)", "src": "2018exam/src/yangon/YG-72.pdf"}, {"title": "(\u1006\u1006)  \u101c\u103d\u100a\u1039\u1038\u1006\u102d\u1015\u1039 (\u1011\u1014\u1039\u1038\u1010\u1015\u1004\u1039)", "src": "2018exam/src/yangon/YG-42.pdf"}, {"title": "(\u1006\u1011)   \u1011\u1014\u1039\u1038\u1010\u1015\u1004\u1039", "src": "2018exam/src/yangon/YG-48.pdf"}, {"title": "(\u1006\u1012\u101b) \u1012\u1002\u102f\u1036\u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1021\u1031\u101b\u103d\u1095\u1015\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/yangon/YG-35.pdf"}, {"title": "(\u1006\u1012\u1019)  \u1012\u1002\u102f\u1036\u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1031\u103b\u1019\u102c\u1000\u1039\u1015\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/yangon/YG-34.pdf"}, {"title": "(\u1006\u1012\u1010) \u1012\u1002\u102f\u1036\u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1031\u1010\u102c\u1004\u1039\u1015\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/yangon/YG-33.pdf"}, {"title": "(\u1006\u1012\u1006)  \u1012\u1002\u102f\u1036\u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1006\u102d\u1015\u1039\u1000\u1019\u1039\u1038)", "src": "2018exam/src/yangon/YG-32.pdf"}, {"title": "(\u1006\u1015) \u1031\u1015\u103a\u102c\u1039\u1018\u103c\u101a\u1039\u1080\u1000\u102e\u1038 (\u1012\u101c)", "src": "2018exam/src/yangon/YG-52.pdf"}, {"title": "(\u1006\u1012\u101c)  \u1012\u101c", "src": "2018exam/src/yangon/YG-28.pdf"}, {"title": "(\u1006\u1015\u1010) \u1015\u1014\u1039\u1038\u1018\u1032\u1010\u1014\u1039\u1038", "src": "2018exam/src/yangon/YG-18.pdf"}, {"title": "(\u1006\u1012\u1002)  \u1012\u1002\u102f\u1036", "src": "2018exam/src/yangon/YG-22.pdf"}, {"title": "(\u1006\u1015\u1007) \u1015\u102f\u1007\u103c\u1014\u1039\u1031\u1010\u102c\u1004\u1039", "src": "2018exam/src/yangon/YG-21.pdf"}, {"title": "(\u1006\u1019\u1010)  \u107e\u1000\u100a\u1037\u1039\u103b\u1019\u1004\u1039\u1010\u102d\u102f\u1004\u1039", "src": "2018exam/src/yangon/YG-13.pdf"}, {"title": "(\u1006\u1017\u101f)  \u1017\u101f\u1014\u1039\u1038", "src": "2018exam/src/yangon/YG-23.pdf"}, {"title": "(\u1006\u1017\u1011) \u1017\u102d\u102f\u101c\u1039\u1010\u1031\u1011\u102c\u1004\u1039", "src": "2018exam/src/yangon/YG-20.pdf"}, {"title": "(\u1006\u1015\u101c)  \u1015\u102f\u101c\u1032\u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1019\u1002\u1064\u101c\u102c\u1012\u102f\u1036)", "src": "2018exam/src/yangon/YG-4.pdf"}, {"title": "(\u1006\u1011\u1000) \u1031\u1011\u102c\u1000\u1039\u107e\u1000\u1014\u1039\u1095 (\u1019\u1002\u1064\u101c\u102c\u1012\u102f\u1036)", "src": "2018exam/src/yangon/YG-3.pdf"}, {"title": "(\u1006\u1019\u1012) \u1019\u1002\u1064\u101c\u102c\u1012\u102f\u1036", "src": "2018exam/src/yangon/YG-2.pdf"}, {"title": "(\u1006\u1010\u100a) \u1019\u1002\u1064\u101c\u102c\u1031\u1010\u102c\u1004\u1039\u106b\u103c\u1014\u1094\u1039", "src": "2018exam/src/yangon/YG-25.pdf"}, {"title": "(\u1006\u1019\u1000)  \u1019\u101b\u1019\u1039\u1038\u1000\u102f\u1014\u1039\u1038", "src": "2018exam/src/yangon/YG-8.pdf"}, {"title": "(\u1006\u101b\u1000)  \u101b\u1014\u1039\u1000\u1004\u1039\u1038", "src": "2018exam/src/yangon/YG-9.pdf"}, {"title": "(\u1006\u1027) \u101b\u1032\u1019\u103c\u1014\u1039 (\u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038)", "src": "2018exam/src/yangon/YG-63.pdf"}, {"title": "(\u1006\u1021)  \u1021\u1004\u1039\u1038\u1010\u102d\u102f\u1004\u1039 (\u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038)", "src": "2018exam/src/yangon/YG-62.pdf"}, {"title": "(\u1006\u1016) \u1031\u1016\u102c\u1004\u1039\u1080\u1000\u102e\u1038 (\u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038)", "src": "2018exam/src/yangon/YG-53.pdf"}, {"title": "(\u1006\u1012) \u1012\u102b\u1038\u1015\u102d\u1014\u1039 (\u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038)", "src": "2018exam/src/yangon/YG-49.pdf"}, {"title": "(\u1006\u1005) \u1019\u1004\u1039\u1038\u1000\u102f\u1014\u1039\u1038 (\u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038)", "src": "2018exam/src/yangon/YG-41.pdf"}, {"title": "(\u1006\u101c\u1006)  \u1004\u102b\u1038\u1006\u1030\u1031\u1010\u102c\u1004\u1039 (\u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038)", "src": "2018exam/src/yangon/YG-68.pdf"}, {"title": "(\u1006\u101c)  \u101c\u103d\u100a\u1039\u1038\u1000\u1030\u1038", "src": "2018exam/src/yangon/YG-59.pdf"}, {"title": "(\u1006\u101c\u101e) \u101c\u101e\u102c", "src": "2018exam/src/yangon/YG-17.pdf"}, {"title": "(\u1006\u101e\u101a) \u101c\u1088\u102d\u1004\u1039\u101e\u102c\u101a\u102c", "src": "2018exam/src/yangon/YG-31.pdf"}, {"title": "(\u1006\u101e\u1016) \u1016\u102c\u1038\u1000\u1030\u1038 (\u101e\u1014\u1039\u101c\u103a\u1004\u1039)", "src": "2018exam/src/yangon/YG-77.pdf"}, {"title": "(\u1006\u101e)  \u101e\u1014\u1039\u101c\u103a\u1004\u1039", "src": "2018exam/src/yangon/YG-61.pdf"}, {"title": "(\u1006\u101e\u1010) \u101e\u102c\u1031\u1000\u1010", "src": "2018exam/src/yangon/YG-26.pdf"}, {"title": "(\u1006\u1001) \u101e\u102f\u1036\u1038\u1001\u103c", "src": "2018exam/src/yangon/YG-37.pdf"}, {"title": "(\u1006\u1021\u101c) \u1021\u101c\u102f\u1036", "src": "2018exam/src/yangon/YG-14.pdf"}, {"title": "(\u1006\u101d) \u101d\u102b\u1038\u1018\u1031\u101c\u102c\u1000\u1039\u1031\u101e\u102c\u1000\u1039 (\u1031\u1000\u102c\u1037\u1019\u103d\u1034\u1038)", "src": "2018exam/src/yangon/YG-60.pdf"}, {"title": "(\u1006\u100f) \u1000\u103a\u102d\u1033\u1000\u1039\u1031\u1011\u102c\u1039 (\u1031\u1000\u102c\u1037\u1019\u103d\u1034\u1038)", "src": "2018exam/src/yangon/YG-46.pdf"}, {"title": "(\u1006\u1004\u1005) \u1014\u1010\u1039\u1005\u1004\u1039\u1000\u102f\u1014\u1039\u1038 (\u1031\u1000\u102c\u1037\u1019\u1089\u1038)", "src": "2018exam/src/yangon/YG-69.pdf"}, {"title": "(\u1006\u1004) \u1031\u1000\u102c\u1037\u1019\u1089\u1038", "src": "2018exam/src/yangon/YG-40.pdf"}, {"title": "(\u1006\u1000\u1010) \u1031\u1000\u103a\u102c\u1000\u1039\u1010\u1036\u1010\u102c\u1038", "src": "2018exam/src/yangon/YG-19.pdf"}, {"title": "(\u1006\u101a)  \u1000\u1019\u102c\u1000\u101c\u102f\u1010\u1039 (\u1031\u1000\u103a\u102c\u1000\u1039\u1010\u1014\u1039\u1038)", "src": "2018exam/src/yangon/YG-57.pdf"}, {"title": "(\u1006\u1008) \u1010\u1036\u1010\u102c\u1038\u107f\u1019\u102d\u1033\u1095 (\u1031\u1000\u103a\u102c\u1000\u1039\u1010\u1014\u1039\u1038)", "src": "2018exam/src/yangon/YG-44.pdf"}, {"title": "(\u1006\u1002) \u1031\u1000\u103a\u102c\u1000\u1039\u1010\u1014\u1039\u1038", "src": "2018exam/src/yangon/YG-38.pdf"}, {"title": "(\u1006\u1010\u1025)  \u1031\u1010\u102c\u1004\u1039\u1025\u1000\u1060\u101c\u102c\u1015", "src": "2018exam/src/yangon/YG-10.pdf"}, {"title": "(\u1006\u1012\u1015) \u1031\u1012\u102b\u1015\u102f\u1036", "src": "2018exam/src/yangon/YG-27.pdf"}, {"title": "(\u1006\u1003)  \u1031\u103b\u1019\u102c\u1004\u1039\u1038\u1010\u1000\u102c (\u1031\u1019\u103d\u102c\u1039\u1018\u102e)", "src": "2018exam/src/yangon/YG-39.pdf"}, {"title": "(\u1006\u1019\u1014) \u1010\u1015\u1039\u1080\u1000\u102e\u1038\u1000\u102f\u1014\u1039\u1038 (\u1031\u1019\u103d\u102c\u1039\u1018\u102e)", "src": "2018exam/src/yangon/YG-67.pdf"}, {"title": "(\u1006\u1019) \u1031\u1019\u103d\u102c\u1039\u1018\u102e", "src": "2018exam/src/yangon/YG-56.pdf"}, {"title": "(\u1006\u1019\u1025)  \u1031\u103b\u1019\u102c\u1000\u1039\u1025\u1000\u1060\u101c\u102c\u1015", "src": "2018exam/src/yangon/YG-5.pdf"}, {"title": "(\u1006\u1015\u101e) \u1031\u1090\u108a\u103b\u1015\u100a\u1039\u101e\u102c", "src": "2018exam/src/yangon/YG-30.pdf"}],
-"မန္တလေးတိုင်းဒေသကြီး":[  {
-    "title":"\u1001\u103a\u1019\u1039\u1038\u103b\u1019\u101e\u102c\u1005\u100a\u1039 (\u1019\u1014\u1071\u1031\u101c\u1038)",
-    "src":"2018exam/src/default/MDL-4.pdf"
- },
- {
-    "title":"\u1001\u103a\u1019\u1039\u1038\u1031\u1021\u1038\u101e\u102c\u1005\u1036 (\u1019\u1014\u1071\u1031\u101c\u1038)",
-    "src":"2018exam/src/default/MDL-2.pdf"
- },
- {
-    "title":"\u1004\u102b\u1014\u1039\u1038\u1007\u103c\u1014\u1039",
-    "src":"2018exam/src/default/MDL-57.pdf"
- },
- {
-    "title":"\u1005\u1009\u1039\u1037\u1000\u102d\u102f\u1004\u1039",
-    "src":"2018exam/src/default/MDL-38.pdf"
- },
- {
-    "title":"\u1005\u1009\u1039\u1037\u1000\u1030\u1038",
-    "src":"2018exam/src/default/MDL-26.pdf"
- },
- {
-    "title":"\u1010\u1036\u1010\u102c\u1038\u1026\u1038",
-    "src":"2018exam/src/default/MDL-36.pdf"
- },
- {
-    "title":"\u1015\u102f\u101e\u102d\u1019\u1039\u107e\u1000\u102e\u1038",
-    "src":"2018exam/src/default/MDL-6.pdf"
- },
- {
-    "title":"\u1019\u1010\u1071\u101b\u102c",
-    "src":"2018exam/src/default/MDL-22.pdf"
- },
- {
-    "title":"\u1019\u101c\u103d\u102d\u102f\u1004\u1039",
-    "src":"2018exam/src/default/MDL-99.pdf"
- },
- {
-    "title":"\u1019\u101f\u102c\u1031\u1021\u102c\u1004\u1039\u1031\u103b\u1019 (\u1019\u1014\u1071\u1031\u101c\u1038)",
-    "src":"2018exam/src/default/MDL-3.pdf"
- },
- {
-    "title":"\u1019\u102d\u1010\u1073\u102e\u101c\u102c",
-    "src":"2018exam/src/default/MDL-81.pdf"
- },
- {
-    "title":"\u1019\u102d\u102f\u1038\u1000\u102f\u1010\u1039",
-    "src":"2018exam/src/default/MDL-14.pdf"
- },
- {
-    "title":"\u103b\u1015\u1004\u1039\u1026\u1038\u101c\u103c\u1004\u1039",
-    "src":"2018exam/src/default/MDL-12.pdf"
- },
- {
-    "title":"\u103b\u1015\u100a\u1039\u107e\u1000\u102e\u1038\u1010\u1036\u1001\u103c\u1014\u1039 (\u1019\u1014\u1071\u1031\u101c\u1038)",
-    "src":"2018exam/src/default/MDL-5.pdf"
- },
- {
-    "title":"\u103b\u1019\u1004\u1039\u1038\u103b\u1001\u1036",
-    "src":"2018exam/src/default/MDL-40.pdf"
- },
- {
-    "title":"\u103b\u1019\u1005\u1039\u101e\u102c\u1038",
-    "src":"2018exam/src/default/MDL-32.pdf"
- },
- {
-    "title":"\u101b\u1019\u100a\u1039\u1038\u101e\u1004\u1039\u1038",
-    "src":"2018exam/src/default/MDL-72.pdf"
- },
- {
-    "title":"\u101e\u1015\u102d\u1010\u1039\u1000\u103a\u1004\u1039\u1038",
-    "src":"2018exam/src/default/MDL-17.pdf"
- },
- {
-    "title":"\u101e\u102c\u1005\u100a\u1039",
-    "src":"2018exam/src/default/MDL-86.pdf"
- },
- {
-    "title":"\u101e\u1032\u1031\u1010\u102c (\u101d\u1019\u1039\u1038\u1010\u103c\u1004\u1039\u1038)",
-    "src":"2018exam/src/default/MDL-97.pdf"
- },
- {
-    "title":"\u1021\u1019\u101b\u1015\u1030\u101b",
-    "src":"2018exam/src/default/MDL-9.pdf"
- },
- {
-    "title":"\u1031\u1000\u103a\u102c\u1000\u1039\u1006\u100a\u1039",
-    "src":"2018exam/src/default/MDL-30.pdf"
- },
- {
-    "title":"\u1031\u1000\u103a\u102c\u1000\u1039\u1015\u1014\u1039\u1038\u1031\u1010\u102c\u1004\u1039\u1038",
-    "src":"2018exam/src/default/MDL-67.pdf"
- },
- {
-    "title":"\u1031\u100a\u102c\u1004\u1039\u1026\u1038",
-    "src":"2018exam/src/default/MDL-61.pdf"
- },
- {
-    "title":"\u1031\u1010\u102c\u1004\u1039\u101e\u102c",
-    "src":"2018exam/src/default/MDL-48.pdf"
- },
- {
-    "title":"\u1031\u1021\u102c\u1004\u1039\u1031\u103b\u1019\u101e\u102c\u1005\u1036 (\u1019\u1014\u1071\u1031\u101c\u1038)",
-    "src":"2018exam/src/default/MDL-1.pdf"
- },
- {
-    "title":"\u108f\u103c\u102c\u1038\u1011\u102d\u102f\u1038\u107e\u1000\u102e\u1038",
-    "src":"2018exam/src/default/MDL-43.pdf"
- }],
-"နေပြည်တော်":[{"title": "\u1021\u1011\u1000(\u1042\u1042) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039", "src": "2018exam/src/naypyitaw/NPT-22.pdf"}, {"title": "\u1021\u1011\u1000(\u1041\u1044) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 (\u1007\u1019\u107a\u1034\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-21.pdf"}, {"title": "\u1007\u1019\u107a\u1034\u101e\u102e\u101b\u102d", "src": "2018exam/src/naypyitaw/NPT-20.pdf"}, {"title": "(\u1014\u1010\u1021) \u1019\u1000\u103a\u102e\u1038\u1015\u1004\u1039 ( \u1010\u1015\u1039\u1000\u102f\u1014\u1039\u1038 )", "src": "2018exam/src/naypyitaw/NPT-17.pdf"}, {"title": "(\u1014\u1010\u101b) \u1031\u1090\u108a\u107f\u1019\u102d\u1033\u1095 ( \u1010\u1015\u1039\u1000\u102f\u1014\u1039\u1038 )", "src": "2018exam/src/naypyitaw/NPT-16.pdf"}, {"title": "(\u1014\u1010\u100a) \u1031\u100a\u102c\u1004\u1039\u101c\u103c\u1014\u1039\u1094 ( \u1010\u1015\u1039\u1000\u102f\u1014\u1039\u1038 )", "src": "2018exam/src/naypyitaw/NPT-15.pdf"}, {"title": "(\u1014\u1010\u1019) M.R.T.V ( \u1010\u1015\u1039\u1000\u102f\u1014\u1039\u1038 )", "src": "2018exam/src/naypyitaw/NPT-14.pdf"}, {"title": "(\u1014\u1010\u1015) \u1000.\u1015.\u1005(\u1041) (\u1010\u1015\u1039\u1000\u102f\u1014\u1039\u1038)", "src": "2018exam/src/naypyitaw/NPT-13.pdf"}, {"title": "(\u1014\u1010\u1000) \u1010\u1015\u1039\u1000\u102f\u1014\u1039\u1038", "src": "2018exam/src/naypyitaw/NPT-12.pdf"}, {"title": "(\u1014\u1012\u1014) \u1021\u1011\u1000 (\u1041\u1049) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 ( \u1012\u1000\u1061\u102d\u100f\u101e\u102e\u101b\u102d )", "src": "2018exam/src/naypyitaw/NPT-19.pdf"}, {"title": "(\u1014\u1012\u1000) \u1021\u1011\u1000 (\u1041\u1048) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 ( \u1012\u1000\u1061\u102d\u100f\u101e\u102e\u101b\u102d )", "src": "2018exam/src/naypyitaw/NPT-18.pdf"}, {"title": "(\u1014\u1000\u1015) \u1021\u1011\u1000(\u1042\u1040) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 (\u1015\u102f\u1017\u107a\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-11.pdf"}, {"title": "(\u1014\u1000\u1014)\u1021\u1011\u1000(\u1041\u1043) \u1014\u1031\u1015\u103c\u100a\u103a\u1010\u1031\u102c\u103a (\u1015\u102f\u1017\u1039\u1017\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-10.pdf"}, {"title": "(\u1014\u1000\u1010)\u1000\u103a\u100a\u1039\u1031\u1010\u102c\u1004\u1039\u1000\u1014\u1039 (\u1015\u102f\u1017\u107a\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-9.pdf"}, {"title": "(\u1014\u1015\u1017)\u1015\u102f\u1017\u107a\u101e\u102e\u101b\u102d", "src": "2018exam/src/naypyitaw/NPT-8.pdf"}, {"title": "(\u1014\u1015\u101e) \u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u101e\u102c (\u1015\u103a\u1025\u1039\u1038\u1019\u1014\u102c\u1038)", "src": "2018exam/src/naypyitaw/NPT-26.pdf"}, {"title": "(\u1014\u1015\u101c) \u101e\u1005\u1039\u1031\u101c\u1038\u101c\u102f\u1036\u1038 (\u1015\u103a\u1025\u1039\u1038\u1019\u1014\u102c\u1038)", "src": "2018exam/src/naypyitaw/NPT-25.pdf"}, {"title": "(\u1014\u1015\u1019)  \u1021\u1011\u1000(\u1043) \u1015\u103a\u1025\u1039\u1038\u1019\u1014\u102c\u1038", "src": "2018exam/src/naypyitaw/NPT-24.pdf"}, {"title": "(\u1014\u1015\u1014)  \u1015\u103a\u1025\u1039\u1038\u1019\u1014\u102c\u1038", "src": "2018exam/src/naypyitaw/NPT-23.pdf"}, {"title": "(\u1014\u101e\u101d) \u101e\u102c\u101d\u1010\u1073\u102d (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-34.pdf"}, {"title": "(\u1014\u1021\u101c) \u1031\u1021\u101c\u102c (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-33.pdf"}, {"title": "(\u1014\u101c\u101e) \u101e\u1005\u1039\u1015\u102f\u1010\u1039\u1015\u1004\u1039 (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-32.pdf"}, {"title": "(\u1014\u101c\u1014) \u1021\u1011\u1000(\u1044)\u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-31.pdf"}, {"title": "(\u1014\u101c\u1015) \u101e\u1031\u103b\u1015\u1015\u1004\u1039 (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-30.pdf"}, {"title": "(\u1014\u101c\u1001) \u1000\u1036\u101e\u102c (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-29.pdf"}, {"title": "(\u1014\u101c\u1000) \u101e\u1032\u1031\u1000\u102c\u1080\u1000\u102e\u1038 (\u101c\u101a\u1039\u1031\u101d\u1038)", "src": "2018exam/src/naypyitaw/NPT-28.pdf"}, {"title": "(\u1014\u101c\u101d) \u101c\u101a\u1039\u1031\u101d\u1038", "src": "2018exam/src/naypyitaw/NPT-27.pdf"}, {"title": "(\u1014\u1025\u1014)\u1021\u1011\u1000(\u1041\u1042) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 (\u1025\u1010\u1071\u101b\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-3.pdf"}, {"title": "(\u1014\u1025\u1019)\u1019\u1004\u1039\u1038\u1000\u102f\u1014\u1039\u1038 (\u1025\u1010\u1071\u101b\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-2.pdf"}, {"title": "(\u1014\u1025\u1010)\u1031\u1010\u102c\u1004\u1039\u100a\u102d\u102f (\u1025\u1010\u1071\u101b\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-1.pdf"}, {"title": "(\u1014\u101b\u1006)\u1031\u101b\u1006\u1004\u1039\u1038 (\u1031\u1007\u101a\u103a\u102c\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-7.pdf"}, {"title": "(\u1014\u1007\u1014)\u1021\u1011\u1000(\u1041\u1046) \u1031\u1014\u103b\u1015\u100a\u1039\u1031\u1010\u102c\u1039 (\u1031\u1007\u101a\u103a\u102c\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-6.pdf"}, {"title": "(\u1014\u1007\u1021)\u103b\u1015\u100a\u1039\u1005\u1036\u1031\u1021\u102c\u1004\u1039 (\u1031\u1007\u101a\u103a\u102c\u101e\u102e\u101b\u102d)", "src": "2018exam/src/naypyitaw/NPT-5.pdf"}, {"title": "(\u1014\u1007\u101a)\u1031\u1007\u101a\u103a\u102c\u101e\u102e\u101b\u102d", "src": "2018exam/src/naypyitaw/NPT-4.pdf"}],
-"ဧရာဝတီတိုင်းဒေသကြီး ":[{"title": "\u1000\u1014\u1039\u103b\u1000\u102e\u1038\u1031\u1011\u102c\u1004\u1039\u1037", "src": "2018exam/src/ayerwaddy/AYA-56.pdf"}, {"title": "\u1000\u103a\u102d\u1033\u1000\u1039\u101c\u1010\u1039", "src": "2018exam/src/ayerwaddy/AYA-134.pdf"}, {"title": "\u1000\u103a\u1036\u1033\u1031\u1015\u103a\u102c\u1039", "src": "2018exam/src/ayerwaddy/AYA-31.pdf"}, {"title": "\u1004\u1015\u102f\u1031\u1010\u102c", "src": "2018exam/src/ayerwaddy/AYA-20.pdf"}, {"title": "\u1007\u101c\u103c\u1014\u1039", "src": "2018exam/src/ayerwaddy/AYA-172.pdf"}, {"title": "\u1013\u1014\u102f\u103b\u1016\u1034", "src": "2018exam/src/ayerwaddy/AYA-90.pdf"}, {"title": "\u1015\u1014\u1039\u1038\u1010\u1031\u1014\u102c\u1039", "src": "2018exam/src/ayerwaddy/AYA-80.pdf"}, {"title": "\u1015\u102f\u101e\u102d\u1019\u1039", "src": "2018exam/src/ayerwaddy/AYA-1.pdf"}, {"title": "\u1016\u103a\u102c\u1015\u1036\u102f", "src": "2018exam/src/ayerwaddy/AYA-112.pdf"}, {"title": "\u107e\u1000\u1036\u1001\u1004\u1039\u1038", "src": "2018exam/src/ayerwaddy/AYA-169.pdf"}, {"title": "\u1018\u102d\u102f\u1000\u1031\u101c\u1038", "src": "2018exam/src/ayerwaddy/AYA-128.pdf"}, {"title": "\u1019\u1021\u1030\u1015\u1004\u1039", "src": "2018exam/src/ayerwaddy/AYA-65.pdf"}, {"title": "\u103b\u1019\u1014\u1039\u1031\u1021\u102c\u1004\u1039", "src": "2018exam/src/ayerwaddy/AYA-194.pdf"}, {"title": "\u101c\u1015\u103c\u1010\u1071\u102c", "src": "2018exam/src/ayerwaddy/AYA-97.pdf"}, {"title": "\u101d\u102b\u1038\u1001\u101a\u1039\u1019", "src": "2018exam/src/ayerwaddy/AYA-147.pdf"}, {"title": "\u101e\u102c\u1031\u1015\u102b\u1004\u1039\u1038", "src": "2018exam/src/ayerwaddy/AYA-51.pdf"}, {"title": "\u101f\u101e\u1064\u102c\u1010", "src": "2018exam/src/ayerwaddy/AYA-160.pdf"}, {"title": "\u1021\u1002\u1064\u1015\u1030", "src": "2018exam/src/ayerwaddy/AYA-187.pdf"}, {"title": "\u1021\u102d\u1019\u1039\u1019\u1032", "src": "2018exam/src/ayerwaddy/AYA-153.pdf"}, {"title": "\u1031\u100a\u102c\u1004\u1039\u1010\u102f\u1014\u1039\u1038", "src": "2018exam/src/ayerwaddy/AYA-74.pdf"}, {"title": "\u1031\u103b\u1019\u102c\u1004\u1039\u1038\u103b\u1019", "src": "2018exam/src/ayerwaddy/AYA-139.pdf"}, {"title": "\u1031\u101b\u103b\u1000\u100a\u1039", "src": "2018exam/src/ayerwaddy/AYA-42.pdf"}, {"title": "\u1031\u101c\u1038\u1019\u103a\u1000\u1039\u1014\u103d\u102c", "src": "2018exam/src/ayerwaddy/AYA-181.pdf"}],
-"စစ်ကိုင်းတိုင်းဒေသကြီး":[{"title": "(\u1005\u101c\u1010) \u101c\u103d\u1031\u1010\u102c (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/62.pdf"}, {"title": "(\u1005\u101b\u1019) \u101b\u103d\u102d\u1019\u107c\u1000\u102c\u1038 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/61.pdf"}, {"title": "(\u1005\u100d\u101b)  \u1090\u103c\u102c\u101e\u102c\u1080\u1000\u102e\u1038 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/60.pdf"}, {"title": "(\u1005\u100d\u1015) \u1031\u1090\u108a\u1015\u1014\u1039\u1038\u1000\u102f\u1036\u1038 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/59.pdf"}, {"title": "(\u1005\u100d\u1000) \u1031\u1015\u102b\u1000\u1039\u1000\u1014\u1039 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/file_1-kzTdqwoRNjFixcZwDCNpaSMi9-R4vF0.bin"}, {"title": "(\u1005\u100d) \u101d\u1000\u1039\u101c\u1000\u1039", "src": "2018exam/src/sagaing/57.pdf"}, {"title": "(\u1005\u1002\u1010) \u1002\u103a\u102d\u1033\u1038\u1031\u1010\u102c\u1004\u1039 (\u101d\u1014\u1039\u1038\u101e\u102d\u102f)", "src": "2018exam/src/sagaing/108.pdf"}, {"title": "(\u1005\u1012) \u101d\u1014\u1039\u1038\u101e\u102d\u102f", "src": "2018exam/src/sagaing/107.pdf"}, {"title": "(\u1005\u1019\u1014) \u101d\u1004\u1039\u1019\u1014\u102c\u1038 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/90.pdf"}, {"title": "(\u1005\u1002\u1014) \u1014\u1010\u1039\u1080\u1000\u102e\u1038 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/88.pdf"}, {"title": "(\u1005\u1001\u1014) \u1001\u103a\u102d\u1033\u1004\u1039 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/87.pdf"}, {"title": "(\u1005\u1000\u101b) \u1000\u1004\u1039\u1038 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/86.pdf"}, {"title": "(\u1005\u1002) \u1000\u1014\u102e", "src": "2018exam/src/sagaing/85.pdf"}, {"title": "(\u1005\u1003\u1019) \u1019\u101c\u101a\u1039 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/43.pdf"}, {"title": "(\u1005\u1003\u1018) \u1000\u102c\u1018\u102d\u102f\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/42.pdf"}, {"title": "(\u1005\u1003\u1011) \u1011\u1014\u1039\u1038\u1000\u102f\u1014\u1039\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/41.pdf"}, {"title": "(\u1005\u1003\u1000) \u1000\u102d\u102f\u1038\u1031\u1011\u102c\u1004\u1039\u1018\u102d\u102f\u1094 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/40.pdf"}, {"title": "(\u1005\u1001\u101e) \u1001\u103a\u1015\u1039\u101e\u1004\u1039\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/39.pdf"}, {"title": "(\u1005\u1027) \u1007\u102e\u1038\u1000\u102f\u1014\u1039\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/38.pdf"}, {"title": "(\u1005\u1008\u101b) \u1090\u103c\u102c\u1000\u102f\u1014\u1039\u1038\u1080\u1000\u102e\u1038 (\u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d)", "src": "2018exam/src/sagaing/50.pdf"}, {"title": "(\u1005\u1008\u100a) \u1031\u100a\u102c\u1004\u1039\u1000\u102d\u102f\u1004\u1039\u1038 (\u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d)", "src": "2018exam/src/sagaing/49.pdf"}, {"title": "(\u1005\u1008\u101e) \u101e\u1005\u1039\u101b\u102c\u107f\u1019\u102d\u1033\u1004\u1039 (\u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d)", "src": "2018exam/src/sagaing/48.pdf"}, {"title": "(\u1005\u1008) \u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d", "src": "2018exam/src/sagaing/47.pdf"}, {"title": "\u1000\u101e\u102c", "src": "2018exam/src/sagaing/101.pdf"}, {"title": "(\u1005\u101e\u1000)\u1031\u1000\u103a\u102c\u1000\u1039\u1011\u102f\u1036\u1038\u1080\u1000\u102e\u1038 (\u1000\u101e\u102c)", "src": "2018exam/src/sagaing/file_1Cbw4Xs7DnKeRCoALfcPj8crmz3HE1yaZ.bin"}, {"title": "(\u1005\u1019\u1010)\u1019\u102d\u102f\u1038\u1010\u102c\u1038 (\u1000\u101e\u102c)", "src": "2018exam/src/sagaing/99.pdf"}, {"title": "(\u1005\u1021\u1000) \u1021\u1004\u1039\u1012\u102d\u102f\u1004\u1039\u1038\u1080\u1000\u102e\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/21.pdf"}, {"title": "(\u1005\u1000\u101e) \u1010\u1004\u1039\u101e\u102c\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/20.pdf"}, {"title": "(\u1005\u1000\u101c) \u101c\u1000\u1039\u1015\u1036\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/19.pdf"}, {"title": "(\u1005\u1000\u1001) \u1014\u1010\u1039\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/18.pdf"}, {"title": "(\u1005\u1000\u1000) \u1031\u1000\u103a\u102c\u1039\u1090\u103c\u102c (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/17.pdf"}, {"title": "(\u1005\u1000) \u1000\u1031\u101c\u1038", "src": "2018exam/src/sagaing/16.pdf"}, {"title": "(\u1005\u1003) \u1000\u1014\u1094\u1039\u1018\u101c\u1030", "src": "2018exam/src/sagaing/37.pdf"}, {"title": "(\u1005\u101d) \u1019\u1005\u102d\u1014\u1039 (\u1000\u1031\u101c\u1038\u101d)", "src": "2018exam/src/sagaing/31.pdf"}, {"title": "(\u1005\u101d) \u1000\u1031\u101c\u1038\u101d", "src": "2018exam/src/sagaing/30.pdf"}, {"title": "(\u1005\u1019\u1012) \u103b\u1019\u1004\u1039\u1038\u1031\u1012\u102b\u1004\u1039\u1038 (\u1001\u1004\u1039\u1026\u1038)", "src": "2018exam/src/sagaing/64.pdf"}, {"title": "(\u1005\u1025) \u1001\u1004\u1039\u1026\u1038", "src": "2018exam/src/sagaing/63.pdf"}, {"title": "(\u1005\u1001) \u1001\u108f\u1072\u102e\u1038", "src": "2018exam/src/sagaing/128.pdf"}, {"title": "(\u1005\u1021\u1010) \u1021\u102f\u1014\u1039\u1038\u1031\u1010\u102c (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/9.pdf"}, {"title": "(\u1005\u101b\u1000) \u1090\u103c\u102c\u101e\u1005\u1039\u1080\u1000\u102e\u1038 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/8.pdf"}, {"title": "(\u1005\u1005\u101d) \u1031\u1090\u108a\u1019\u1004\u1039\u1038\u101d\u1036 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/7.pdf"}, {"title": "(\u1005\u1005\u1019) \u1019\u1004\u1039\u1038\u1000\u103c\u1014\u1039\u1038 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/6.pdf"}, {"title": "(\u1005\u1005\u1010) \u1006\u102c\u1038\u1031\u1010\u102c\u1004\u1039 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/5.pdf"}, {"title": "(\u1005\u1005\u100a) \u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u101d\u1014\u1039\u1038 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/4.pdf"}, {"title": "(\u1005\u1005\u101b) \u1011(\u1001\u103c\u1032)\u101b\u1014\u1039\u108f\u102d\u102f\u1004\u1039 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/3.pdf"}, {"title": "(\u1005\u1005\u1000) \u1011(\u1043)\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038", "src": "2018exam/src/sagaing/2.pdf"}, {"title": "(\u1005\u1005) \u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038", "src": "2018exam/src/sagaing/1.pdf"}, {"title": "\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038", "src": "2018exam/src/sagaing/102.pdf"}, {"title": "(\u1005\u100f\u1015)\u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u1080\u1000\u102e\u1038 (\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/sagaing/98.pdf"}, {"title": "\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u107e\u1000\u102e\u1038", "src": "2018exam/src/sagaing/97.pdf"}, {"title": "(\u1005\u1000\u1014)\u1031\u107e\u1000\u1038\u1014\u102e (\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/sagaing/96.pdf"}, {"title": "(\u1005\u1000\u1010)\u1000\u103a\u102c\u1038\u1010\u1000\u1039 (\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/sagaing/95.pdf"}, {"title": "(\u1005\u1014\u1000) \u1014\u1018\u1000\u1039\u1080\u1000\u102e\u1038 (\u1010\u1014\u1094\u1039\u1006\u100a\u1039)", "src": "2018exam/src/sagaing/56.pdf"}, {"title": "(\u1005\u1000\u1011) \u1000\u1036\u1011\u1030\u1038\u1019 (\u1010\u1014\u1094\u1039\u1006\u100a\u1039)", "src": "2018exam/src/sagaing/55.pdf"}, {"title": "(\u1005\u100c) \u1010\u1014\u1094\u1039\u1006\u100a\u1039", "src": "2018exam/src/sagaing/54.pdf"}, {"title": "(\u1005\u1013\u101e) \u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1010\u1019\u1030\u1038)", "src": "2018exam/src/sagaing/29.pdf"}, {"title": "(\u1005\u1001\u1015) \u1001\u1019\u1039\u1038\u1015\u1010\u1039 (\u1010\u1019\u1030\u1038)", "src": "2018exam/src/sagaing/28.pdf"}, {"title": "(\u1005\u1013) \u1010\u1019\u1030\u1038", "src": "2018exam/src/sagaing/27.pdf"}, {"title": "(\u1005\u1011\u1021) \u1021\u101c\u101a\u1039\u1031\u1010\u102c (\u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039)", "src": "2018exam/src/sagaing/106.pdf"}, {"title": "(\u1005\u1011\u1019) \u103b\u1019\u1031\u1010\u102c\u1004\u1039 (\u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039)", "src": "2018exam/src/sagaing/105.pdf"}, {"title": "(\u1005\u1011\u1014) \u1000\u1019\u1039\u1038\u1014\u102e (\u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039)", "src": "2018exam/src/sagaing/104.pdf"}, {"title": "(\u1005\u1011) \u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039", "src": "2018exam/src/sagaing/103.pdf"}, {"title": "(\u1005\u1014\u1006) \u1015\u1014\u1039\u1031\u1006\u102c\u1004\u1039 (\u1014\u1014\u1039\u1038\u101a\u103c\u1014\u1039\u1038)", "src": "2018exam/src/sagaing/141.pdf"}, {"title": "(\u1005\u1014\u101a) \u1014\u1014\u1039\u1038\u101a\u103c\u1014\u1039\u1038", "src": "2018exam/src/sagaing/140.pdf"}, {"title": "(\u1005\u1020\u1019) \u1031\u103b\u1019\u101c\u1004\u1039\u1038 (\u1015\u1004\u1039\u101c\u100a\u1039\u1018\u1030\u1038)", "src": "2018exam/src/sagaing/115.pdf"}, {"title": "(\u1005\u1020) \u1019\u102d\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1021\u1004\u1039\u1038 (\u1015\u1004\u1039\u101c\u100a\u1039\u1018\u1030\u1038)", "src": "2018exam/src/sagaing/113.pdf"}, {"title": "(\u1005\u1020) \u1015\u1004\u1039\u101c\u100a\u1039\u1018\u1030\u1038", "src": "2018exam/src/sagaing/112.pdf"}, {"title": "(\u1005\u100e) \u1015\u102f\u101c\u1032", "src": "2018exam/src/sagaing/91.pdf"}, {"title": "\u1015\u102f\u101c\u1032", "src": "2018exam/src/sagaing/94.pdf"}, {"title": "(\u1005\u1015\u101c)\u1019\u1004\u1039\u1038\u1010\u102d\u102f\u1004\u1039\u1015\u1004\u1039 (\u1015\u102f\u101c\u1032)", "src": "2018exam/src/sagaing/93.pdf"}, {"title": "(\u1005\u100e\u1010)\u1031\u1010\u102c\u1004\u1039\u1015\u102d\u1031\u1010\u102c\u1000\u1039\u1000\u102f\u1014\u1039\u1038 (\u1015\u102f\u101c\u1032)", "src": "2018exam/src/sagaing/92.pdf"}, {"title": "(\u1005\u1017\u1005) \u1019\u1036\u1005\u102e (\u1017\u1014\u1039\u1038\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/sagaing/120.pdf"}, {"title": "(\u1005\u1017\u1019)  \u1017\u1014\u1039\u1038\u1031\u1019\u102c\u1000\u1039", "src": "2018exam/src/sagaing/119.pdf"}, {"title": "(\u1005\u1015\u101e) \u101e\u1001\u103c\u1010\u1071\u1014\u101a\u1039 (\u1018\u102f\u1010\u101c\u1004\u1039)", "src": "2018exam/src/sagaing/76.pdf"}, {"title": "(\u1005\u1015\u1011) \u1031\u1019\u102c\u1004\u1039\u1038\u1031\u1011\u102c\u1004\u1039 (\u1018\u102f\u1010\u101c\u1004\u1039)", "src": "2018exam/src/sagaing/75.pdf"}, {"title": "(\u1005\u1015\u100a) \u1031\u100a\u102c\u1004\u1039\u1000\u1014\u1039 (\u1018\u102f\u1010\u101c\u1004\u1039)", "src": "2018exam/src/sagaing/74.pdf"}, {"title": "(\u1005\u1015) \u1018\u102f\u1010\u101c\u1004\u1039", "src": "2018exam/src/sagaing/73.pdf"}, {"title": "(\u1005\u1015\u1006) \u1015\u1014\u1039\u1038\u1006\u1000\u1039 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/26.pdf"}, {"title": "(\u1005\u100a\u101e) \u1015\u1031\u101e\u1038 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/24.pdf"}, {"title": "(\u1005\u100a\u101c) \u1015\u103c\u1004\u1037\u1039\u101c\u103a\u1000\u1039 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/24.pdf"}, {"title": "(\u1005\u1000\u1015) \u107e\u1000\u102c\u1015\u1004\u1039 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/23.pdf"}, {"title": "(\u1005\u100a) \u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038", "src": "2018exam/src/sagaing/22.pdf"}, {"title": "(\u1005\u1021\u101c) \u1021\u101c\u102f\u1036 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/69.pdf"}, {"title": "(\u1005\u101b\u101b) \u1031\u1000\u103a\u102c\u1000\u1060\u102c (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/68.pdf"}, {"title": "(\u1005\u101b\u100a) \u1031\u100a\u102c\u1004\u1039\u103b\u1016\u1034\u1015\u1004\u1039 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/67.pdf"}, {"title": "(\u1005\u101b\u100a) \u1031\u100a\u102c\u1004\u1039\u103b\u1016\u1034\u1015\u1004\u1039 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/67.pdf"}, {"title": "(\u1005\u1019\u101b) \u1019\u102f\u1036\u1031\u1090\u103c\u1038\u1031\u107e\u1000\u1038\u1019\u102f\u1036 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/66.pdf"}, {"title": "(\u1005\u101b) \u1019\u102f\u1036\u1090\u103c\u102c", "src": "2018exam/src/sagaing/65.pdf"}, {"title": "(\u1005\u101b\u1015) \u101b\u1004\u1039\u1031\u1015\u102b\u1004\u1039\u1010\u102d\u102f\u1004\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/84.pdf"}, {"title": "(\u1005\u101a\u1011) \u1011\u1014\u1039\u1038\u1031\u1010\u102c\u1080\u1000\u102e\u1038 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/83.pdf"}, {"title": "(\u1005\u101a\u1006) \u1006\u1004\u1039\u1005\u103c\u101a\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/82.pdf"}, {"title": "(\u1005\u1000\u1019) \u1005\u102f\u1014\u1039\u1038\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u104a \u1031\u1000\u103a\u102c\u1000\u1039\u1031\u1019\u103d\u102c\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/81.pdf"}, {"title": "(\u1005\u1000\u1019) \u1031\u1000\u103a\u102c\u1000\u1039\u1031\u1019\u103d\u102c\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/80.pdf"}, {"title": "(\u1005\u101a) \u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039", "src": "2018exam/src/sagaing/79.pdf"}, {"title": "(\u1005\u1006\u101c) \u1021\u101c\u1085\u1000\u1015\u1078 (\u103b\u1019\u1004\u1039\u1038\u1019\u1030)", "src": "2018exam/src/sagaing/11.pdf"}, {"title": "(\u1005\u1006) \u103b\u1019\u1004\u1039\u1038\u1019\u1030", "src": "2018exam/src/sagaing/10.pdf"}, {"title": "(\u1005\u101c\u101f) \u101c\u101f\u101a\u1039", "src": "2018exam/src/sagaing/139.pdf"}, {"title": "(\u1005\u101c\u101b) \u1031\u101c\u101b\u103d\u102e\u1038", "src": "2018exam/src/sagaing/137.pdf"}, {"title": "(\u1005\u101f\u101e) \u1031\u101e\u102c\u1004\u1039\u101e\u103c\u1015\u1039 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/136.pdf"}, {"title": "(\u1005\u101f\u101b) \u1031\u1090\u108a\u103b\u1015\u100a\u1039\u1031\u1021\u1038 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/135.pdf"}, {"title": "(\u1005\u101f\u1019) \u1031\u1019\u102c\u1004\u1039\u1038\u1001\u1019\u1039\u1038 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/134.pdf"}, {"title": "(\u1005\u101f\u1014) \u1014\u1019\u1037\u1039\u1031\u1010\u102c (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/133.pdf"}, {"title": "(\u1005\u101f\u1011) \u1011\u1019\u1036\u101e\u102e (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/132.pdf"}, {"title": "(\u1005\u101f\u1000) \u1000\u1000\u1039\u101e\u102c (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/131.pdf"}, {"title": "(\u1005\u1014\u1015) \u1031\u1014\u102c\u1004\u1039\u1015\u102d\u102f\u1031\u1021\u102c\u1004\u1039 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/130.pdf"}, {"title": "(\u1005\u101f) \u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038", "src": "2018exam/src/sagaing/129.pdf"}, {"title": "(\u1005\u1021\u1007) \u1019\u1032\u1007\u102c (\u1021\u1004\u1039\u1038\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/118.pdf"}, {"title": "(\u1005\u1019\u101c) \u1031\u1019\u102c\u1039\u101c\u1030\u1038 (\u1021\u1004\u1039\u1038\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/117.pdf"}, {"title": "(\u1005\u1021) \u1021\u1004\u1039\u1038\u1031\u1010\u102c\u1039", "src": "2018exam/src/sagaing/116.pdf"}, {"title": "(\u1005\u1010\u101e) \u101e\u101c\u1032\u1018\u102c (\u1021\u101b\u102c\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/71.pdf"}, {"title": "(\u1005\u1010) \u1021\u101b\u102c\u1031\u1010\u102c\u1039", "src": "2018exam/src/sagaing/70.pdf"}, {"title": "(\u1005\u1014\u1025) \u1025\u1000\u1060\u1036 (\u1031\u1000\u102c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/111.pdf"}, {"title": "(\u1005\u1014\u1001) \u1001\u1036\u101e\u102c (\u1031\u1000\u102c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/110.pdf"}, {"title": "(\u1005\u1014) \u1031\u1000\u102c\u101c\u1004\u1039\u1038", "src": "2018exam/src/sagaing/109.pdf"}, {"title": "(\u1005\u1021\u1019) \u1021\u103b\u1019\u1004\u1037\u1039 (\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1026\u1038)", "src": "2018exam/src/sagaing/78.pdf"}, {"title": "(\u1005\u1017) \u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1026\u1038", "src": "2018exam/src/sagaing/77.pdf"}, {"title": "(\u1005\u1019\u101a) \u1019\u1004\u1039\u1038\u101a\u102c\u1038 (\u1031\u1016\u102c\u1004\u1039\u1038\u103b\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/127.pdf"}, {"title": "(\u1005\u1016\u1021) \u1031\u101b\u1031\u1021\u102c\u1000\u1039\u1031\u1010\u102c\u1004\u1039\u1038 (\u1031\u1016\u102c\u1004\u1039\u1038\u103b\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/127.pdf"}, {"title": "(\u1005\u1016\u101b) \u101e\u1031\u101b\u102c\u1004\u1039\u1038 (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/125.pdf"}, {"title": "(\u1005\u1016\u101b) \u101e\u1031\u101b\u102c\u1004\u1039\u1038 (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/124.pdf"}, {"title": "(\u1005\u1016) \u1031\u1016\u102c\u1004\u1039\u1038\u103b\u1015\u1004\u1039", "src": "2018exam/src/sagaing/123.pdf"}, {"title": "(\u1005\u1014\u1021) \u1031\u1014\u102c\u1004\u1039\u1080\u1000\u102e\u1038\u1021\u102d\u102f\u1004\u1039 (\u1021\u101b\u102c\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/72.pdf"}, {"title": "(\u1005\u1004\u1015) \u1015\u1014\u1039\u1038\u101e\u102c (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/122.pdf"}, {"title": "(\u1005\u1004\u1010) \u1000\u1004\u1039\u1038\u1010\u1015\u1039 (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/121.pdf"}, {"title": "(\u1005\u1004\u101c) \u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039", "src": "2018exam/src/sagaing/121.pdf"}, {"title": "(\u1005\u1019\u1000) \u1031\u1000\u103a\u102c\u1000\u1039\u101b\u1005\u1039 (\u1031\u103b\u1019\u102c\u1004\u1039)", "src": "2018exam/src/sagaing/15.pdf"}, {"title": "(\u1005\u1015\u1019) \u1015\u101b\u102d\u1019\u107c (\u1031\u103b\u1019\u102c\u1004\u1039)", "src": "2018exam/src/sagaing/14.pdf"}, {"title": "(\u1005\u1014\u1018) \u1014\u1018\u1000\u1039 (\u1031\u103b\u1019\u102c\u1004\u1039)", "src": "2018exam/src/sagaing/13.pdf"}, {"title": "(\u1005\u1019) \u1031\u103b\u1019\u102c\u1004\u1039", "src": "2018exam/src/sagaing/12.pdf"}, {"title": "(\u1005\u1011\u1017) \u1011\u1014\u1039\u1038\u1031\u1010\u102c\u1031\u1017\u102c\u1013\u102d (\u1031\u101b\u1026\u1038)", "src": "2018exam/src/sagaing/45.pdf"}, {"title": "(\u1005\u1007\u1019) \u1019\u102f\u1036\u1010\u102d\u102f\u1004\u1039\u1015\u1004\u1039 (\u1031\u101b\u1026\u1038)", "src": "2018exam/src/sagaing/45.pdf"}, {"title": "(\u1005\u1007) \u1031\u101b\u1026\u1038", "src": "2018exam/src/sagaing/44.pdf"}, {"title": "(\u1005\u1018\u100a) \u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u101e\u102c (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/36.pdf"}, {"title": "(\u1005\u1018\u1006) \u1006\u102d\u1015\u1039\u1001\u103c\u1014\u1039 (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/35.pdf"}, {"title": "(\u1005\u1018\u1000) \u1031\u1000\u103a\u102c\u1000\u1039\u1031\u103b\u1019\u102c\u1004\u1039\u1038 (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/34.pdf"}, {"title": "(\u1005\u1006\u1021) \u1006\u1004\u1039\u1021\u1004\u1039\u1038 (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/33.pdf"}, {"title": "(\u1005\u1018) \u1031\u1090\u108a\u1018\u102d\u102f", "src": "2018exam/src/sagaing/32.pdf"}, {"title": "(\u1005\u101c\u1019) \u1006\u103c\u1019\u107c\u101b\u102c (\u1031\u101c\u101b\u103d\u102e\u1038)", "src": "2018exam/src/sagaing/138.pdf"}, {"title": "(\u1005\u101c\u1010) \u101c\u103d\u1031\u1010\u102c (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/62.pdf"}, {"title": "(\u1005\u101b\u1019) \u101b\u103d\u102d\u1019\u107c\u1000\u102c\u1038 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/61.pdf"}, {"title": "(\u1005\u100d\u101b)  \u1090\u103c\u102c\u101e\u102c\u1080\u1000\u102e\u1038 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/60.pdf"}, {"title": "(\u1005\u100d\u1015) \u1031\u1090\u108a\u1015\u1014\u1039\u1038\u1000\u102f\u1036\u1038 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/59.pdf"}, {"title": "(\u1005\u100d\u1000) \u1031\u1015\u102b\u1000\u1039\u1000\u1014\u1039 (\u101d\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/sagaing/58.pdf"}, {"title": "(\u1005\u100d) \u101d\u1000\u1039\u101c\u1000\u1039", "src": "2018exam/src/sagaing/57.pdf"}, {"title": "(\u1005\u1002\u1010) \u1002\u103a\u102d\u1033\u1038\u1031\u1010\u102c\u1004\u1039 (\u101d\u1014\u1039\u1038\u101e\u102d\u102f)", "src": "2018exam/src/sagaing/108.pdf"}, {"title": "(\u1005\u1012) \u101d\u1014\u1039\u1038\u101e\u102d\u102f", "src": "2018exam/src/sagaing/107.pdf"}, {"title": "(\u1005\u1019\u1014) \u101d\u1004\u1039\u1019\u1014\u102c\u1038 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/90.pdf"}, {"title": "(\u1005\u1002\u1014) \u1014\u1010\u1039\u1080\u1000\u102e\u1038 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/88.pdf"}, {"title": "(\u1005\u1001\u1014) \u1001\u103a\u102d\u1033\u1004\u1039 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/87.pdf"}, {"title": "(\u1005\u1000\u101b) \u1000\u1004\u1039\u1038 (\u1000\u1014\u102e)", "src": "2018exam/src/sagaing/86.pdf"}, {"title": "(\u1005\u1002) \u1000\u1014\u102e", "src": "2018exam/src/sagaing/85.pdf"}, {"title": "(\u1005\u1003\u1019) \u1019\u101c\u101a\u1039 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/43.pdf"}, {"title": "(\u1005\u1003\u1018) \u1000\u102c\u1018\u102d\u102f\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/42.pdf"}, {"title": "(\u1005\u1003\u1011) \u1011\u1014\u1039\u1038\u1000\u102f\u1014\u1039\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/41.pdf"}, {"title": "(\u1005\u1003\u1000) \u1000\u102d\u102f\u1038\u1031\u1011\u102c\u1004\u1039\u1018\u102d\u102f\u1094 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/40.pdf"}, {"title": "(\u1005\u1001\u101e) \u1001\u103a\u1015\u1039\u101e\u1004\u1039\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/39.pdf"}, {"title": "(\u1005\u1027) \u1007\u102e\u1038\u1000\u102f\u1014\u1039\u1038 (\u1000\u1014\u1094\u1039\u1018\u101c\u1030)", "src": "2018exam/src/sagaing/38.pdf"}, {"title": "(\u1005\u1008\u101b) \u1090\u103c\u102c\u1000\u102f\u1014\u1039\u1038\u1080\u1000\u102e\u1038 (\u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d)", "src": "2018exam/src/sagaing/50.pdf"}, {"title": "(\u1005\u1008\u100a) \u1031\u100a\u102c\u1004\u1039\u1000\u102d\u102f\u1004\u1039\u1038 (\u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d)", "src": "2018exam/src/sagaing/49.pdf"}, {"title": "(\u1005\u1008\u101e) \u101e\u1005\u1039\u101b\u102c\u107f\u1019\u102d\u1033\u1004\u1039 (\u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d)", "src": "2018exam/src/sagaing/48.pdf"}, {"title": "(\u1005\u1008) \u1000\u103c\u107d\u1014\u1039\u1038\u101c\u103d", "src": "2018exam/src/sagaing/47.pdf"}, {"title": "\u1000\u101e\u102c", "src": "2018exam/src/sagaing/101.pdf"}, {"title": "(\u1005\u101e\u1000)\u1031\u1000\u103a\u102c\u1000\u1039\u1011\u102f\u1036\u1038\u1080\u1000\u102e\u1038 (\u1000\u101e\u102c)", "src": "2018exam/src/sagaing/100.pdf"}, {"title": "(\u1005\u1019\u1010)\u1019\u102d\u102f\u1038\u1010\u102c\u1038 (\u1000\u101e\u102c)", "src": "2018exam/src/sagaing/99.pdf"}, {"title": "(\u1005\u1021\u1000) \u1021\u1004\u1039\u1012\u102d\u102f\u1004\u1039\u1038\u1080\u1000\u102e\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/21.pdf"}, {"title": "(\u1005\u1000\u101e) \u1010\u1004\u1039\u101e\u102c\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/20.pdf"}, {"title": "(\u1005\u1000\u101c) \u101c\u1000\u1039\u1015\u1036\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/19.pdf"}, {"title": "(\u1005\u1000\u1001) \u1014\u1010\u1039\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/18.pdf"}, {"title": "(\u1005\u1000\u1000) \u1031\u1000\u103a\u102c\u1039\u1090\u103c\u102c (\u1000\u1031\u101c\u1038)", "src": "2018exam/src/sagaing/17.pdf"}, {"title": "(\u1005\u1000) \u1000\u1031\u101c\u1038", "src": "2018exam/src/sagaing/16.pdf"}, {"title": "(\u1005\u1003) \u1000\u1014\u1094\u1039\u1018\u101c\u1030", "src": "2018exam/src/sagaing/37.pdf"}, {"title": "(\u1005\u101d) \u1019\u1005\u102d\u1014\u1039 (\u1000\u1031\u101c\u1038\u101d)", "src": "2018exam/src/sagaing/31.pdf"}, {"title": "(\u1005\u101d) \u1000\u1031\u101c\u1038\u101d", "src": "2018exam/src/sagaing/30.pdf"}, {"title": "(\u1005\u1019\u1012) \u103b\u1019\u1004\u1039\u1038\u1031\u1012\u102b\u1004\u1039\u1038 (\u1001\u1004\u1039\u1026\u1038)", "src": "2018exam/src/sagaing/64.pdf"}, {"title": "(\u1005\u1025) \u1001\u1004\u1039\u1026\u1038", "src": "2018exam/src/sagaing/63.pdf"}, {"title": "(\u1005\u1001) \u1001\u108f\u1072\u102e\u1038", "src": "2018exam/src/sagaing/128.pdf"}, {"title": "(\u1005\u1021\u1010) \u1021\u102f\u1014\u1039\u1038\u1031\u1010\u102c (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/9.pdf"}, {"title": "(\u1005\u101b\u1000) \u1090\u103c\u102c\u101e\u1005\u1039\u1080\u1000\u102e\u1038 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/8.pdf"}, {"title": "(\u1005\u1005\u101d) \u1031\u1090\u108a\u1019\u1004\u1039\u1038\u101d\u1036 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/7.pdf"}, {"title": "(\u1005\u1005\u1019) \u1019\u1004\u1039\u1038\u1000\u103c\u1014\u1039\u1038 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/6.pdf"}, {"title": "(\u1005\u1005\u1010) \u1006\u102c\u1038\u1031\u1010\u102c\u1004\u1039 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/5.pdf"}, {"title": "(\u1005\u1005\u100a) \u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u101d\u1014\u1039\u1038 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/4.pdf"}, {"title": "(\u1005\u1005\u101b) \u1011(\u1001\u103c\u1032)\u101b\u1014\u1039\u108f\u102d\u102f\u1004\u1039 (\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/3.pdf"}, {"title": "(\u1005\u1005\u1000) \u1011(\u1043)\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038", "src": "2018exam/src/sagaing/2.pdf"}, {"title": "(\u1005\u1005) \u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038", "src": "2018exam/src/sagaing/1.pdf"}, {"title": "\u1005\u1005\u1039\u1000\u102d\u102f\u1004\u1039\u1038", "src": "2018exam/src/sagaing/102.pdf"}, {"title": "(\u1005\u100f\u1015)\u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u1080\u1000\u102e\u1038 (\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/sagaing/98.pdf"}, {"title": "\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u107e\u1000\u102e\u1038", "src": "2018exam/src/sagaing/97.pdf"}, {"title": "(\u1005\u1000\u1014)\u1031\u107e\u1000\u1038\u1014\u102e (\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/sagaing/96.pdf"}, {"title": "(\u1005\u1000\u1010)\u1000\u103a\u102c\u1038\u1010\u1000\u1039 (\u1006\u102c\u1038\u101c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/sagaing/95.pdf"}, {"title": "(\u1005\u1014\u1000) \u1014\u1018\u1000\u1039\u1080\u1000\u102e\u1038 (\u1010\u1014\u1094\u1039\u1006\u100a\u1039)", "src": "2018exam/src/sagaing/56.pdf"}, {"title": "(\u1005\u1000\u1011) \u1000\u1036\u1011\u1030\u1038\u1019 (\u1010\u1014\u1094\u1039\u1006\u100a\u1039)", "src": "2018exam/src/sagaing/55.pdf"}, {"title": "(\u1005\u100c) \u1010\u1014\u1094\u1039\u1006\u100a\u1039", "src": "2018exam/src/sagaing/54.pdf"}, {"title": "(\u1005\u1013\u101e) \u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1010\u1019\u1030\u1038)", "src": "2018exam/src/sagaing/29.pdf"}, {"title": "(\u1005\u1001\u1015) \u1001\u1019\u1039\u1038\u1015\u1010\u1039 (\u1010\u1019\u1030\u1038)", "src": "2018exam/src/sagaing/28.pdf"}, {"title": "(\u1005\u1013) \u1010\u1019\u1030\u1038", "src": "2018exam/src/sagaing/27.pdf"}, {"title": "(\u1005\u1011\u1021) \u1021\u101c\u101a\u1039\u1031\u1010\u102c (\u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039)", "src": "2018exam/src/sagaing/106.pdf"}, {"title": "(\u1005\u1011\u1019) \u103b\u1019\u1031\u1010\u102c\u1004\u1039 (\u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039)", "src": "2018exam/src/sagaing/105.pdf"}, {"title": "(\u1005\u1011\u1014) \u1000\u1019\u1039\u1038\u1014\u102e (\u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039)", "src": "2018exam/src/sagaing/104.pdf"}, {"title": "(\u1005\u1011) \u1011\u102e\u1038\u1001\u103a\u102d\u1033\u1004\u1037\u1039", "src": "2018exam/src/sagaing/103.pdf"}, {"title": "(\u1005\u1014\u1006) \u1015\u1014\u1039\u1031\u1006\u102c\u1004\u1039 (\u1014\u1014\u1039\u1038\u101a\u103c\u1014\u1039\u1038)", "src": "2018exam/src/sagaing/141.pdf"}, {"title": "(\u1005\u1014\u101a) \u1014\u1014\u1039\u1038\u101a\u103c\u1014\u1039\u1038", "src": "2018exam/src/sagaing/140.pdf"}, {"title": "(\u1005\u1020\u1019) \u1031\u103b\u1019\u101c\u1004\u1039\u1038 (\u1015\u1004\u1039\u101c\u100a\u1039\u1018\u1030\u1038)", "src": "2018exam/src/sagaing/115.pdf"}, {"title": "(\u1005\u1020) \u1019\u102d\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1021\u1004\u1039\u1038 (\u1015\u1004\u1039\u101c\u100a\u1039\u1018\u1030\u1038)", "src": "2018exam/src/sagaing/113.pdf"}, {"title": "(\u1005\u1020) \u1015\u1004\u1039\u101c\u100a\u1039\u1018\u1030\u1038", "src": "2018exam/src/sagaing/112.pdf"}, {"title": "(\u1005\u100e) \u1015\u102f\u101c\u1032", "src": "2018exam/src/sagaing/91.pdf"}, {"title": "\u1015\u102f\u101c\u1032", "src": "2018exam/src/sagaing/94.pdf"}, {"title": "(\u1005\u1015\u101c)\u1019\u1004\u1039\u1038\u1010\u102d\u102f\u1004\u1039\u1015\u1004\u1039 (\u1015\u102f\u101c\u1032)", "src": "2018exam/src/sagaing/93.pdf"}, {"title": "(\u1005\u100e\u1010)\u1031\u1010\u102c\u1004\u1039\u1015\u102d\u1031\u1010\u102c\u1000\u1039\u1000\u102f\u1014\u1039\u1038 (\u1015\u102f\u101c\u1032)", "src": "2018exam/src/sagaing/92.pdf"}, {"title": "(\u1005\u1017\u1005) \u1019\u1036\u1005\u102e (\u1017\u1014\u1039\u1038\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/sagaing/120.pdf"}, {"title": "(\u1005\u1017\u1019)  \u1017\u1014\u1039\u1038\u1031\u1019\u102c\u1000\u1039", "src": "2018exam/src/sagaing/119.pdf"}, {"title": "(\u1005\u1015\u101e) \u101e\u1001\u103c\u1010\u1071\u1014\u101a\u1039 (\u1018\u102f\u1010\u101c\u1004\u1039)", "src": "2018exam/src/sagaing/76.pdf"}, {"title": "(\u1005\u1015\u1011) \u1031\u1019\u102c\u1004\u1039\u1038\u1031\u1011\u102c\u1004\u1039 (\u1018\u102f\u1010\u101c\u1004\u1039)", "src": "2018exam/src/sagaing/75.pdf"}, {"title": "(\u1005\u1015\u100a) \u1031\u100a\u102c\u1004\u1039\u1000\u1014\u1039 (\u1018\u102f\u1010\u101c\u1004\u1039)", "src": "2018exam/src/sagaing/74.pdf"}, {"title": "(\u1005\u1015) \u1018\u102f\u1010\u101c\u1004\u1039", "src": "2018exam/src/sagaing/73.pdf"}, {"title": "(\u1005\u1015\u1006) \u1015\u1014\u1039\u1038\u1006\u1000\u1039 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/26.pdf"}, {"title": "(\u1005\u100a\u101e) \u1015\u1031\u101e\u1038 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/24.pdf"}, {"title": "(\u1005\u100a\u101c) \u1015\u103c\u1004\u1037\u1039\u101c\u103a\u1000\u1039 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/24.pdf"}, {"title": "(\u1005\u1000\u1015) \u107e\u1000\u102c\u1015\u1004\u1039 (\u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/23.pdf"}, {"title": "(\u1005\u100a) \u1019\u1004\u1039\u1038\u1000\u1004\u1039\u1038", "src": "2018exam/src/sagaing/22.pdf"}, {"title": "(\u1005\u1021\u101c) \u1021\u101c\u102f\u1036 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/69.pdf"}, {"title": "(\u1005\u101b\u101b) \u1031\u1000\u103a\u102c\u1000\u1060\u102c (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/68.pdf"}, {"title": "(\u1005\u101b\u100a) \u1031\u100a\u102c\u1004\u1039\u103b\u1016\u1034\u1015\u1004\u1039 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/67.pdf"}, {"title": "(\u1005\u101b\u100a) \u1031\u100a\u102c\u1004\u1039\u103b\u1016\u1034\u1015\u1004\u1039 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/67.pdf"}, {"title": "(\u1005\u1019\u101b) \u1019\u102f\u1036\u1031\u1090\u103c\u1038\u1031\u107e\u1000\u1038\u1019\u102f\u1036 (\u1019\u102f\u1036\u1090\u103c\u102c)", "src": "2018exam/src/sagaing/66.pdf"}, {"title": "(\u1005\u101b) \u1019\u102f\u1036\u1090\u103c\u102c", "src": "2018exam/src/sagaing/65.pdf"}, {"title": "(\u1005\u101b\u1015) \u101b\u1004\u1039\u1031\u1015\u102b\u1004\u1039\u1010\u102d\u102f\u1004\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/84.pdf"}, {"title": "(\u1005\u101a\u1011) \u1011\u1014\u1039\u1038\u1031\u1010\u102c\u1080\u1000\u102e\u1038 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/83.pdf"}, {"title": "(\u1005\u101a\u1006) \u1006\u1004\u1039\u1005\u103c\u101a\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/82.pdf"}, {"title": "(\u1005\u1000\u1019) \u1005\u102f\u1014\u1039\u1038\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u104a \u1031\u1000\u103a\u102c\u1000\u1039\u1031\u1019\u103d\u102c\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/81.pdf"}, {"title": "(\u1005\u1000\u1019) \u1031\u1000\u103a\u102c\u1000\u1039\u1031\u1019\u103d\u102c\u1039 (\u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/80.pdf"}, {"title": "(\u1005\u101a) \u101a\u1004\u1039\u1038\u1019\u102c\u1015\u1004\u1039", "src": "2018exam/src/sagaing/79.pdf"}, {"title": "(\u1005\u1006\u101c) \u1021\u101c\u1085\u1000\u1015\u1078 (\u103b\u1019\u1004\u1039\u1038\u1019\u1030)", "src": "2018exam/src/sagaing/11.pdf"}, {"title": "(\u1005\u1006) \u103b\u1019\u1004\u1039\u1038\u1019\u1030", "src": "2018exam/src/sagaing/10.pdf"}, {"title": "(\u1005\u101c\u101f) \u101c\u101f\u101a\u1039", "src": "2018exam/src/sagaing/139.pdf"}, {"title": "(\u1005\u101c\u101b) \u1031\u101c\u101b\u103d\u102e\u1038", "src": "2018exam/src/sagaing/137.pdf"}, {"title": "(\u1005\u101f\u101e) \u1031\u101e\u102c\u1004\u1039\u101e\u103c\u1015\u1039 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/136.pdf"}, {"title": "(\u1005\u101f\u101b) \u1031\u1090\u108a\u103b\u1015\u100a\u1039\u1031\u1021\u1038 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/135.pdf"}, {"title": "(\u1005\u101f\u1019) \u1031\u1019\u102c\u1004\u1039\u1038\u1001\u1019\u1039\u1038 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/134.pdf"}, {"title": "(\u1005\u101f\u1014) \u1014\u1019\u1037\u1039\u1031\u1010\u102c (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/133.pdf"}, {"title": "(\u1005\u101f\u1011) \u1011\u1019\u1036\u101e\u102e (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/132.pdf"}, {"title": "(\u1005\u101f\u1000) \u1000\u1000\u1039\u101e\u102c (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/131.pdf"}, {"title": "(\u1005\u1014\u1015) \u1031\u1014\u102c\u1004\u1039\u1015\u102d\u102f\u1031\u1021\u102c\u1004\u1039 (\u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/130.pdf"}, {"title": "(\u1005\u101f) \u101f\u102f\u1019\u107c\u101c\u1004\u1039\u1038", "src": "2018exam/src/sagaing/129.pdf"}, {"title": "(\u1005\u1021\u1007) \u1019\u1032\u1007\u102c (\u1021\u1004\u1039\u1038\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/118.pdf"}, {"title": "(\u1005\u1019\u101c) \u1031\u1019\u102c\u1039\u101c\u1030\u1038 (\u1021\u1004\u1039\u1038\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/117.pdf"}, {"title": "(\u1005\u1021) \u1021\u1004\u1039\u1038\u1031\u1010\u102c\u1039", "src": "2018exam/src/sagaing/116.pdf"}, {"title": "(\u1005\u1010\u101e) \u101e\u101c\u1032\u1018\u102c (\u1021\u101b\u102c\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/71.pdf"}, {"title": "(\u1005\u1010) \u1021\u101b\u102c\u1031\u1010\u102c\u1039", "src": "2018exam/src/sagaing/70.pdf"}, {"title": "(\u1005\u1014\u1025) \u1025\u1000\u1060\u1036 (\u1031\u1000\u102c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/111.pdf"}, {"title": "(\u1005\u1014\u1001) \u1001\u1036\u101e\u102c (\u1031\u1000\u102c\u101c\u1004\u1039\u1038)", "src": "2018exam/src/sagaing/110.pdf"}, {"title": "(\u1005\u1014) \u1031\u1000\u102c\u101c\u1004\u1039\u1038", "src": "2018exam/src/sagaing/109.pdf"}, {"title": "(\u1005\u1021\u1019) \u1021\u103b\u1019\u1004\u1037\u1039 (\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1026\u1038)", "src": "2018exam/src/sagaing/78.pdf"}, {"title": "(\u1005\u1017) \u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1026\u1038", "src": "2018exam/src/sagaing/77.pdf"}, {"title": "(\u1005\u1019\u101a) \u1019\u1004\u1039\u1038\u101a\u102c\u1038 (\u1031\u1016\u102c\u1004\u1039\u1038\u103b\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/127.pdf"}, {"title": "(\u1005\u1016\u1021) \u1031\u101b\u1031\u1021\u102c\u1000\u1039\u1031\u1010\u102c\u1004\u1039\u1038 (\u1031\u1016\u102c\u1004\u1039\u1038\u103b\u1015\u1004\u1039)", "src": "2018exam/src/sagaing/127.pdf"}, {"title": "(\u1005\u1016\u101b) \u101e\u1031\u101b\u102c\u1004\u1039\u1038 (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/125.pdf"}, {"title": "(\u1005\u1016\u101b) \u101e\u1031\u101b\u102c\u1004\u1039\u1038 (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/124.pdf"}, {"title": "(\u1005\u1016) \u1031\u1016\u102c\u1004\u1039\u1038\u103b\u1015\u1004\u1039", "src": "2018exam/src/sagaing/123.pdf"}, {"title": "(\u1005\u1014\u1021) \u1031\u1014\u102c\u1004\u1039\u1080\u1000\u102e\u1038\u1021\u102d\u102f\u1004\u1039 (\u1021\u101b\u102c\u1031\u1010\u102c\u1039)", "src": "2018exam/src/sagaing/72.pdf"}, {"title": "(\u1005\u1004\u1015) \u1015\u1014\u1039\u1038\u101e\u102c (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/122.pdf"}, {"title": "(\u1005\u1004\u1010) \u1000\u1004\u1039\u1038\u1010\u1015\u1039 (\u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039)", "src": "2018exam/src/sagaing/121.pdf"}, {"title": "(\u1005\u1004\u101c) \u1031\u1019\u102c\u1039\u101c\u102d\u102f\u1000\u1039", "src": "2018exam/src/sagaing/121.pdf"}, {"title": "(\u1005\u1019\u1000) \u1031\u1000\u103a\u102c\u1000\u1039\u101b\u1005\u1039 (\u1031\u103b\u1019\u102c\u1004\u1039)", "src": "2018exam/src/sagaing/15.pdf"}, {"title": "(\u1005\u1015\u1019) \u1015\u101b\u102d\u1019\u107c (\u1031\u103b\u1019\u102c\u1004\u1039)", "src": "2018exam/src/sagaing/14.pdf"}, {"title": "(\u1005\u1014\u1018) \u1014\u1018\u1000\u1039 (\u1031\u103b\u1019\u102c\u1004\u1039)", "src": "2018exam/src/sagaing/13.pdf"}, {"title": "(\u1005\u1019) \u1031\u103b\u1019\u102c\u1004\u1039", "src": "2018exam/src/sagaing/12.pdf"}, {"title": "(\u1005\u1011\u1017) \u1011\u1014\u1039\u1038\u1031\u1010\u102c\u1031\u1017\u102c\u1013\u102d (\u1031\u101b\u1026\u1038)", "src": "2018exam/src/sagaing/45.pdf"}, {"title": "(\u1005\u1007\u1019) \u1019\u102f\u1036\u1010\u102d\u102f\u1004\u1039\u1015\u1004\u1039 (\u1031\u101b\u1026\u1038)", "src": "2018exam/src/sagaing/45.pdf"}, {"title": "(\u1005\u1007) \u1031\u101b\u1026\u1038", "src": "2018exam/src/sagaing/44.pdf"}, {"title": "(\u1005\u1018\u100a) \u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u101e\u102c (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/36.pdf"}, {"title": "(\u1005\u1018\u1006) \u1006\u102d\u1015\u1039\u1001\u103c\u1014\u1039 (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/35.pdf"}, {"title": "(\u1005\u1018\u1000) \u1031\u1000\u103a\u102c\u1000\u1039\u1031\u103b\u1019\u102c\u1004\u1039\u1038 (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/34.pdf"}, {"title": "(\u1005\u1006\u1021) \u1006\u1004\u1039\u1021\u1004\u1039\u1038 (\u1031\u1090\u108a\u1018\u102d\u102f)", "src": "2018exam/src/sagaing/33.pdf"}, {"title": "(\u1005\u1018) \u1031\u1090\u108a\u1018\u102d\u102f", "src": "2018exam/src/sagaing/32.pdf"}, {"title": "(\u1005\u101c\u1019) \u1006\u103c\u1019\u107c\u101b\u102c (\u1031\u101c\u101b\u103d\u102e\u1038)", "src": "2018exam/src/sagaing/138.pdf"}],
-"မကွေးတိုင်းဒေသကြီး":[{"title": "\u1045\u1041 (\u1016\u101d\u101b) \u1031\u101b\u1014\u1036\u101e\u102c (\u1000\u1036\u1019)", "src": "2018exam/src/magway/51.pdf"}, {"title": "\u1045\u1040 (\u1016\u101d) \u1000\u1036\u1019", "src": "2018exam/src/magway/50.pdf"}, {"title": "\u1049\u1049 (\u1016\u1019\u101b) \u1019\u1004\u1039\u1038\u1090\u103c\u102c (\u1002\u1014\u1094\u1039\u1031\u1002\u102b)", "src": "2018exam/src/magway/99.pdf"}, {"title": "\u1049\u1048 (\u1016\u101b\u101b) \u101b\u1088\u1036\u1038\u101b\u103d\u102e (\u1002\u1014\u1094\u1039\u1031\u1002\u102b)", "src": "2018exam/src/magway/98.pdf"}, {"title": "\u1049\u1047 (\u1016\u1002\u101f) \u101f\u1036\u101e\u102c\u101d\u1010\u102e (\u1002\u1014\u1094\u1039\u1031\u1002\u102b)", "src": "2018exam/src/magway/97.pdf"}, {"title": "\u1049\u1046 (\u1016\u1010\u101b) \u1031\u1010\u102c\u1004\u1039\u1001\u1004\u1039\u1038\u101b\u1014\u1039\u1038 (\u1002\u1014\u1094\u1039\u1031\u1002\u102b)", "src": "2018exam/src/magway/96.pdf"}, {"title": "\u1049\u1045 (\u1016\u1000\u1000) \u1031\u1000\u103a\u102c (\u1002\u1014\u1094\u1039\u1031\u1002\u102b)", "src": "2018exam/src/magway/95.pdf"}, {"title": "\u1049\u1044 (\u1016\u1027) \u1000\u1014\u1039 (\u1002\u1014\u1094\u1039\u1031\u1002\u102b)", "src": "2018exam/src/magway/94.pdf"}, {"title": "\u1049\u1043 (\u1016\u1002) \u1002\u1014\u1094\u1039\u1031\u1002\u102b", "src": "2018exam/src/magway/93.pdf"}, {"title": "\u1044\u1041 (\u1016\u1025\u1015) \u1015\u1012\u102b\u1014\u1039\u1038 (\u1004\u1016\u1032)", "src": "2018exam/src/magway/41.pdf"}, {"title": "\u1044\u1040 (\u1016\u1025) \u1004\u1016\u1032", "src": "2018exam/src/magway/40.pdf"}, {"title": "\u1043\u1046 (\u1016\u1010\u100a) \u1010\u1031\u100a\u102c\u1004\u1039 (\u1005\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/36.pdf"}, {"title": "\u1043\u1045 (\u1016\u1005\u1015) \u103b\u1015\u100a\u1039\u1005\u102d\u102f\u1038\u1000\u102f\u1014\u1039\u1038 (\u1005\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/35.pdf"}, {"title": "\u1043\u1044 (\u1016\u1005\u1007) \u1007\u102e\u1038\u103b\u1016\u1034\u1015\u1004\u1039 (\u1005\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/34.pdf"}, {"title": "\u1043\u1043 (\u1016\u1008) \u1006\u1004\u1039\u103b\u1016\u1034\u1000\u103c\u107d\u1014\u1039\u1038 (\u1005\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/33.pdf"}, {"title": "\u1043\u1042 (\u1016\u1005) \u1005\u101c\u1004\u1039\u1038", "src": "2018exam/src/magway/32.pdf"}, {"title": "\u1044\u1043 (\u1016\u1003) \u1006\u1004\u1039\u1031\u1015\u102b\u1004\u1039\u101d\u1032", "src": "2018exam/src/magway/43.pdf"}, {"title": "\u1049\u1042 (\u1016\u1016\u1014) \u1021\u1031\u1014\u102c\u1000\u1039\u1000\u1019\u1039\u1038\u103b\u1016\u1034 (\u1006\u102d\u1015\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/92.pdf"}, {"title": "\u1049\u1041 (\u1016\u101c\u1006) \u101c\u1000\u1039\u1006\u100a\u1039 (\u1006\u102d\u1015\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/91.pdf"}, {"title": "\u1049\u1040 (\u1016\u1016\u1000) \u1000\u1007\u103c\u1014\u1039\u1038\u1019 (\u1006\u102d\u1015\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/89.pdf"}, {"title": "\u1048\u1049 (\u1016\u1016\u1006) \u1031\u1021\u102c\u1000\u1039\u1006\u102d\u1015\u1039 (\u1006\u102d\u1015\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/89.pdf"}, {"title": "\u1048\u1048 (\u1016\u1016\u1011) \u1011\u102d\u1014\u1039\u1000\u1014\u1039 (\u1006\u102d\u1015\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/88.pdf"}, {"title": "\u1048\u1047 (\u1016\u1016) \u1006\u102d\u1015\u1039\u103b\u1016\u1034", "src": "2018exam/src/magway/87.pdf"}, {"title": "\u1041\u1040\u1044 (\u1016\u1011\u1006) \u1031\u1006\u1038\u1019\u1004\u1039\u1038\u1031\u1010\u102c (\u1011\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/104.pdf"}, {"title": "\u1041\u1040\u1043 (\u1016\u1011\u100a) \u1031\u100a\u102c\u1004\u1039\u1000\u1014\u1039 (\u1011\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/103.pdf"}, {"title": "\u1041\u1040\u1042 (\u1016\u1011\u101b) \u1031\u101b\u1019\u103a\u1000\u1039\u1014\u102e (\u1011\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/102.pdf"}, {"title": "\u1041\u1040\u1041 (\u1016\u1011\u1000) \u1000\u103a\u1004\u1039\u1038 (\u1011\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/magway/101.pdf"}, {"title": "\u1041\u1040\u1040 (\u1016\u1011) \u1011\u102e\u1038\u101c\u1004\u1039\u1038", "src": "2018exam/src/magway/100.pdf"}, {"title": "(\u1016\u101b\u1019) \u1090\u103c\u102c\u1019\u103c\u1014\u1039 (\u1014\u1010\u1039\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/magway/19.pdf"}, {"title": "(\u1016\u1014\u1021) \u1021\u1004\u1039\u1038\u1000\u1014\u1039 (\u1014\u1010\u1039\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/magway/18.pdf"}, {"title": "(\u1016\u101b\u1010) \u1031\u1090\u108a\u1015\u1014\u1039\u1038\u1031\u1010\u102c (\u1014\u1010\u1039\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/magway/17.pdf"}, {"title": "(\u1016\u1014\u1005) \u1005\u102d\u102f\u1004\u1039\u1031\u1000\u102c\u1004\u1039\u1038 (\u1014\u1010\u1039\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/magway/16.pdf"}, {"title": "(\u1016\u1014) \u1014\u1010\u1039\u1031\u1019\u102c\u1000\u1039", "src": "2018exam/src/magway/15.pdf"}, {"title": "\u1046\u1044 (\u1016\u1000\u1001) \u1000\u103c\u107d\u1014\u1039\u1038\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1015\u1001\u102f\u1000\u1060\u1034)", "src": "2018exam/src/magway/64.pdf"}, {"title": "\u1046\u1043 (\u1016\u1020) \u1000\u1019\u107c (\u1015\u1001\u102f\u1000\u1060\u1034)", "src": "2018exam/src/magway/63.pdf"}, {"title": "\u1046\u1042 (\u1016\u1015\u1015) \u1000\u103a\u1015\u1039\u103b\u1015\u100a\u1037\u1039 (\u1015\u1001\u102f\u1000\u1060\u1034)", "src": "2018exam/src/magway/62.pdf"}, {"title": "\u1046\u1041 (\u1016\u1015\u1014) \u1014\u1014\u1039\u1038\u1031\u1010\u102c\u1039\u101b\u1015\u1039 (\u1015\u1001\u102f\u1000\u1060\u1034)", "src": "2018exam/src/magway/61.pdf"}, {"title": "\u1045\u1049 (\u1016\u100c) \u101d\u102b\u1007\u102e (\u1015\u1001\u102f\u1000\u1060\u1034)", "src": "2018exam/src/magway/59.pdf"}, {"title": "\u1045\u1048 (\u1016\u1015) \u1015\u1001\u102f\u1000\u1060\u1034", "src": "2018exam/src/magway/58.pdf"}, {"title": "\u1043\u1041 (\u1016\u1015\u101b) \u1031\u101b\u103d\u102c\u1000\u1039\u1031\u1010\u102c (\u1015\u103c\u1004\u1037\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/31.pdf"}, {"title": "\u1043\u1040 (\u1016\u100b) \u1000\u102f\u1014\u1039\u1038\u1031\u1007\u102c\u1004\u1039\u1038 (\u1015\u103c\u1004\u1037\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/30.pdf"}, {"title": "\u1042\u1049 (\u1016\u1004\u101c) \u101c\u101a\u1039\u1000\u102d\u102f\u1004\u1039\u1038 (\u1015\u103c\u1004\u1037\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/29.pdf"}, {"title": "\u1042\u1048 (\u1016\u1004\u1000) \u1000\u1036\u101e\u102c\u1080\u1000\u102e\u1038 (\u1015\u103c\u1004\u1037\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/28.pdf"}, {"title": "\u1042\u1047 (\u1016\u1004\u101b) \u1031\u1000\u103a\u102c\u1004\u1039\u1038\u1031\u1010\u102c\u1039\u101b\u102c (\u1015\u103c\u1004\u1037\u1039\u103b\u1016\u1034)", "src": "2018exam/src/magway/27.pdf"}, {"title": "\u1042\u1046 (\u1016\u1004) \u1015\u103c\u1004\u1037\u1039\u103b\u1016\u1034", "src": "2018exam/src/magway/26.pdf"}, {"title": "\u1044\u1045 (\u1016\u1012) \u1019\u1004\u1039\u1038\u1010\u102f\u1014\u1039\u1038", "src": "2018exam/src/magway/45.pdf"}, {"title": "\u1042\u1045 (\u1016\u1017) \u1005\u1000\u102f (\u1019\u1004\u1039\u1038\u1018\u1030\u1038)", "src": "2018exam/src/magway/25.pdf"}, {"title": "\u1042\u1044 (\u1016\u1018\u101b) \u1090\u103c\u102c\u101e\u102c\u101a\u102c (\u1019\u1004\u1039\u1038\u1018\u1030\u1038)", "src": "2018exam/src/magway/24.pdf"}, {"title": "\u1042\u1043 (\u1016\u1018\u1019) \u1019\u102f\u1014\u1039\u1031\u1010\u102c\u1004\u1039 (\u1019\u1004\u1039\u1038\u1018\u1030\u1038)", "src": "2018exam/src/magway/23.pdf"}, {"title": "\u1019\u1004\u1039\u1038\u1018\u1030\u1038", "src": "2018exam/src/magway/22.pdf"}, {"title": "\u1044\u1049 (\u1016\u101c\u101c) \u101c\u1000\u1039\u1015\u1036\u1010\u1036\u1001\u102b\u1038 (\u1019\u1004\u1039\u1038\u101c\u103d)", "src": "2018exam/src/magway/file_1378KF80BC0U8V7Y1stKjETa9s84zwrDL.bin"}, {"title": "\u1044\u1048 (\u1016\u1019\u101c) \u1019\u101c\u103c\u1014\u1039 (\u1019\u1004\u1039\u1038\u101c\u103d)", "src": "2018exam/src/magway/48.pdf"}, {"title": "\u1044\u1047 (\u1016\u101c\u1000) \u101c\u1004\u1039\u1038\u1000\u101a\u1039 (\u1019\u1004\u1039\u1038\u101c\u103d)", "src": "2018exam/src/magway/47.pdf"}, {"title": "\u1044\u1046 (\u1016\u101c) \u1019\u1004\u1039\u1038\u101c\u103d", "src": "2018exam/src/magway/46.pdf"}, {"title": "\u1046\u1040 (\u1016\u1013) \u103b\u1019\u1005\u1039\u1031\u103b\u1001 (\u1015\u1001\u102f\u1000\u1060\u1034)", "src": "2018exam/src/magway/60.pdf"}, {"title": "(\u1016\u101e\u1000) \u101e\u1005\u1039\u101b\u102c\u1031\u1000\u102c\u1000\u1039 (\u1019\u1031\u1000\u103c\u1038)", "src": "2018exam/src/magway/5.pdf"}, {"title": "(\u1016\u1019\u1019) \u103b\u1019\u1004\u1039\u1000\u103c\u1014\u1039\u1038 (\u1019\u1031\u1000\u103c\u1038)", "src": "2018exam/src/magway/4.pdf"}, {"title": "(\u1016\u1019\u1000) \u1019\u102d\u1031\u1000\u103a\u102c\u1004\u1039\u1038\u101b\u1032 (\u1019\u1031\u1000\u103c\u1038)", "src": "2018exam/src/magway/3.pdf"}, {"title": "(\u1016\u1019\u1015) \u1000\u1014\u1039\u103b\u1015\u102c\u1038 (\u1019\u1031\u1000\u103c\u1038)", "src": "2018exam/src/magway/2.pdf"}, {"title": "(\u1016\u1019) \u1019\u1031\u1000\u103c\u1038", "src": "2018exam/src/magway/1.pdf"}, {"title": "(\u1016\u1000\u1021) \u101d\u102b\u1038\u1080\u1000\u102e\u1038\u1021\u102d\u102f\u1004\u1039 (\u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039)", "src": "2018exam/src/magway/12.pdf"}, {"title": "(\u1016\u1006) \u107f\u1019\u102d\u1033\u1095\u101e\u1005\u1039", "src": "2018exam/src/magway/11.pdf"}, {"title": "\u1047\u1049 (\u1016\u1007\u101c) \u101c\u1004\u1039\u1038\u1000\u1031\u1010\u102c (\u107f\u1019\u102d\u1033\u1004\u1039)", "src": "2018exam/src/magway/79.pdf"}, {"title": "\u1047\u1048 (\u1016\u101c\u101a) \u101c\u1000\u1039\u101a\u1000\u1039\u1019 (\u107f\u1019\u102d\u1033\u1004\u1039)", "src": "2018exam/src/magway/78.pdf"}, {"title": "\u1047\u1047 (\u1016\u1000\u1010) \u1000\u102d\u102f\u1004\u1039\u1038\u1031\u1010\u102c\u1019 (\u107f\u1019\u102d\u1033\u1004\u1039)", "src": "2018exam/src/magway/77.pdf"}, {"title": "\u1047\u1046 (\u1016\u1007\u1010) \u1010\u103c\u1004\u1039\u1038\u1019 (\u107f\u1019\u102d\u1033\u1004\u1039)", "src": "2018exam/src/magway/76.pdf"}, {"title": "\u1047\u1045 (\u1016\u1007\u101f) \u1017\u101f\u1004\u1039\u1038 (\u107f\u1019\u102d\u1033\u1004\u1039)", "src": "2018exam/src/magway/75.pdf"}, {"title": "\u1047\u1044 (\u1016\u1007) \u107f\u1019\u102d\u1033\u1004\u1039", "src": "2018exam/src/magway/74.pdf"}, {"title": "\u1044\u1042 (\u1016\u101e) \u101e\u101b\u1000\u1039", "src": "2018exam/src/magway/42.pdf"}, {"title": "(\u1016\u1001\u1010) \u1031\u107e\u1000\u102c\u1004\u1039\u101c\u103d\u103a\u102c\u1031\u1010\u102c (\u1031\u1001\u103a\u102c\u1000\u1039)", "src": "2018exam/src/magway/10.pdf"}, {"title": "(\u1016\u1002\u1015) \u1031\u1002\u103c\u1038\u1015\u1004\u1039 (\u1031\u1001\u103a\u102c\u1000\u1039)", "src": "2018exam/src/magway/9.pdf"}, {"title": "(\u1016\u1002\u1001) \u1031\u1002\u103c\u1038\u1001\u103a\u102d\u1033 (\u1031\u1001\u103a\u102c\u1000\u1039)", "src": "2018exam/src/magway/8.pdf"}, {"title": "(\u1016\u100e) \u1005\u1031\u101c (\u1031\u1001\u103a\u102c\u1000\u1039)", "src": "2018exam/src/magway/7.pdf"}, {"title": "(\u1016\u1001) \u1031\u1001\u103a\u102c\u1000\u1039", "src": "2018exam/src/magway/6.pdf"}, {"title": "\u1043\u1049 (\u1016\u100f\u1018) \u1018\u1030\u1038 (\u1031\u1005\u1010\u102f\u1010\u1071\u101b\u102c)", "src": "2018exam/src/magway/39.pdf"}, {"title": "\u1043\u1048 (\u1016\u100f\u1010) \u1010\u1014\u1094\u1039\u101c\u100a\u1039\u1000\u103a\u1004\u1039\u1038 (\u1031\u1005\u1010\u102f\u1010\u1071\u101b\u102c)", "src": "2018exam/src/magway/38.pdf"}, {"title": "\u1043\u1047 (\u1016\u100f) \u1031\u1005\u1010\u102f\u1010\u1071\u101b\u102c", "src": "2018exam/src/magway/37.pdf"}, {"title": "\u1041\u1040\u1049 (\u1016\u101c\u101b) \u1031\u101c\u102c\u1004\u1039\u1038\u101b\u103d\u100a\u1039 (\u1031\u1006\u102c)", "src": "2018exam/src/magway/109.pdf"}, {"title": "\u1041\u1040\u1048 (\u1016\u101a\u1015) \u1010\u103b\u1015\u1004\u1039\u1038 (\u1031\u1006\u102c)", "src": "2018exam/src/magway/108.pdf"}, {"title": "\u1041\u1040\u1047 (\u1016\u101a\u1000) \u1000\u1036\u1080\u1000\u102e\u1038 (\u1031\u1006\u102c)", "src": "2018exam/src/magway/107.pdf"}, {"title": "\u1041\u1040\u1046 (\u1016\u101f) \u1031\u1000\u103a\u102c\u1000\u1039\u1011\u102f (\u1031\u1006\u102c)", "src": "2018exam/src/magway/106.pdf"}, {"title": "\u1041\u1040\u1045 (\u1016\u101a) \u1031\u1006\u102c", "src": "2018exam/src/magway/105.pdf"}, {"title": "(\u1016\u100d) \u1006\u1010\u1039\u101e\u103c\u102c\u1038 (\u1031\u1010\u102c\u1004\u1039\u1010\u103c\u1004\u1039\u1038\u1080\u1000\u102e\u1038)", "src": "2018exam/src/magway/14.pdf"}, {"title": "(\u1016\u1010) \u1031\u1010\u102c\u1004\u1039\u1010\u103c\u1004\u1039\u1038\u1080\u1000\u102e\u1038", "src": "2018exam/src/magway/13.pdf"}, {"title": "\u1048\u1046 (\u1016\u100a\u1014) \u1014\u1036\u1094\u101e\u102c (\u1031\u1015\u102b\u1000\u1039)", "src": "2018exam/src/magway/86.pdf"}, {"title": "\u1048\u1045 (\u1016\u100a\u1015) \u1000\u1019\u1039\u1038\u1015\u103a\u102d\u1033 (\u1031\u1015\u102b\u1000\u1039)", "src": "2018exam/src/magway/85.pdf"}, {"title": "\u1048\u1044 (\u1016\u101b\u1015) \u1031\u101b\u103b\u1015\u102c (\u1031\u1015\u102b\u1000\u1039)", "src": "2018exam/src/magway/84.pdf"}, {"title": "\u1048\u1043 (\u1016\u100a\u1000) \u1000\u102d\u102f\u1004\u1039\u1038\u101c\u101a\u1039 (\u1031\u1015\u102b\u1000\u1039)", "src": "2018exam/src/magway/83.pdf"}, {"title": "\u1048\u1042 (\u1016\u100a\u1007) \u1007\u102e\u1038\u103b\u1015\u102c\u1038 (\u1031\u1015\u102b\u1000\u1039)", "src": "2018exam/src/magway/82.pdf"}, {"title": "\u1048\u1041 (\u1016\u100a\u1005) \u1005\u101e\u102d\u1014\u1039\u1038 (\u1031\u1015\u102b\u1000\u1039)", "src": "2018exam/src/magway/81.pdf"}, {"title": "\u1048\u1040 (\u1016\u100a) \u1031\u1015\u102b\u1000\u1039", "src": "2018exam/src/magway/80.pdf"}, {"title": "\u1047\u1043 (\u1016\u1021\u1006) \u1019\u1021\u1030\u1031\u1021\u102c\u1000\u1039\u1006\u102d\u1015\u1039 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/73.pdf"}, {"title": "\u1047\u1042 (\u1016\u101c\u1017) \u1017\u101c\u1017 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/72.pdf"}, {"title": "\u1047\u1041 (\u1016\u1000\u1006) \u1006\u1004\u1039\u1031\u1001\u103a\u102c\u1004\u1039\u1038 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/71.pdf"}, {"title": "\u1047\u1040 (\u1016\u1000\u1004) \u1015\u1001\u1014\u1039\u1038\u1004\u101a\u1039 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/70.pdf"}, {"title": "\u1046\u1049 (\u1016\u1000\u101b) \u1006\u102c\u1038\u1031\u1010\u102c\u1004\u1039 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/69.pdf"}, {"title": "\u1046\u1048 (\u1016\u1015\u1000) \u1015\u1001\u1014\u1039\u1038\u1080\u1000\u102e\u1038 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/68.pdf"}, {"title": "\u1046\u1047 (\u1016\u1016\u101c) \u1016\u1030\u101c\u102f\u1036 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/67.pdf"}, {"title": "\u1046\u1046 (\u1016\u1000\u1019) \u1031\u103b\u1019\u1031\u1010\u102c\u1039 (\u1031\u101b\u1005\u1080\u1000\u102d\u1033)", "src": "2018exam/src/magway/66.pdf"}, {"title": "\u1046\u1045 (\u1016\u1000) \u1031\u101b\u1005\u1080\u1000\u102d\u1033", "src": "2018exam/src/magway/65.pdf"}, {"title": "\u1021\u101c\u101a\u1039\u1000\u102f\u1014\u1039\u1038 (\u1031\u101b\u1014\u1036\u1031\u1001\u103a\u102c\u1004\u1039\u1038)", "src": "2018exam/src/magway/21.pdf"}, {"title": "(\u1016\u101b) \u1031\u101b\u1014\u1036\u1031\u1001\u103a\u102c\u1004\u1039\u1038", "src": "2018exam/src/magway/20.pdf"}, {"title": "\u1045\u1047 (\u1016\u1021\u1021) \u1000\u103a\u102e\u101b\u1015\u1039\u1000\u102f\u1014\u1039\u1038 (\u1031\u1021\u102c\u1004\u1039\u101c\u1036)", "src": "2018exam/src/magway/57.pdf"}, {"title": "\u1045\u1046 (\u1016\u1015\u101c) \u103b\u1015\u101c\u102d\u102f\u1094 (\u1031\u1021\u102c\u1004\u1039\u101c\u1036)", "src": "2018exam/src/magway/56.pdf"}, {"title": "\u1045\u1045 (\u1016\u1021\u101e) \u101e\u1019\u107b\u1034\u101c (\u1031\u1021\u102c\u1004\u1039\u101c\u1036)", "src": "2018exam/src/magway/55.pdf"}, {"title": "\u1045\u1044 (\u1016\u1021\u101b) \u1031\u1090\u108a\u1015\u1014\u1039\u1038\u1031\u1010\u102c (\u1031\u1021\u102c\u1004\u1039\u101c\u1036)", "src": "2018exam/src/magway/54.pdf"}, {"title": "\u1045\u1043 (\u1016\u1021\u1019) \u107f\u1019\u102d\u1033\u1095\u101c\u103d (\u1031\u1021\u102c\u1004\u1039\u101c\u1036)", "src": "2018exam/src/magway/53.pdf"}, {"title": "\u1045\u1042 (\u1016\u1021) \u1031\u1021\u102c\u1004\u1039\u101c\u1036", "src": "2018exam/src/magway/52.pdf"}],
-"ပဲခူးတိုင်းဒေသကြီး":[
-  
+  "ရန်ကုန်တိုင်းဒေသကြီး": [
     {
-       "title":"\u1000\u101d",
-       "src":"2018exam/src/default/BG-37.pdf"
+      "title": "(ဆလမ) လႈိင္",
+      "src": "2018exam/src/yangon/YG-7.pdf"
     },
     {
-       "title":"\u1007\u102e\u1038\u1000\u102f\u1014\u1039\u1038",
-       "src":"2018exam/src/default/BG-96.pdf"
+      "title": "(ဆကရ) ကမာ႐ြတ္",
+      "src": "2018exam/src/yangon/YG-6.pdf"
     },
     {
-       "title":"\u1011\u1014\u1039\u1038\u1010\u1015\u1004\u1039",
-       "src":"2018exam/src/default/BG-47.pdf"
+      "title": "(ဆန)  လက္ခုပ္ကုန္း (ကြမ္းၿခံကုန္း)",
+      "src": "2018exam/src/yangon/YG-51.pdf"
     },
     {
-       "title":"\u1012\u102d\u102f\u1000\u1039\u1026\u1038",
-       "src":"2018exam/src/default/BG-27.pdf"
+      "title": "(ဆကက) ေတာ္ကူး (ကြမ္းၿခံကုန္း)",
+      "src": "2018exam/src/yangon/YG-66.pdf"
     },
     {
-       "title":"\u1014\u1010\u1039\u1010\u101c\u1004\u1039\u1038",
-       "src":"2018exam/src/default/BG-98.pdf"
+      "title": "(ဆက)  ကြမ္းၿခံကုန္း",
+      "src": "2018exam/src/yangon/YG-36.pdf"
     },
     {
-       "title":"\u1015\u1014\u1039\u1038\u1031\u1010\u102c\u1004\u1039\u1038",
-       "src":"2018exam/src/default/BG-74.pdf"
+      "title": "(ဆည) ကိုကိုးကြၽန္း",
+      "src": "2018exam/src/yangon/YG-45(1).pdf"
     },
     {
-       "title":"\u1015\u1032\u1001\u1030\u1038",
-       "src":"2018exam/src/default/BG-1.pdf"
+      "title": "(ဆရပ) ပိန္းကန္ (ခရမ္း)",
+      "src": "2018exam/src/yangon/YG-73.pdf"
     },
     {
-       "title":"\u1019\u1004\u1039\u1038\u101c\u103d",
-       "src":"2018exam/src/default/BG-94.pdf"
+      "title": "(ဆရမ) ကမာမတ္ (ခရမ္း)",
+      "src": "2018exam/src/yangon/YG-78.pdf"
     },
     {
-       "title":"\u1019\u102d\u102f\u1038\u100a\u102d\u1033",
-       "src":"2018exam/src/default/BG-100.pdf"
+      "title": "(ဆရဒ) ကြမ္းမိုးဒိန္း (ခရမ္း)",
+      "src": "2018exam/src/yangon/YG-70.pdf"
     },
     {
-       "title":"\u103b\u1015\u100a\u1039",
-       "src":"2018exam/src/default/BG-70.pdf"
+      "title": "(ဆရ) ခရမ္း",
+      "src": "2018exam/src/yangon/YG-58.pdf"
     },
     {
-       "title":"\u103b\u1016\u1034\u1038",
-       "src":"2018exam/src/default/BG-59.pdf"
+      "title": "(ဆစခ)  စမ္းေခ်ာင္း",
+      "src": "2018exam/src/yangon/YG-15.pdf"
     },
     {
-       "title":"\u101c\u1000\u1039\u1015\u1036\u1010\u1014\u1039\u1038",
-       "src":"2018exam/src/default/BG-90.pdf"
+      "title": "(ဆခတ)  ခေနာင္တို",
+      "src": "2018exam/src/yangon/YG-29(1).pdf"
     },
     {
-       "title":"\u1080\u1000\u102d\u1033\u1095\u1015\u1004\u1039\u1031\u1000\u102c\u1000\u1039",
-       "src":"2018exam/src/default/BG-105.pdf"
+      "title": "(ဆတခ)  ကရင္ေခ်ာင္း (တြံေတး)",
+      "src": "2018exam/src/yangon/YG-75(1).pdf"
     },
     {
-       "title":"\u101e\u1014\u1015\u1039\u1015\u1004\u1039",
-       "src":"2018exam/src/default/BG-23.pdf"
+      "title": "(ဆတင) မေငးထိန္ကုန္း (တြံေတး)",
+      "src": "2018exam/src/yangon/file_1vW18kF26auKF7C0VCI-DqHc3P-gczYD2.bin"
     },
     {
-       "title":"\u101e\u102c\u101a\u102c\u101d\u1010\u102e",
-       "src":"2018exam/src/default/BG-88.pdf"
+      "title": "(ဆတဘ)  ကံဘဲ့ (တြံေတး)",
+      "src": "2018exam/src/yangon/YG-74(1).pdf"
     },
     {
-       "title":"\u101e\u1032\u1000\u102f\u1014\u1039\u1038",
-       "src":"2018exam/src/default/BG-84.pdf"
+      "title": "(ဆတထ) ခတၱိယ (တြံေတး)",
+      "src": "2018exam/src/yangon/YG-71.pdf"
     },
     {
-       "title":"\u1021\u102f\u1010\u1039\u1010\u103c\u1004\u1039\u1038",
-       "src":"2018exam/src/default/BG-53.pdf"
+      "title": "(ဆတ) တြံေတး",
+      "src": "2018exam/src/yangon/YG-47.pdf"
     },
     {
-       "title":"\u1021\u102f\u1010\u1039\u1016\u102d\u102f",
-       "src":"2018exam/src/default/BG-107.pdf"
+      "title": "(ဆတမ)  တာေမြ",
+      "src": "2018exam/src/yangon/YG-24.pdf"
     },
     {
-       "title":"\u1031\u1000\u103a\u102c\u1000\u1039\u1010\u1036\u1001\u102b\u1038",
-       "src":"2018exam/src/default/BG-9.pdf"
+      "title": "(ဆဥ) ဥကၠံ (တိုက္ႀကီး)",
+      "src": "2018exam/src/yangon/YG-64.pdf"
     },
     {
-       "title":"\u1031\u1000\u103a\u102c\u1000\u1039\u1080\u1000\u102e\u1038",
-       "src":"2018exam/src/default/BG-50.pdf"
+      "title": "(ဆဗ) ဖလုံ (တိုက္ႀကီး)",
+      "src": "2018exam/src/yangon/YG-54.pdf"
     },
     {
-       "title":"\u1031\u100a\u102c\u1004\u1039\u1031\u101c\u1038\u1015\u1004\u1039",
-       "src":"2018exam/src/default/BG-14.pdf"
+      "title": "(ဆဓ) အေဖ်ာက္ (တိုက္ႀကီး)",
+      "src": "2018exam/src/yangon/YG-50.pdf"
     },
     {
-       "title":"\u1031\u1010\u102c\u1004\u1039\u1004\u1030",
-       "src":"2018exam/src/default/BG-44.pdf"
+      "title": "(ဆဇ)  ေတာ္လတီ (တိုက္ႀကီး)",
+      "src": "2018exam/src/yangon/YG-43.pdf"
     },
     {
-       "title":"\u1031\u1015\u102b\u1004\u1039\u1038\u1010\u100a\u1039",
-       "src":"2018exam/src/default/BG-79.pdf"
+      "title": "(ဆဘ)  တိုက္ႀကီး",
+      "src": "2018exam/src/yangon/YG-55.pdf"
     },
     {
-       "title":"\u1031\u101b\u1010\u102c\u101b\u103d\u100a\u1039",
-       "src":"2018exam/src/default/BG-64.pdf"
+      "title": "(ဆထတ)  က်ဴေတာ (ထန္းတပင္)",
+      "src": "2018exam/src/yangon/YG-72.pdf"
     },
     {
-       "title":"\u1031\u101b\u108a\u1000\u103a\u1004\u1039",
-       "src":"2018exam/src/default/BG-19.pdf"
+      "title": "(ဆဆ)  လွည္းဆိပ္ (ထန္းတပင္)",
+      "src": "2018exam/src/yangon/YG-42.pdf"
     },
     {
-       "title":"\u1031\u101b\u108a\u1031\u1010\u102c\u1004\u1039",
-       "src":"2018exam/src/default/BG-80.pdf"
+      "title": "(ဆထ)   ထန္းတပင္",
+      "src": "2018exam/src/yangon/YG-48.pdf"
     },
     {
-       "title":"\u1031\u101d\u102b",
-       "src":"2018exam/src/default/BG-32.pdf"
+      "title": "(ဆဒရ) ဒဂုံၿမိဳ႕သစ္ (အေရွ႕ပိုင္း)",
+      "src": "2018exam/src/yangon/YG-35.pdf"
     },
     {
-       "title":"\u1000\u101d",
-       "src":"2018exam/src/default/BG-37.pdf"
+      "title": "(ဆဒမ)  ဒဂုံၿမိဳ႕သစ္ (ေျမာက္ပိုင္း)",
+      "src": "2018exam/src/yangon/YG-34.pdf"
     },
     {
-       "title":"\u1007\u102e\u1038\u1000\u102f\u1014\u1039\u1038",
-       "src":"2018exam/src/default/BG-96.pdf"
+      "title": "(ဆဒတ) ဒဂုံၿမိဳ႕သစ္ (ေတာင္ပိုင္း)",
+      "src": "2018exam/src/yangon/YG-33.pdf"
     },
     {
-       "title":"\u1011\u1014\u1039\u1038\u1010\u1015\u1004\u1039",
-       "src":"2018exam/src/default/BG-47.pdf"
+      "title": "(ဆဒဆ)  ဒဂုံၿမိဳ႕သစ္ (ဆိပ္ကမ္း)",
+      "src": "2018exam/src/yangon/YG-32.pdf"
     },
     {
-       "title":"\u1012\u102d\u102f\u1000\u1039\u1026\u1038",
-       "src":"2018exam/src/default/BG-27.pdf"
+      "title": "(ဆပ) ေပ်ာ္ဘြယ္ႀကီး (ဒလ)",
+      "src": "2018exam/src/yangon/YG-52.pdf"
     },
     {
-       "title":"\u1014\u1010\u1039\u1010\u101c\u1004\u1039\u1038",
-       "src":"2018exam/src/default/BG-98.pdf"
+      "title": "(ဆဒလ)  ဒလ",
+      "src": "2018exam/src/yangon/YG-28.pdf"
     },
     {
-       "title":"\u1015\u1014\u1039\u1038\u1031\u1010\u102c\u1004\u1039\u1038",
-       "src":"2018exam/src/default/BG-74.pdf"
+      "title": "(ဆပတ) ပန္းဘဲတန္း",
+      "src": "2018exam/src/yangon/YG-18.pdf"
     },
     {
-       "title":"\u1015\u1032\u1001\u1030\u1038",
-       "src":"2018exam/src/default/BG-1.pdf"
+      "title": "(ဆဒဂ)  ဒဂုံ",
+      "src": "2018exam/src/yangon/YG-22.pdf"
     },
     {
-       "title":"\u1019\u1004\u1039\u1038\u101c\u103d",
-       "src":"2018exam/src/default/BG-94.pdf"
+      "title": "(ဆပဇ) ပုဇြန္ေတာင္",
+      "src": "2018exam/src/yangon/YG-21.pdf"
     },
     {
-       "title":"\u1019\u102d\u102f\u1038\u100a\u102d\u1033",
-       "src":"2018exam/src/default/BG-100.pdf"
+      "title": "(ဆမတ)  ၾကည့္ျမင္တိုင္",
+      "src": "2018exam/src/yangon/YG-13.pdf"
     },
     {
-       "title":"\u103b\u1015\u100a\u1039",
-       "src":"2018exam/src/default/BG-70.pdf"
+      "title": "(ဆဗဟ)  ဗဟန္း",
+      "src": "2018exam/src/yangon/YG-23.pdf"
     },
     {
-       "title":"\u103b\u1016\u1034\u1038",
-       "src":"2018exam/src/default/BG-59.pdf"
+      "title": "(ဆဗထ) ဗိုလ္တေထာင္",
+      "src": "2018exam/src/yangon/YG-20.pdf"
     },
     {
-       "title":"\u101c\u1000\u1039\u1015\u1036\u1010\u1014\u1039\u1038",
-       "src":"2018exam/src/default/BG-90.pdf"
+      "title": "(ဆပလ)  ပုလဲၿမိဳ႕သစ္ (မဂၤလာဒုံ)",
+      "src": "2018exam/src/yangon/YG-4.pdf"
     },
     {
-       "title":"\u1080\u1000\u102d\u1033\u1095\u1015\u1004\u1039\u1031\u1000\u102c\u1000\u1039",
-       "src":"2018exam/src/default/BG-105.pdf"
+      "title": "(ဆထက) ေထာက္ၾကန္႕ (မဂၤလာဒုံ)",
+      "src": "2018exam/src/yangon/YG-3.pdf"
     },
     {
-       "title":"\u101e\u1014\u1015\u1039\u1015\u1004\u1039",
-       "src":"2018exam/src/default/BG-23.pdf"
+      "title": "(ဆမဒ) မဂၤလာဒုံ",
+      "src": "2018exam/src/yangon/YG-2.pdf"
     },
     {
-       "title":"\u101e\u102c\u101a\u102c\u101d\u1010\u102e",
-       "src":"2018exam/src/default/BG-88.pdf"
+      "title": "(ဆတည) မဂၤလာေတာင္ၫြန႔္",
+      "src": "2018exam/src/yangon/YG-25.pdf"
     },
     {
-       "title":"\u101e\u1032\u1000\u102f\u1014\u1039\u1038",
-       "src":"2018exam/src/default/BG-84.pdf"
+      "title": "(ဆမက)  မရမ္းကုန္း",
+      "src": "2018exam/src/yangon/YG-8.pdf"
     },
     {
-       "title":"\u1021\u102f\u1010\u1039\u1010\u103c\u1004\u1039\u1038",
-       "src":"2018exam/src/default/BG-53.pdf"
+      "title": "(ဆရက)  ရန္ကင္း",
+      "src": "2018exam/src/yangon/YG-9.pdf"
     },
     {
-       "title":"\u1021\u102f\u1010\u1039\u1016\u102d\u102f",
-       "src":"2018exam/src/default/BG-107.pdf"
+      "title": "(ဆဧ) ရဲမြန္ (လွည္းကူး)",
+      "src": "2018exam/src/yangon/YG-63.pdf"
     },
     {
-       "title":"\u1031\u1000\u103a\u102c\u1000\u1039\u1010\u1036\u1001\u102b\u1038",
-       "src":"2018exam/src/default/BG-9.pdf"
+      "title": "(ဆအ)  အင္းတိုင္ (လွည္းကူး)",
+      "src": "2018exam/src/yangon/YG-62.pdf"
     },
     {
-       "title":"\u1031\u1000\u103a\u102c\u1000\u1039\u1080\u1000\u102e\u1038",
-       "src":"2018exam/src/default/BG-50.pdf"
+      "title": "(ဆဖ) ေဖာင္ႀကီး (လွည္းကူး)",
+      "src": "2018exam/src/yangon/YG-53.pdf"
     },
     {
-       "title":"\u1031\u100a\u102c\u1004\u1039\u1031\u101c\u1038\u1015\u1004\u1039",
-       "src":"2018exam/src/default/BG-14.pdf"
+      "title": "(ဆဒ) ဒါးပိန္ (လွည္းကူး)",
+      "src": "2018exam/src/yangon/YG-49.pdf"
     },
     {
-       "title":"\u1031\u1010\u102c\u1004\u1039\u1004\u1030",
-       "src":"2018exam/src/default/BG-44.pdf"
+      "title": "(ဆစ) မင္းကုန္း (လွည္းကူး)",
+      "src": "2018exam/src/yangon/YG-41.pdf"
     },
     {
-       "title":"\u1031\u1015\u102b\u1004\u1039\u1038\u1010\u100a\u1039",
-       "src":"2018exam/src/default/BG-79.pdf"
+      "title": "(ဆလဆ)  ငါးဆူေတာင္ (လွည္းကူး)",
+      "src": "2018exam/src/yangon/YG-68.pdf"
     },
     {
-       "title":"\u1031\u101b\u1010\u102c\u101b\u103d\u100a\u1039",
-       "src":"2018exam/src/default/BG-64.pdf"
+      "title": "(ဆလ)  လွည္းကူး",
+      "src": "2018exam/src/yangon/YG-59.pdf"
     },
     {
-       "title":"\u1031\u101b\u108a\u1000\u103a\u1004\u1039",
-       "src":"2018exam/src/default/BG-19.pdf"
+      "title": "(ဆလသ) လသာ",
+      "src": "2018exam/src/yangon/YG-17.pdf"
     },
     {
-       "title":"\u1031\u101b\u108a\u1031\u1010\u102c\u1004\u1039",
-       "src":"2018exam/src/default/BG-80.pdf"
+      "title": "(ဆသယ) လႈိင္သာယာ",
+      "src": "2018exam/src/yangon/YG-31.pdf"
     },
     {
-       "title":"\u1031\u101d\u102b",
-       "src":"2018exam/src/default/BG-32.pdf"
+      "title": "(ဆသဖ) ဖားကူး (သန္လ်င္)",
+      "src": "2018exam/src/yangon/YG-77.pdf"
+    },
+    {
+      "title": "(ဆသ)  သန္လ်င္",
+      "src": "2018exam/src/yangon/YG-61.pdf"
+    },
+    {
+      "title": "(ဆသတ) သာေကတ",
+      "src": "2018exam/src/yangon/YG-26.pdf"
+    },
+    {
+      "title": "(ဆခ) သုံးခြ",
+      "src": "2018exam/src/yangon/YG-37.pdf"
+    },
+    {
+      "title": "(ဆအလ) အလုံ",
+      "src": "2018exam/src/yangon/YG-14.pdf"
+    },
+    {
+      "title": "(ဆဝ) ဝါးဘေလာက္ေသာက္ (ေကာ့မွဴး)",
+      "src": "2018exam/src/yangon/YG-60.pdf"
+    },
+    {
+      "title": "(ဆဏ) က်ိဳက္ေထာ္ (ေကာ့မွဴး)",
+      "src": "2018exam/src/yangon/YG-46.pdf"
+    },
+    {
+      "title": "(ဆငစ) နတ္စင္ကုန္း (ေကာ့မႉး)",
+      "src": "2018exam/src/yangon/YG-69.pdf"
+    },
+    {
+      "title": "(ဆင) ေကာ့မႉး",
+      "src": "2018exam/src/yangon/YG-40.pdf"
+    },
+    {
+      "title": "(ဆကတ) ေက်ာက္တံတား",
+      "src": "2018exam/src/yangon/YG-19.pdf"
+    },
+    {
+      "title": "(ဆယ)  ကမာကလုတ္ (ေက်ာက္တန္း)",
+      "src": "2018exam/src/yangon/YG-57.pdf"
+    },
+    {
+      "title": "(ဆဈ) တံတားၿမိဳ႕ (ေက်ာက္တန္း)",
+      "src": "2018exam/src/yangon/YG-44.pdf"
+    },
+    {
+      "title": "(ဆဂ) ေက်ာက္တန္း",
+      "src": "2018exam/src/yangon/YG-38.pdf"
+    },
+    {
+      "title": "(ဆတဥ)  ေတာင္ဥကၠလာပ",
+      "src": "2018exam/src/yangon/YG-10.pdf"
+    },
+    {
+      "title": "(ဆဒပ) ေဒါပုံ",
+      "src": "2018exam/src/yangon/YG-27.pdf"
+    },
+    {
+      "title": "(ဆဃ)  ေျမာင္းတကာ (ေမွာ္ဘီ)",
+      "src": "2018exam/src/yangon/YG-39.pdf"
+    },
+    {
+      "title": "(ဆမန) တပ္ႀကီးကုန္း (ေမွာ္ဘီ)",
+      "src": "2018exam/src/yangon/YG-67.pdf"
+    },
+    {
+      "title": "(ဆမ) ေမွာ္ဘီ",
+      "src": "2018exam/src/yangon/YG-56.pdf"
+    },
+    {
+      "title": "(ဆမဥ)  ေျမာက္ဥကၠလာပ",
+      "src": "2018exam/src/yangon/YG-5.pdf"
+    },
+    {
+      "title": "(ဆပသ) ေ႐ႊျပည္သာ",
+      "src": "2018exam/src/yangon/YG-30.pdf"
     }
- ],
-"တနင်္သာရီတိုင်းဒေသကြီး":[{"title": "\u1000\u107d\u103c\u1014\u1039\u1038\u1005\u102f", "src": "2018exam/src/tanintharyi/TTY-22.pdf"}, {"title": "\u1010\u1014\u101e\u1064\u102c\u101b\u102e", "src": "2018exam/src/tanintharyi/TTY-18.pdf"}, {"title": "\u1031\u1019\u1010\u1071\u102c (\u1011\u102c\u1038\u101d\u101a\u1039)", "src": "2018exam/src/tanintharyi/TTY-2.pdf"}, {"title": "\u1011\u102c\u1038\u101d\u101a\u1039", "src": "2018exam/src/tanintharyi/TTY-1.pdf"}, {"title": "\u1015\u102f\u1031\u101c\u102c", "src": "2018exam/src/tanintharyi/TTY-27.pdf"}, {"title": "\u107f\u1019\u102d\u1010\u1039", "src": "2018exam/src/tanintharyi/TTY-15.pdf"}, {"title": "\u1018\u102f\u1010\u1039\u103b\u1015\u1004\u1039\u1038", "src": "2018exam/src/tanintharyi/TTY-32.pdf"}, {"title": "\u101e\u101b\u1000\u1039\u1031\u1001\u103a\u102c\u1004\u1039\u1038", "src": "2018exam/src/tanintharyi/TTY-11.pdf"}, {"title": "\u1031\u1000\u102c\u1037\u1031\u101e\u102c\u1004\u1039\u1038", "src": "2018exam/src/tanintharyi/TTY-30.pdf"}, {"title": "\u1031\u101b\u103b\u1016\u1034", "src": "2018exam/src/tanintharyi/TTY-3.pdf"}, {"title": "\u1031\u101c\u102c\u1004\u1039\u1038\u101c\u1036\u102f\u1038", "src": "2018exam/src/tanintharyi/TTY-7.pdf"}],
-"ကချင်ပြည်နယ်":[{"title": "(\u1000\u1007) \u1001\u103a\u102e\u1031\u1016\u103c", "src": "2018exam/src/kachin/KC-9.pdf"}, {"title": "(\u1000\u1006) \u1006\u103c\u1019\u1039\u1015\u101b\u102c\u1018\u103c\u1019\u1039", "src": "2018exam/src/kachin/KC-8.pdf"}, {"title": "(\u1000\u101a) \u101b\u103d\u1004\u1039\u1031\u1017\u103c\u101a\u1014\u1039 (\u1010\u108f\u102f\u102d\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-17.pdf"}, {"title": "(\u1000\u1014) \u1010\u108f\u102f\u102d\u1004\u1039\u1038", "src": "2018exam/src/kachin/KC-12.pdf"}, {"title": "(\u1000\u1021) \u1015\u1030\u1010\u102c\u1021\u102d\u102f", "src": "2018exam/src/kachin/KC-19.pdf"}, {"title": "(\u1000\u1003) \u1000\u102c\u1019\u102d\u102f\u1004\u1039\u1038 (\u1016\u102c\u1038\u1000\u1014\u1039\u1095)", "src": "2018exam/src/kachin/KC-5.pdf"}, {"title": "(\u1000\u1016\u101c)  \u101c\u102f\u1036\u1038\u1001\u1004\u1039\u1038 (\u1016\u102c\u1038\u1000\u1014\u1039\u1095)", "src": "2018exam/src/kachin/KC-32.pdf"}, {"title": "(\u1000\u1016\u1010) \u1010\u102c\u1019\u1001\u1014\u1039 (\u1016\u102c\u1038\u1000\u1014\u1039\u1095)", "src": "2018exam/src/kachin/KC-34.pdf"}, {"title": "(\u1000\u1016\u1006) \u1006\u102d\u1015\u1039\u1019\u1030 (\u1016\u102c\u1038\u1000\u1014\u1039\u1095)", "src": "2018exam/src/kachin/KC-40.pdf"}, {"title": "(\u1000\u1016) \u1016\u102c\u1038\u1000\u1014\u1039\u1095", "src": "2018exam/src/kachin/KC-14.pdf"}, {"title": "(\u1000\u1017) \u1017\u1014\u1039\u1038\u1031\u1019\u102c\u1039", "src": "2018exam/src/kachin/KC-15.pdf"}, {"title": "(\u1000\u1018) \u1019\u1001\u103a\u1019\u1039\u1038\u1031\u1018\u102c", "src": "2018exam/src/kachin/KC-16.pdf"}, {"title": "(\u1000\u1005) \u1019\u1014\u1039\u1005\u102e", "src": "2018exam/src/kachin/KC-7.pdf"}, {"title": "(\u1000\u1014\u1019) \u1014\u1014\u1039\u1038\u1019\u102c\u1038 (\u1019\u102d\u102f\u1038\u100a\u103d\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-21.pdf"}, {"title": "(\u1000\u1015) \u101f\u102d\u102f\u1015\u1004\u1039 (\u1019\u102d\u102f\u1038\u100a\u103d\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-13.pdf"}, {"title": "(\u1000\u1004) \u1014\u1014\u1039\u1095\u1019\u103c\u1014\u1039\u1038 (\u1019\u102d\u102f\u1038\u100a\u103d\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-6.pdf"}, {"title": "(\u1000\u100a\u1018) \u1018\u102e\u101c\u1030\u1038 (\u1019\u102d\u102f\u1038\u100a\u103d\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-38.pdf"}, {"title": "(\u1000\u100a\u1010) \u101c\u1036\u102f\u1038\u1010\u1036\u102f (\u1019\u102d\u102f\u1038\u100a\u103d\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-27.pdf"}, {"title": "(\u1000\u100a) \u1019\u102d\u102f\u1038\u100a\u103d\u1004\u1039\u1038", "src": "2018exam/src/kachin/KC-10.pdf"}, {"title": "(\u1000\u1015\u1018) \u1015\u1004\u1039\u1038\u1031\u1018\u102c (\u1019\u102d\u102f\u1038\u1031\u1000\u102c\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-22.pdf"}, {"title": "(\u1000\u1010\u1001) \u101c\u1019\u1039\u1038\u1001\u103c (\u1014\u1019\u107c\u1010\u102e\u1038)(\u1019\u102d\u102f\u1038\u1031\u1000\u102c\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-28.pdf"}, {"title": "(\u1000\u1010) \u1014\u1019\u107c\u1010\u102e\u1038 (\u1019\u102d\u102f\u1038\u1031\u1000\u102c\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-11.pdf"}, {"title": "(\u1000\u1001\u1019) \u1006\u102c\u1038\u1031\u1019\u103d\u102c\u1039 (\u1019\u102d\u102f\u1038\u1031\u1000\u102c\u1004\u1039\u1038)", "src": "2018exam/src/kachin/KC-33.pdf"}, {"title": "(\u1000\u1001) \u1019\u102d\u102f\u1038\u1031\u1000\u102c\u1004\u1039\u1038", "src": "2018exam/src/kachin/KC-3.pdf"}, {"title": "(\u1000\u1019\u101e) \u103b\u1019\u102d\u1033\u1095\u101e\u1005\u1039 (\u1019\u102d\u102f\u1038\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/kachin/KC-23.pdf"}, {"title": "(\u1000\u1002\u101c)  \u101c\u103c\u101a\u1039\u1002\u103a\u101a\u1039 (\u1019\u102d\u102f\u1038\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/kachin/KC-25.pdf"}, {"title": "(\u1000\u1002\u1012)  \u1031\u1012\u102b\u1037\u1016\u102f\u1014\u1039\u1038\u101a\u1014\u1039 (\u1019\u102d\u102f\u1038\u1031\u1019\u102c\u1000\u1039)", "src": "2018exam/src/kachin/KC-44.pdf"}, {"title": "(\u1000\u1002) \u1019\u102d\u102f\u1038\u1031\u1019\u102c\u1000\u1039", "src": "2018exam/src/kachin/KC-4.pdf"}, {"title": "(\u1000\u1006\u1018) \u1006\u1004\u1039\u1018\u102d\u102f (\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-20.pdf"}, {"title": "(\u1000\u1019\u101a) \u1021\u1004\u1039\u1002\u103a\u1014\u1039\u1038\u101a\u1014\u1039 (\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-43.pdf"}, {"title": "(\u1000\u1019\u1015) \u1014\u1014\u1039\u1095\u1031\u1015\u102b\u1004\u1039 (\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-36.pdf"}, {"title": "(\u1000\u1019\u1014) \u1015\u101c\u1014 (\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-41.pdf"}, {"title": "(\u1000\u1019\u1010) \u1010\u102c\u1031\u101c\u102c\u107e\u1000\u102e\u1038 (\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-35.pdf"}, {"title": "(\u1000\u1019\u1007) \u1007\u102e\u1038\u101c\u103c\u1014\u1039(\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-37.pdf"}, {"title": "(\u1000\u1019\u1005) \u1005\u102e\u1010\u102c\u1015\u1030(\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-42.pdf"}, {"title": "(\u1000\u1019\u1001) \u1019\u1014\u1039\u1001\u102d\u1014\u1039 (\u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038)", "src": "2018exam/src/kachin/KC-39.pdf"}, {"title": "(\u1000\u1019) \u103b\u1019\u1005\u1039\u107e\u1000\u102e\u1038\u1014\u102c\u1038", "src": "2018exam/src/kachin/KC-1.pdf"}, {"title": "(\u1000\u101d\u1014) \u1019\u102f\u102d\u1004\u1039\u1038\u1014\u102c\u1038 (\u101d\u102d\u102f\u1004\u1039\u1038\u1031\u1019\u102c \u1039)", "src": "2018exam/src/kachin/KC-30.pdf"}, {"title": "(\u1000\u101d\u1012) \u1006\u1012\u1036\u102f\u1038 (\u101d\u102d\u102f\u1004\u1039\u1038\u1031\u1019\u102c\u1039)", "src": "2018exam/src/kachin/KC-29.pdf"}, {"title": "(\u1000\u101d\u1001) \u1001\u1010\u1039\u1001\u103a\u102d\u1033 (\u101d\u102d\u102f\u1004\u1039\u1038\u1031\u1019\u102c\u1039)", "src": "2018exam/src/kachin/KC-31.pdf"}, {"title": "(\u1000\u101d) \u101d\u102d\u102f\u1004\u1039\u1038\u1031\u1019\u102c\u1039", "src": "2018exam/src/kachin/KC-18.pdf"}, {"title": "(\u1000\u1021\u1019) \u1031\u1014\u102c\u1004\u1039\u1019\u103c\u1014\u1039", "src": "2018exam/src/kachin/KC-24.pdf"}, {"title": "(\u1000\u1000\u1018) \u1018\u102d\u102f\u1000\u102f\u1014\u1039\u1038 (\u1031\u1090\u108a\u1000\u1030)", "src": "2018exam/src/kachin/KC-26.pdf"}, {"title": "(\u1000\u1000) \u1031\u1090\u108a\u1000\u1030", "src": "2018exam/src/kachin/KC-2.pdf"}],
-"ကယားပြည်နယ်":[{"title": "(\u101a\u1012\u1014) \u1014\u1014\u1039\u1038\u1019\u101a\u1039\u1001\u102f\u1036 (\u1012\u102e\u1038\u1031\u1019\u102c\u1037\u1006\u102d\u102f)", "src": "2018exam/src/kaya/KL-12.pdf"}, {"title": "(\u101a\u1012\u1004)  \u1031\u1012\u102b\u1004\u1036\u1001\u102b\u1038 (\u1012\u102e\u1038\u1031\u1019\u102c\u1037\u1006\u102d\u102f)", "src": "2018exam/src/kaya/KL-11.pdf"}, {"title": "(\u101a\u1012) \u1012\u102e\u1038\u1031\u1019\u102c\u1037\u1006\u102d\u102f", "src": "2018exam/src/kaya/KL-3.pdf"}, {"title": "(\u101a\u1016) \u1016\u1090\u1030\u1006\u102d\u102f", "src": "2018exam/src/kaya/KL-4.pdf"}, {"title": "(\u101a\u1006)  \u1016\u102c\u1038\u1031\u1006\u102c\u1004\u1039\u1038", "src": "2018exam/src/kaya/KL-2.pdf"}, {"title": "(\u101a\u1019) \u1019\u101a\u1039\u1005\u1032\u1037", "src": "2018exam/src/kaya/KL-10.pdf"}, {"title": "(\u101a\u101b\u1010) \u101b\u103d\u102c\u1038\u1031\u1010\u102c", "src": "2018exam/src/kaya/KL-9.pdf"}, {"title": "(\u101a\u101c\u101c) \u101c\u103c\u102d\u1033\u1004\u1039\u101c\u1004\u1039\u1031\u101c\u1038 (\u101c\u103c\u102d\u1033\u1004\u1039\u1031\u1000\u102c\u1039)", "src": "2018exam/src/kaya/KL-8.pdf"}, {"title": "(\u101a\u101c\u1010) \u1031\u101c\u102c\u1015\u102d\u1010 (\u101c\u103c\u102d\u1033\u1004\u1039\u1031\u1000\u102c\u1039)", "src": "2018exam/src/kaya/KYH-07.pdf"}, {"title": "(\u101a\u101c\u1000) \u1021\u1011\u1000(\u1044)\u101c\u103c\u102d\u1033\u1004\u1039\u1031\u1000\u102c\u1039 (\u101c\u103c\u102d\u1033\u1004\u1039\u1031\u1000\u102c\u1039)", "src": "2018exam/src/kaya/file_1e3Se2WUq3xuqmi6IM3i_iYujHLKxvwTm.bin"}, {"title": "(\u101a\u101c) \u101c\u103c\u102d\u1033\u1004\u1039\u1031\u1000\u102c\u1039", "src": "2018exam/src/kaya/KL-1.pdf"}, {"title": "(\u101a\u1018) \u1031\u1018\u102c\u101c\u1001\u1032", "src": "2018exam/src/kaya/KL-5.pdf"}],
-"ကရင်ပြည်နယ်":[{"title": "(\u101c\u1003) \u1000\u1019\u1031\u1019\u102c\u1004\u1039\u1038 (\u1016\u102c\u1015\u103c\u1014\u1039)", "src": "2018exam/src/karen/KY-5.pdf"}, {"title": "(\u101c\u1016) \u1016\u102c\u1015\u103c\u1014\u1039", "src": "2018exam/src/karen/KY-10.pdf"}, {"title": "(\u101c\u1021\u1000)  \u1000\u103a\u102d\u1033\u1000\u1039\u1012\u102f\u1036 (\u107e\u1000\u102c\u1021\u1004\u1039\u1038\u1006\u102d\u1015\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/karen/KY-24.pdf"}, {"title": "(\u101c\u1010\u1001) \u1010\u1036\u1001\u103c\u1014\u1039\u1010\u102d\u102f\u1004\u1039 (\u107e\u1000\u102c\u1021\u1004\u1039\u1038\u1006\u102d\u1015\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/karen/KY-16.pdf"}, {"title": "(\u101c\u1021\u1006) \u1018\u102f\u101b\u102c\u1038\u101e\u102f\u1036\u1038\u1006\u1030 (\u107e\u1000\u102c\u1021\u1004\u1039\u1038\u1006\u102d\u1015\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/karen/KY-32.pdf"}, {"title": "(\u101c\u1021) \u107e\u1000\u102c\u1021\u1004\u1039\u1038\u1006\u102d\u1015\u1039\u1080\u1000\u102e\u1038", "src": "2018exam/src/karen/KY-15.pdf"}, {"title": "(\u101c\u1015)  \u1007\u102c\u101e\u103b\u1015\u1004\u1039 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-9.pdf"}, {"title": "(\u101c\u1018\u1001) \u1001\u101b\u102c\u1038\u1021\u1010\u103c\u1004\u1039\u1038 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-27.pdf"}, {"title": "(\u101c\u1018\u101b)  \u101d\u1032\u1000\u101b\u1004\u1039 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-21.pdf"}, {"title": "(\u101c\u1014)  \u1021\u102d\u108f\u1075\u1033 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-8.pdf"}, {"title": "(\u101c\u1011) \u1011\u102f\u1036\u1038\u1021\u102d\u102f\u1004\u1039 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-7.pdf"}, {"title": "(\u101c\u1018\u1018) \u1018\u102c\u1038\u1000\u1015\u1039 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-33.pdf"}, {"title": "(\u101c\u1018\u1000) \u1031\u1000\u102c\u1037\u1000\u103a\u102d\u1033\u1000\u1039 (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-28.pdf"}, {"title": "(\u101c\u1018\u101c)  \u101c\u103d\u102c\u1000\u102c (\u1018\u102c\u1038\u1021\u1036)", "src": "2018exam/src/karen/KY-17.pdf"}, {"title": "(\u101c\u1018) \u1018\u102c\u1038\u1021\u1036", "src": "2018exam/src/karen/KY-1.pdf"}, {"title": "(\u101c\u1019\u101e) \u101e\u1000\u1064\u1014\u1039\u1038\u100a\u102e\u1031\u1014\u102c\u1004\u1039 (\u103b\u1019\u101d\u1010\u102e)", "src": "2018exam/src/karen/KY-23.pdf"}, {"title": "(\u101c\u1019) \u103b\u1019\u101d\u1010\u102e", "src": "2018exam/src/karen/KY-11.pdf"}, {"title": "(\u101c\u101c\u1019) \u107f\u1019\u102d\u1033\u1004\u1039\u1080\u1000\u102e\u1038\u1004\u1030 (\u101c\u1088\u102d\u1004\u1039\u1038\u1018\u103c\u1032\u1095)", "src": "2018exam/src/karen/KY-20.pdf"}, {"title": "(\u101c\u101c\u1015)  \u1000\u1015\u1078\u101c\u102e (\u101c\u103d\u102f\u102d\u1004\u1039\u1038\u1018\u103c\u1032\u1095)", "src": "2018exam/src/karen/KY-30.pdf"}, {"title": "(\u101c\u1002)  \u1031\u1090\u108a\u1002\u103c\u1014\u1039\u1038 (\u101c\u1088\u102d\u1004\u1039\u1038\u1018\u103c\u1032\u1095)", "src": "2018exam/src/karen/KY-4.pdf"}, {"title": "(\u101c\u101c\u1011) \u1011\u102e\u101c\u102f\u1036 (\u101c\u1088\u102d\u1004\u1039\u1038\u1018\u103c\u1032\u1095)", "src": "2018exam/src/karen/KY-31.pdf"}, {"title": "(\u101c\u101c\u1000) \u1015\u102d\u102f\u1004\u1039\u1000\u103a\u1033\u1036 (\u101c\u1088\u102d\u1004\u1039\u1038\u1018\u103c\u1032\u1095)", "src": "2018exam/src/karen/KY-25.pdf"}, {"title": "(\u101c\u101c) \u101c\u1088\u102d\u1004\u1039\u1038\u1018\u103c\u1032\u1095", "src": "2018exam/src/karen/KY-13.pdf"}, {"title": "(\u101c\u101e) \u101c\u102d\u1015\u1039\u101e\u102d\u102f (\u101e\u1036\u1031\u1010\u102c\u1004\u1039)", "src": "2018exam/src/karen/KY-14.pdf"}, {"title": "(\u101c\u1010\u100a)  \u101e\u1031\u103b\u1015\u106b\u103c\u1014\u1039\u1094 (\u101e\u1036\u1031\u1010\u102c\u1004\u1039\u1080\u1000\u102e\u1038)", "src": "2018exam/src/karen/KY-26.pdf"}, {"title": "(\u101c\u1010\u101e) \u101e\u1036\u1031\u1010\u102c\u1004\u1039\u1080\u1000\u102e\u1038 (\u101e\u1036\u1031\u1010\u102c\u1004\u1039)", "src": "2018exam/src/karen/KY-29.pdf"}, {"title": "(\u101c\u101b) \u1018\u102f\u101b\u1004\u1037\u1039\u1031\u1014\u102c\u1004\u1039\u1010\u1015\u1039 (\u101e\u1036\u1031\u1010\u102c\u1004\u1039)", "src": "2018exam/src/karen/KY-12.pdf"}, {"title": "(\u101c\u1010) \u101e\u1036\u1031\u1010\u102c\u1004\u1039", "src": "2018exam/src/karen/KY-6.pdf"}, {"title": "(\u101c\u1001\u1018)  \u1031\u1000\u102c\u1037\u1018\u102d\u1014\u1039\u1038 (\u1031\u1000\u102c\u1037\u1000\u101b\u102d\u1010\u1039)", "src": "2018exam/src/karen/KY-18.pdf"}, {"title": "(\u101c\u1000) \u1031\u1000\u102c\u1037\u1000\u101b\u102d\u1010\u1039", "src": "2018exam/src/karen/KY-2.pdf"}, {"title": "(\u101c\u1000\u1014) \u1014\u1018\u1030\u1038 (\u1031\u1000\u102c\u1037\u1000\u101b\u102d\u1010\u1039)", "src": "2018exam/src/karen/KY-22.pdf"}, {"title": "(\u101c\u1001) \u1000\u103a\u1033\u1036\u1012\u102d\u102f\u1038 (\u1031\u1000\u102c\u1037\u1000\u101b\u102d\u1010\u1039)", "src": "2018exam/src/karen/KY-3.pdf"}, {"title": "(\u101c\u1000\u1021) \u1031\u1010\u102c\u1004\u1039\u107e\u1000\u102c\u1021\u1004\u1039\u1038 (\u1031\u1000\u102c\u1037\u1000\u101b\u102d\u1010\u1039)", "src": "2018exam/src/karen/KY-19.pdf"}],
-"ချင်းပြည်နယ်":[{"title": "(\u1001\u1000\u1012) \u1000\u103a\u1004\u1039\u1031\u1012\u103c\u1038 (\u1000\u1014\u1039\u1015\u1000\u1039\u101c\u1000\u1039)", "src": "2018exam/src/chin/C-14.pdf"}, {"title": "(\u1001\u1000) \u1000\u1014\u1039\u1015\u1000\u1039\u101c\u1000\u1039", "src": "2018exam/src/chin/C-2.pdf"}, {"title": "(\u1001\u1007) \u1010\u103c\u1014\u1039\u1038\u1007\u1014\u1039", "src": "2018exam/src/chin/C-3.pdf"}, {"title": "(\u1001\u1001) \u1000\u103a\u102e\u1001\u102b\u1038 (\u1010\u103c\u1014\u1039\u1038\u1007\u1014\u1039)", "src": "2018exam/src/chin/C-13.pdf"}, {"title": "(\u1001\u101c) \u1011\u102f\u1010\u1039\u101c\u102d\u102f\u1004\u1039 (\u1010\u102e\u1038\u1010\u102d\u1014\u1039)", "src": "2018exam/src/chin/C-12.pdf"}, {"title": "(\u1001\u1010) \u1010\u102e\u1038\u1010\u102d\u1014\u1039", "src": "2018exam/src/chin/C-4.pdf"}, {"title": "(\u1001\u1011) \u1011\u1014\u1039\u1010\u101c\u1014\u1039", "src": "2018exam/src/chin/C-5.pdf"}, {"title": "(\u1001\u101d\u1019) \u1006\u1019\u102e\u1038 (\u1015\u101c\u1000\u1039\u101d)", "src": "2018exam/src/chin/C-16.pdf"}, {"title": "(\u1001\u101d) \u1015\u101c\u1000\u1039\u101d", "src": "2018exam/src/chin/C-15.pdf"}, {"title": "(\u1001\u1012) \u101b\u102d\u1031\u1001\u102b\u1012\u102b\u101b\u1039 (\u1016\u101c\u1019\u1039\u1038)", "src": "2018exam/src/chin/C-6.pdf"}, {"title": "(\u1001\u1016) \u1016\u101c\u1019\u1039\u1038", "src": "2018exam/src/chin/C-8.pdf"}, {"title": "(\u1001\u1019) \u1019\u1004\u1039\u1038\u1010\u1015\u1039", "src": "2018exam/src/chin/C-10.pdf"}],
-"မွန်ပြည်နယ်":[{"title": "(\u100a\u101f) \u101e\u102d\u1019\u1039\u1007\u101b\u1015\u1039 (\u1000\u103a\u102d\u1033\u1000\u1039\u1011\u102d\u102f)", "src": "2018exam/src/mon/M-24.pdf"}, {"title": "(\u100a\u1011) \u1005\u1005\u1039\u1031\u1010\u102c\u1004\u1039\u1038 (\u1000\u103a\u102d\u1033\u1000\u1039\u1011\u102d\u102f)", "src": "2018exam/src/mon/M-12.pdf"}, {"title": "(\u100a\u1000\u1000) \u1000\u103a\u1034\u1031\u1001\u103a\u102c\u1004\u1039 (\u1000\u103a\u102d\u1033\u1000\u1039\u1011\u102d\u102f)", "src": "2018exam/src/mon/M-32.pdf"}, {"title": "(\u100a\u1000)  \u1000\u103a\u102d\u1033\u1000\u1039\u1011\u102d\u102f", "src": "2018exam/src/mon/M-2.pdf"}, {"title": "(\u100a\u1019\u1010) \u1010\u101b\u1014\u102c (\u1000\u103a\u102d\u1033\u1000\u1039\u1019\u1031\u101b\u102c)", "src": "2018exam/src/mon/M-27.pdf"}, {"title": "(\u100a\u1019\u1012) \u1000\u1012\u102b (\u1000\u103a\u102d\u1033\u1000\u1039\u1019\u1031\u101b\u102c)", "src": "2018exam/src/mon/M-28.pdf"}, {"title": "(\u100a\u1019) \u1000\u103a\u102d\u1033\u1000\u1039\u1019\u1031\u101b\u102c", "src": "2018exam/src/mon/M-20.pdf"}, {"title": "(\u100a\u101c\u100a) \u1031\u100a\u102c\u1004\u1039\u1015\u1004\u1039\u1006\u102d\u1015\u1039 (\u1000\u103a\u102d\u1033\u1000\u1039\u1019\u1031\u101b\u102c)", "src": "2018exam/src/mon/M-10.pdf"}, {"title": "(\u100a\u101c\u101b) \u1031\u1090\u108a\u1014\u1010\u1039\u1031\u1010\u102c\u1004\u1039 (\u1000\u103a\u102d\u1033\u1000\u1039\u1019\u1031\u101b\u102c)", "src": "2018exam/src/mon/M-38.pdf"}, {"title": "(\u100a\u1018\u101c) \u1031\u1090\u108a\u1031\u101c\u103d (\u1018\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/mon/M-36.pdf"}, {"title": "(\u100a\u1005) \u1031\u1010\u102c\u1004\u1039\u1005\u103c\u1014\u1039\u1038 (\u1018\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/mon/M-7.pdf"}, {"title": "(\u100a\u1018\u101b) \u1000\u1004\u1039\u1038\u1090\u103c\u102c (\u1018\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/mon/M-34.pdf"}, {"title": "(\u100a\u1018\u1000) \u1000\u1014\u1039\u101e\u102c\u101a\u102c (\u1018\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/mon/file_1OSeelpE1qDr7rXouVdlY6APparZ-iy-y.bin"}, {"title": "(\u100a\u1018) \u1018\u102e\u1038\u101c\u1004\u1039\u1038", "src": "2018exam/src/mon/M-19.pdf"}, {"title": "\u1018\u102e\u1038\u101c\u1004\u1039\u1038", "src": "2018exam/src/mon/M-36.pdf"}, {"title": "(\u100a\u1018\u101c) \u1031\u1090\u108a\u1031\u101c\u103d (\u1018\u102e\u1038\u101c\u1004\u1039\u1038)", "src": "2018exam/src/mon/M-7.pdf"}, {"title": "(\u100a\u1013) \u1000\u1019\u102c\u101d\u1000\u1039 (\u1019\u102f\u1012\u102f\u1036)", "src": "2018exam/src/mon/M-14.pdf"}, {"title": "(\u100a\u1012) \u1019\u102f\u1012\u102f\u1036", "src": "2018exam/src/mon/M-13.pdf"}, {"title": "(\u100a\u101e\u1014)  \u1031\u1014\u102c\u1004\u1039\u1000\u102f\u101c\u102c\u1038\u101b\u103d\u1019\u1039\u1038\u1090\u103c\u102c (\u101e\u1011\u102f\u1036)", "src": "2018exam/src/mon/M-39.pdf"}, {"title": "(\u100a\u101e\u1000) \u107e\u1000\u102c\u1015\u1014\u1039\u1038 (\u101e\u1011\u102f\u1036)", "src": "2018exam/src/mon/M-40.pdf"}, {"title": "(\u100a\u101e\u101e) \u101e\u102d\u1019\u1039\u1006\u102d\u1015\u1039 (\u101e\u1011\u102f\u1036)", "src": "2018exam/src/mon/M-33.pdf"}, {"title": "(\u100a\u1021) \u1000\u103a\u102d\u1033\u1031\u1000\u1060\u102c\u1039 (\u101e\u1011\u102f\u1036)", "src": "2018exam/src/mon/M-25.pdf"}, {"title": "(\u100a\u101e) \u101e\u1011\u102f\u1036", "src": "2018exam/src/mon/M-23.pdf"}, {"title": "(\u100a\u1007) \u1000\u1090\u102f\u1015\u1078\u102d (\u101e\u1036\u103b\u1016\u1034\u1007\u101b\u1015\u1039)", "src": "2018exam/src/mon/M-9.pdf"}, {"title": "(\u100a\u1004) \u1000\u103a\u102d\u1033\u1000\u1061\u1019\u102e (\u101e\u1036\u103b\u1016\u1034\u1007\u101b\u1015\u1039)", "src": "2018exam/src/mon/M-6.pdf"}, {"title": "(\u100a\u1003) \u1000\u103a\u1033\u1036\u1000\u1012\u1010\u1039 (\u101e\u1036\u103b\u1016\u1034\u1007\u101b\u1015\u1039)", "src": "2018exam/src/mon/M-5.pdf"}, {"title": "(\u100a\u1016) \u101e\u1036\u103b\u1016\u1034\u1007\u101b\u1015\u1039", "src": "2018exam/src/mon/M-17.pdf"}, {"title": "(\u100a\u1006) \u1019\u102f\u101b\u1005\u1039\u1000\u1031\u101c\u1038 (\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1006\u102f\u1036)", "src": "2018exam/src/mon/M-8.pdf"}, {"title": "(\u100a\u1001\u1019) \u1019\u102f\u1012\u103c\u1014\u1039\u1038 (\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1006\u102f\u1036)", "src": "2018exam/src/mon/M-29.pdf"}, {"title": "(\u100a\u1002) \u1090\u103c\u102c\u101c\u103c\u1010\u1039 (\u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1006\u102f\u1036)", "src": "2018exam/src/mon/M-4.pdf"}, {"title": "(\u100a\u1001) \u1031\u1001\u103a\u102c\u1004\u1039\u1038\u1006\u102f\u1036", "src": "2018exam/src/mon/M-3.pdf"}, {"title": "(\u100a\u1015\u1021) \u1021\u101c\u103d\u1015\u1039 (\u1031\u1015\u102b\u1004\u1039)", "src": "2018exam/src/mon/M-35.pdf"}, {"title": "(\u100a\u1017) \u101b\u1004\u1039\u1038\u107f\u1004\u102d\u1019\u1039 (\u1031\u1015\u102b\u1004\u1039)", "src": "2018exam/src/mon/M-18.pdf"}, {"title": "(\u100a\u1014) \u1007\u1004\u1039\u1038\u1000\u103a\u102d\u1033\u1000\u1039 (\u1031\u1015\u102b\u1004\u1039)", "src": "2018exam/src/mon/M-15.pdf"}, {"title": "(\u100a\u1010)  \u1019\u102f\u1010\u1071\u1019 (\u1031\u1015\u102b\u1004\u1039)", "src": "2018exam/src/mon/M-11.pdf"}, {"title": "(\u100a\u1015\u1014) \u1014\u1010\u1039\u1080\u1000\u102e\u1038\u1031\u1001\u103a\u102c\u1004\u1039 (\u1031\u1015\u102b\u1004\u1039)", "src": "2018exam/src/mon/M-26.pdf"}, {"title": "(\u100a\u1015) \u1031\u1015\u102b\u1004\u1039", "src": "2018exam/src/mon/M-16.pdf"}, {"title": "(\u100a\u101c\u101e) \u1021\u1011\u1000(\u1041\u1041) \u1031\u1019\u102c\u1039\u101c\u107f\u1019\u102d\u1033\u1004\u1039", "src": "2018exam/src/mon/M-30.pdf"}, {"title": "(\u100a\u101c) \u1031\u1019\u102c\u1039\u101c\u107f\u1019\u102d\u1033\u1004\u1039", "src": "2018exam/src/mon/M-1.pdf"}, {"title": "(\u100a\u101d) \u101c\u1019\u102d\u102f\u1004\u1039\u1038 (\u1031\u101b\u1038)", "src": "2018exam/src/mon/M-22.pdf"}, {"title": "(\u100a\u101b\u1021) \u1021\u1005\u1004\u1039 (\u1031\u101b\u1038)", "src": "2018exam/src/mon/M-37.pdf"}, {"title": "(\u100a\u101b) \u1031\u101b\u1038", "src": "2018exam/src/mon/M-21.pdf"}],
-"ရခိုင်ပြည်နယ်":[{"title":"","src":""}],
-"ရှမ်းပြည်နယ်":[{"title": "\u1000\u107d\u102d\u1033\u1004\u1039\u1038\u1010\u1036\u102f", "src": "2018exam/src/shan/S-87.pdf"}, {"title": "\u1000\u103c\u1010\u1039\u1001\u102d\u102f\u1004\u1039", "src": "2018exam/src/shan/S-69.pdf"}, {"title": "\u1000\u103c\u1014\u1039\u101f\u102d\u1014\u1039\u1038", "src": "2018exam/src/shan/S-53.pdf"}, {"title": "\u1000\u103c\u1019\u1039\u1038\u101c\u1036\u102f", "src": "2018exam/src/shan/S-63.pdf"}, {"title": "\u1000\u1031\u101c\u102c", "src": "2018exam/src/shan/S-28.pdf"}, {"title": "\u1006\u102e\u1006\u102d\u102f\u1004\u1039", "src": "2018exam/src/shan/S-16.pdf"}, {"title": "\u1010\u1014\u1039\u1094\u101a\u1014\u1039\u1038", "src": "2018exam/src/shan/S-64.pdf"}, {"title": "\u1010\u102c\u1001\u107d\u102e\u101c\u102d\u1010\u1039", "src": "2018exam/src/shan/S-96.pdf"}, {"title": "\u1014\u1019\u107c\u1010\u1030", "src": "2018exam/src/shan/S-78.pdf"}, {"title": "\u1014\u1019\u1039\u1037\u1001\u1019\u1039\u1038", "src": "2018exam/src/shan/S-71.pdf"}, {"title": "\u1014\u1019\u1039\u1037\u1005\u1014\u1039(\u1010)", "src": "2018exam/src/shan/S-47.pdf"}, {"title": "\u1014\u1019\u1039\u1037\u1006\u1014\u1039 (\u1031\u103b\u1019\u102c\u1000\u1039)", "src": "2018exam/src/shan/S-77.pdf"}, {"title": "\u1015\u1004\u1039\u1038\u1010\u101a", "src": "2018exam/src/shan/S-26.pdf"}, {"title": "\u1015\u1004\u1039\u1031\u101c\u102c\u1004\u1039\u1038", "src": "2018exam/src/shan/S-36.pdf"}, {"title": "\u1016\u101a\u1039\u1001\u1036\u102f", "src": "2018exam/src/shan/S-19.pdf"}, {"title": "\u1019\u1014\u1039\u1010\u1036\u102f", "src": "2018exam/src/shan/S-82.pdf"}, {"title": "\u1019\u1018\u102d\u1019\u1039\u1038", "src": "2018exam/src/shan/S-85.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1000\u102d\u102f\u1004\u1039", "src": "2018exam/src/shan/S-49.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1001\u1010\u1039", "src": "2018exam/src/shan/S-88.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1006\u1010\u1039", "src": "2018exam/src/shan/S-92.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1010\u1036\u102f", "src": "2018exam/src/shan/S-93.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1015\u1014\u1039", "src": "2018exam/src/shan/S-60.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1015\u107d\u1025\u1039\u1038", "src": "2018exam/src/shan/S-94.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u101a\u1014\u1039\u1038", "src": "2018exam/src/shan/S-89.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u103b\u1016\u1010\u1039", "src": "2018exam/src/shan/S-90.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u101b\u101a\u1039", "src": "2018exam/src/shan/S-65.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u101b\u103d\u1034\u1038", "src": "2018exam/src/shan/S-54.pdf"}, {"title": "\u1019\u102d\u102f\u1004\u1039\u1038\u1031\u101a\u102c\u1004\u1039\u1038", "src": "2018exam/src/shan/S-91.pdf"}, {"title": "\u1019\u102d\u102f\u1038\u1014\u1032", "src": "2018exam/src/shan/S-57.pdf"}, {"title": "\u1019\u102d\u102f\u1038\u1019\u102d\u1010\u1039", "src": "2018exam/src/shan/S-83.pdf"}, {"title": "\u1019\u1030\u1006\u101a\u1039", "src": "2018exam/src/shan/S-68.pdf"}, {"title": "\u101b\u1015\u1039\u1031\u1005\u102c\u1000\u1039", "src": "2018exam/src/shan/S-21.pdf"}, {"title": "\u101b\u103c\u102c\u1004\u1036", "src": "2018exam/src/shan/S-32.pdf"}, {"title": "\u101c\u1004\u1039\u1038\u1031\u1001\u1038", "src": "2018exam/src/shan/S-56.pdf"}, {"title": "\u101c\u102c\u1038\u101b\u103d\u102d\u1034\u1038", "src": "2018exam/src/shan/S-61.pdf"}, {"title": "\u101c\u102d\u103c\u1033\u1004\u1039\u101c\u1004\u1039", "src": "2018exam/src/shan/S-44.pdf"}, {"title": "\u101e\u102d\u1014\u1039\u1038\u1014\u102e", "src": "2018exam/src/shan/S-62.pdf"}, {"title": "\u101e\u102e\u1031\u1015\u102b", "src": "2018exam/src/shan/S-80.pdf"}, {"title": "\u101f\u102d\u102f\u1015\u1014\u1039", "src": "2018exam/src/shan/file_1FUSJk6wyfD2olVJk_UeqDQrX1QiJpkD6.bin"}, {"title": "\u101f\u102d\u102f\u1015\u1036\u102f\u1038", "src": "2018exam/src/shan/S-42.pdf"}, {"title": "\u1031\u1000\u107d\u1038\u101e\u102e\u1038\u1019\u1036\u1005\u1036", "src": "2018exam/src/shan/S-51.pdf"}, {"title": "\u1031\u1000\u107d\u102c\u1000\u1039\u1019\u1032", "src": "2018exam/src/shan/S-72.pdf"}, {"title": "\u1031\u100a\u102c\u1004\u1039\u1031\u101b\u108a", "src": "2018exam/src/shan/S-7.pdf"}, {"title": "\u1031\u1010\u102c\u1004\u1039\u1080\u1000\u102e\u1038", "src": "2018exam/src/shan/S-1.pdf"}, {"title": "\u1031\u1014\u102c\u1004\u1039\u1001\u107d\u102d\u1033", "src": "2018exam/src/shan/S-74.pdf"}, {"title": "\u1031\u1019\u102c\u1000\u1039\u1019\u101a\u1039", "src": "2018exam/src/shan/S-59.pdf"}, {"title": "\u1031\u101c\u102c\u1000\u1039\u1000\u102d\u102f\u1004\u1039", "src": "2018exam/src/shan/S-67.pdf"}],
-"နိုင်ငံခြား":[{"title": "\u108f\u102d\u102f\u1004\u1039\u1004\u1036\u103b\u1001\u102c\u1038", "src": "2018exam/src/yangon/FGN-01.pdf"}]
-
+  ],
+  "မန္တလေးတိုင်းဒေသကြီး": [
+    {
+      "title": "ခ်မ္းျမသာစည္ (မနၱေလး)",
+      "src": "2018exam/src/default/MDL-4.pdf"
+    },
+    {
+      "title": "ခ်မ္းေအးသာစံ (မနၱေလး)",
+      "src": "2018exam/src/default/MDL-2.pdf"
+    },
+    {
+      "title": "ငါန္းဇြန္",
+      "src": "2018exam/src/default/MDL-57.pdf"
+    },
+    {
+      "title": "စဉ့္ကိုင္",
+      "src": "2018exam/src/default/MDL-38.pdf"
+    },
+    {
+      "title": "စဉ့္ကူး",
+      "src": "2018exam/src/default/MDL-26.pdf"
+    },
+    {
+      "title": "တံတားဦး",
+      "src": "2018exam/src/default/MDL-36.pdf"
+    },
+    {
+      "title": "ပုသိမ္ၾကီး",
+      "src": "2018exam/src/default/MDL-6.pdf"
+    },
+    {
+      "title": "မတၱရာ",
+      "src": "2018exam/src/default/MDL-22.pdf"
+    },
+    {
+      "title": "မလွိုင္",
+      "src": "2018exam/src/default/MDL-99.pdf"
+    },
+    {
+      "title": "မဟာေအာင္ေျမ (မနၱေလး)",
+      "src": "2018exam/src/default/MDL-3.pdf"
+    },
+    {
+      "title": "မိတၳီလာ",
+      "src": "2018exam/src/default/MDL-81.pdf"
+    },
+    {
+      "title": "မိုးကုတ္",
+      "src": "2018exam/src/default/MDL-14.pdf"
+    },
+    {
+      "title": "ျပင္ဦးလြင္",
+      "src": "2018exam/src/default/MDL-12.pdf"
+    },
+    {
+      "title": "ျပည္ၾကီးတံခြန္ (မနၱေလး)",
+      "src": "2018exam/src/default/MDL-5.pdf"
+    },
+    {
+      "title": "ျမင္းျခံ",
+      "src": "2018exam/src/default/MDL-40.pdf"
+    },
+    {
+      "title": "ျမစ္သား",
+      "src": "2018exam/src/default/MDL-32.pdf"
+    },
+    {
+      "title": "ရမည္းသင္း",
+      "src": "2018exam/src/default/MDL-72.pdf"
+    },
+    {
+      "title": "သပိတ္က်င္း",
+      "src": "2018exam/src/default/MDL-17.pdf"
+    },
+    {
+      "title": "သာစည္",
+      "src": "2018exam/src/default/MDL-86.pdf"
+    },
+    {
+      "title": "သဲေတာ (ဝမ္းတြင္း)",
+      "src": "2018exam/src/default/MDL-97.pdf"
+    },
+    {
+      "title": "အမရပူရ",
+      "src": "2018exam/src/default/MDL-9.pdf"
+    },
+    {
+      "title": "ေက်ာက္ဆည္",
+      "src": "2018exam/src/default/MDL-30.pdf"
+    },
+    {
+      "title": "ေက်ာက္ပန္းေတာင္း",
+      "src": "2018exam/src/default/MDL-67.pdf"
+    },
+    {
+      "title": "ေညာင္ဦး",
+      "src": "2018exam/src/default/MDL-61.pdf"
+    },
+    {
+      "title": "ေတာင္သာ",
+      "src": "2018exam/src/default/MDL-48.pdf"
+    },
+    {
+      "title": "ေအာင္ေျမသာစံ (မနၱေလး)",
+      "src": "2018exam/src/default/MDL-1.pdf"
+    },
+    {
+      "title": "ႏြားထိုးၾကီး",
+      "src": "2018exam/src/default/MDL-43.pdf"
+    }
+  ],
+  "နေပြည်တော်": [
+    {
+      "title": "အထက(၂၂) ေနျပည္ေတာ္",
+      "src": "2018exam/src/naypyitaw/NPT-22.pdf"
+    },
+    {
+      "title": "အထက(၁၄) ေနျပည္ေတာ္ (ဇမၺဴသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-21.pdf"
+    },
+    {
+      "title": "ဇမၺဴသီရိ",
+      "src": "2018exam/src/naypyitaw/NPT-20.pdf"
+    },
+    {
+      "title": "(နတအ) မက်ီးပင္ ( တပ္ကုန္း )",
+      "src": "2018exam/src/naypyitaw/NPT-17.pdf"
+    },
+    {
+      "title": "(နတရ) ေ႐ႊၿမိဳ႕ ( တပ္ကုန္း )",
+      "src": "2018exam/src/naypyitaw/NPT-16.pdf"
+    },
+    {
+      "title": "(နတည) ေညာင္လြန္႔ ( တပ္ကုန္း )",
+      "src": "2018exam/src/naypyitaw/NPT-15.pdf"
+    },
+    {
+      "title": "(နတမ) M.R.T.V ( တပ္ကုန္း )",
+      "src": "2018exam/src/naypyitaw/NPT-14.pdf"
+    },
+    {
+      "title": "(နတပ) က.ပ.စ(၁) (တပ္ကုန္း)",
+      "src": "2018exam/src/naypyitaw/NPT-13.pdf"
+    },
+    {
+      "title": "(နတက) တပ္ကုန္း",
+      "src": "2018exam/src/naypyitaw/NPT-12.pdf"
+    },
+    {
+      "title": "(နဒန) အထက (၁၉) ေနျပည္ေတာ္ ( ဒကၡိဏသီရိ )",
+      "src": "2018exam/src/naypyitaw/NPT-19.pdf"
+    },
+    {
+      "title": "(နဒက) အထက (၁၈) ေနျပည္ေတာ္ ( ဒကၡိဏသီရိ )",
+      "src": "2018exam/src/naypyitaw/NPT-18.pdf"
+    },
+    {
+      "title": "(နကပ) အထက(၂၀) ေနျပည္ေတာ္ (ပုဗၺသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-11.pdf"
+    },
+    {
+      "title": "(နကန)အထက(၁၃) နေပြည်တော် (ပုဗ္ဗသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-10.pdf"
+    },
+    {
+      "title": "(နကတ)က်ည္ေတာင္ကန္ (ပုဗၺသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-9.pdf"
+    },
+    {
+      "title": "(နပဗ)ပုဗၺသီရိ",
+      "src": "2018exam/src/naypyitaw/NPT-8.pdf"
+    },
+    {
+      "title": "(နပသ) ေညာင္ပင္သာ (ပ်ဥ္းမနား)",
+      "src": "2018exam/src/naypyitaw/NPT-26.pdf"
+    },
+    {
+      "title": "(နပလ) သစ္ေလးလုံး (ပ်ဥ္းမနား)",
+      "src": "2018exam/src/naypyitaw/NPT-25.pdf"
+    },
+    {
+      "title": "(နပမ)  အထက(၃) ပ်ဥ္းမနား",
+      "src": "2018exam/src/naypyitaw/NPT-24.pdf"
+    },
+    {
+      "title": "(နပန)  ပ်ဥ္းမနား",
+      "src": "2018exam/src/naypyitaw/NPT-23.pdf"
+    },
+    {
+      "title": "(နသဝ) သာဝတၳိ (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-34.pdf"
+    },
+    {
+      "title": "(နအလ) ေအလာ (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-33.pdf"
+    },
+    {
+      "title": "(နလသ) သစ္ပုတ္ပင္ (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-32.pdf"
+    },
+    {
+      "title": "(နလန) အထက(၄)ေနျပည္ေတာ္ (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-31.pdf"
+    },
+    {
+      "title": "(နလပ) သေျပပင္ (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-30.pdf"
+    },
+    {
+      "title": "(နလခ) ကံသာ (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-29.pdf"
+    },
+    {
+      "title": "(နလက) သဲေကာႀကီး (လယ္ေဝး)",
+      "src": "2018exam/src/naypyitaw/NPT-28.pdf"
+    },
+    {
+      "title": "(နလဝ) လယ္ေဝး",
+      "src": "2018exam/src/naypyitaw/NPT-27.pdf"
+    },
+    {
+      "title": "(နဥန)အထက(၁၂) ေနျပည္ေတာ္ (ဥတၱရသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-3.pdf"
+    },
+    {
+      "title": "(နဥမ)မင္းကုန္း (ဥတၱရသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-2.pdf"
+    },
+    {
+      "title": "(နဥတ)ေတာင္ညို (ဥတၱရသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-1.pdf"
+    },
+    {
+      "title": "(နရဆ)ေရဆင္း (ေဇယ်ာသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-7.pdf"
+    },
+    {
+      "title": "(နဇန)အထက(၁၆) ေနျပည္ေတာ္ (ေဇယ်ာသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-6.pdf"
+    },
+    {
+      "title": "(နဇအ)ျပည္စံေအာင္ (ေဇယ်ာသီရိ)",
+      "src": "2018exam/src/naypyitaw/NPT-5.pdf"
+    },
+    {
+      "title": "(နဇယ)ေဇယ်ာသီရိ",
+      "src": "2018exam/src/naypyitaw/NPT-4.pdf"
+    }
+  ],
+  "ဧရာဝတီတိုင်းဒေသကြီး ": [
+    {
+      "title": "ကန္ျကီးေထာင့္",
+      "src": "2018exam/src/ayerwaddy/AYA-56.pdf"
+    },
+    {
+      "title": "က်ိဳက္လတ္",
+      "src": "2018exam/src/ayerwaddy/AYA-134.pdf"
+    },
+    {
+      "title": "က်ံဳေပ်ာ္",
+      "src": "2018exam/src/ayerwaddy/AYA-31.pdf"
+    },
+    {
+      "title": "ငပုေတာ",
+      "src": "2018exam/src/ayerwaddy/AYA-20.pdf"
+    },
+    {
+      "title": "ဇလြန္",
+      "src": "2018exam/src/ayerwaddy/AYA-172.pdf"
+    },
+    {
+      "title": "ဓနုျဖဴ",
+      "src": "2018exam/src/ayerwaddy/AYA-90.pdf"
+    },
+    {
+      "title": "ပန္းတေနာ္",
+      "src": "2018exam/src/ayerwaddy/AYA-80.pdf"
+    },
+    {
+      "title": "ပုသိမ္",
+      "src": "2018exam/src/ayerwaddy/AYA-1.pdf"
+    },
+    {
+      "title": "ဖ်ာပံု",
+      "src": "2018exam/src/ayerwaddy/AYA-112.pdf"
+    },
+    {
+      "title": "ၾကံခင္း",
+      "src": "2018exam/src/ayerwaddy/AYA-169.pdf"
+    },
+    {
+      "title": "ဘိုကေလး",
+      "src": "2018exam/src/ayerwaddy/AYA-128.pdf"
+    },
+    {
+      "title": "မအူပင္",
+      "src": "2018exam/src/ayerwaddy/AYA-65.pdf"
+    },
+    {
+      "title": "ျမန္ေအာင္",
+      "src": "2018exam/src/ayerwaddy/AYA-194.pdf"
+    },
+    {
+      "title": "လပြတၱာ",
+      "src": "2018exam/src/ayerwaddy/AYA-97.pdf"
+    },
+    {
+      "title": "ဝါးခယ္မ",
+      "src": "2018exam/src/ayerwaddy/AYA-147.pdf"
+    },
+    {
+      "title": "သာေပါင္း",
+      "src": "2018exam/src/ayerwaddy/AYA-51.pdf"
+    },
+    {
+      "title": "ဟသၤာတ",
+      "src": "2018exam/src/ayerwaddy/AYA-160.pdf"
+    },
+    {
+      "title": "အဂၤပူ",
+      "src": "2018exam/src/ayerwaddy/AYA-187.pdf"
+    },
+    {
+      "title": "အိမ္မဲ",
+      "src": "2018exam/src/ayerwaddy/AYA-153.pdf"
+    },
+    {
+      "title": "ေညာင္တုန္း",
+      "src": "2018exam/src/ayerwaddy/AYA-74.pdf"
+    },
+    {
+      "title": "ေျမာင္းျမ",
+      "src": "2018exam/src/ayerwaddy/AYA-139.pdf"
+    },
+    {
+      "title": "ေရျကည္",
+      "src": "2018exam/src/ayerwaddy/AYA-42.pdf"
+    },
+    {
+      "title": "ေလးမ်က္နွာ",
+      "src": "2018exam/src/ayerwaddy/AYA-181.pdf"
+    }
+  ],
+  "စစ်ကိုင်းတိုင်းဒေသကြီး": [
+    {
+      "title": "(စလတ) လွေတာ (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/62.pdf"
+    },
+    {
+      "title": "(စရမ) ရွိမၼကား (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/61.pdf"
+    },
+    {
+      "title": "(စဍရ)  ႐ြာသာႀကီး (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/60.pdf"
+    },
+    {
+      "title": "(စဍပ) ေ႐ႊပန္းကုံး (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/59.pdf"
+    },
+    {
+      "title": "(စဍက) ေပါက္ကန္ (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/file_1-kzTdqwoRNjFixcZwDCNpaSMi9-R4vF0.bin"
+    },
+    {
+      "title": "(စဍ) ဝက္လက္",
+      "src": "2018exam/src/sagaing/57.pdf"
+    },
+    {
+      "title": "(စဂတ) ဂ်ိဳးေတာင္ (ဝန္းသို)",
+      "src": "2018exam/src/sagaing/108.pdf"
+    },
+    {
+      "title": "(စဒ) ဝန္းသို",
+      "src": "2018exam/src/sagaing/107.pdf"
+    },
+    {
+      "title": "(စမန) ဝင္မနား (ကနီ)",
+      "src": "2018exam/src/sagaing/90.pdf"
+    },
+    {
+      "title": "(စဂန) နတ္ႀကီး (ကနီ)",
+      "src": "2018exam/src/sagaing/88.pdf"
+    },
+    {
+      "title": "(စခန) ခ်ိဳင္ (ကနီ)",
+      "src": "2018exam/src/sagaing/87.pdf"
+    },
+    {
+      "title": "(စကရ) ကင္း (ကနီ)",
+      "src": "2018exam/src/sagaing/86.pdf"
+    },
+    {
+      "title": "(စဂ) ကနီ",
+      "src": "2018exam/src/sagaing/85.pdf"
+    },
+    {
+      "title": "(စဃမ) မလယ္ (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/43.pdf"
+    },
+    {
+      "title": "(စဃဘ) ကာဘိုး (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/42.pdf"
+    },
+    {
+      "title": "(စဃထ) ထန္းကုန္း (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/41.pdf"
+    },
+    {
+      "title": "(စဃက) ကိုးေထာင္ဘို႔ (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/40.pdf"
+    },
+    {
+      "title": "(စခသ) ခ်ပ္သင္း (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/39.pdf"
+    },
+    {
+      "title": "(စဧ) ဇီးကုန္း (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/38.pdf"
+    },
+    {
+      "title": "(စဈရ) ႐ြာကုန္းႀကီး (ကြၽန္းလွ)",
+      "src": "2018exam/src/sagaing/50.pdf"
+    },
+    {
+      "title": "(စဈည) ေညာင္ကိုင္း (ကြၽန္းလွ)",
+      "src": "2018exam/src/sagaing/49.pdf"
+    },
+    {
+      "title": "(စဈသ) သစ္ရာၿမိဳင္ (ကြၽန္းလွ)",
+      "src": "2018exam/src/sagaing/48.pdf"
+    },
+    {
+      "title": "(စဈ) ကြၽန္းလွ",
+      "src": "2018exam/src/sagaing/47.pdf"
+    },
+    {
+      "title": "ကသာ",
+      "src": "2018exam/src/sagaing/101.pdf"
+    },
+    {
+      "title": "(စသက)ေက်ာက္ထုံးႀကီး (ကသာ)",
+      "src": "2018exam/src/sagaing/file_1Cbw4Xs7DnKeRCoALfcPj8crmz3HE1yaZ.bin"
+    },
+    {
+      "title": "(စမတ)မိုးတား (ကသာ)",
+      "src": "2018exam/src/sagaing/99.pdf"
+    },
+    {
+      "title": "(စအက) အင္ဒိုင္းႀကီး (ကေလး)",
+      "src": "2018exam/src/sagaing/21.pdf"
+    },
+    {
+      "title": "(စကသ) တင္သား (ကေလး)",
+      "src": "2018exam/src/sagaing/20.pdf"
+    },
+    {
+      "title": "(စကလ) လက္ပံေခ်ာင္း (ကေလး)",
+      "src": "2018exam/src/sagaing/19.pdf"
+    },
+    {
+      "title": "(စကခ) နတ္ေခ်ာင္း (ကေလး)",
+      "src": "2018exam/src/sagaing/18.pdf"
+    },
+    {
+      "title": "(စကက) ေက်ာ္႐ြာ (ကေလး)",
+      "src": "2018exam/src/sagaing/17.pdf"
+    },
+    {
+      "title": "(စက) ကေလး",
+      "src": "2018exam/src/sagaing/16.pdf"
+    },
+    {
+      "title": "(စဃ) ကန႔္ဘလူ",
+      "src": "2018exam/src/sagaing/37.pdf"
+    },
+    {
+      "title": "(စဝ) မစိန္ (ကေလးဝ)",
+      "src": "2018exam/src/sagaing/31.pdf"
+    },
+    {
+      "title": "(စဝ) ကေလးဝ",
+      "src": "2018exam/src/sagaing/30.pdf"
+    },
+    {
+      "title": "(စမဒ) ျမင္းေဒါင္း (ခင္ဦး)",
+      "src": "2018exam/src/sagaing/64.pdf"
+    },
+    {
+      "title": "(စဥ) ခင္ဦး",
+      "src": "2018exam/src/sagaing/63.pdf"
+    },
+    {
+      "title": "(စခ) ခႏၲီး",
+      "src": "2018exam/src/sagaing/128.pdf"
+    },
+    {
+      "title": "(စအတ) အုန္းေတာ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/9.pdf"
+    },
+    {
+      "title": "(စရက) ႐ြာသစ္ႀကီး (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/8.pdf"
+    },
+    {
+      "title": "(စစဝ) ေ႐ႊမင္းဝံ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/7.pdf"
+    },
+    {
+      "title": "(စစမ) မင္းကြန္း (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/6.pdf"
+    },
+    {
+      "title": "(စစတ) ဆားေတာင္ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/5.pdf"
+    },
+    {
+      "title": "(စစည) ေညာင္ပင္ဝန္း (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/4.pdf"
+    },
+    {
+      "title": "(စစရ) ထ(ခြဲ)ရန္ႏိုင္ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/3.pdf"
+    },
+    {
+      "title": "(စစက) ထ(၃)စစ္ကိုင္း",
+      "src": "2018exam/src/sagaing/2.pdf"
+    },
+    {
+      "title": "(စစ) စစ္ကိုင္း",
+      "src": "2018exam/src/sagaing/1.pdf"
+    },
+    {
+      "title": "စစ္ကိုင္း",
+      "src": "2018exam/src/sagaing/102.pdf"
+    },
+    {
+      "title": "(စဏပ)ေညာင္ပင္ႀကီး (ဆားလင္းႀကီး)",
+      "src": "2018exam/src/sagaing/98.pdf"
+    },
+    {
+      "title": "ဆားလင္းၾကီး",
+      "src": "2018exam/src/sagaing/97.pdf"
+    },
+    {
+      "title": "(စကန)ေၾကးနီ (ဆားလင္းႀကီး)",
+      "src": "2018exam/src/sagaing/96.pdf"
+    },
+    {
+      "title": "(စကတ)က်ားတက္ (ဆားလင္းႀကီး)",
+      "src": "2018exam/src/sagaing/95.pdf"
+    },
+    {
+      "title": "(စနက) နဘက္ႀကီး (တန႔္ဆည္)",
+      "src": "2018exam/src/sagaing/56.pdf"
+    },
+    {
+      "title": "(စကထ) ကံထူးမ (တန႔္ဆည္)",
+      "src": "2018exam/src/sagaing/55.pdf"
+    },
+    {
+      "title": "(စဌ) တန႔္ဆည္",
+      "src": "2018exam/src/sagaing/54.pdf"
+    },
+    {
+      "title": "(စဓသ) ၿမိဳ႕သစ္ (တမူး)",
+      "src": "2018exam/src/sagaing/29.pdf"
+    },
+    {
+      "title": "(စခပ) ခမ္းပတ္ (တမူး)",
+      "src": "2018exam/src/sagaing/28.pdf"
+    },
+    {
+      "title": "(စဓ) တမူး",
+      "src": "2018exam/src/sagaing/27.pdf"
+    },
+    {
+      "title": "(စထအ) အလယ္ေတာ (ထီးခ်ိဳင့္)",
+      "src": "2018exam/src/sagaing/106.pdf"
+    },
+    {
+      "title": "(စထမ) ျမေတာင္ (ထီးခ်ိဳင့္)",
+      "src": "2018exam/src/sagaing/105.pdf"
+    },
+    {
+      "title": "(စထန) ကမ္းနီ (ထီးခ်ိဳင့္)",
+      "src": "2018exam/src/sagaing/104.pdf"
+    },
+    {
+      "title": "(စထ) ထီးခ်ိဳင့္",
+      "src": "2018exam/src/sagaing/103.pdf"
+    },
+    {
+      "title": "(စနဆ) ပန္ေဆာင္ (နန္းယြန္း)",
+      "src": "2018exam/src/sagaing/141.pdf"
+    },
+    {
+      "title": "(စနယ) နန္းယြန္း",
+      "src": "2018exam/src/sagaing/140.pdf"
+    },
+    {
+      "title": "(စဠမ) ေျမလင္း (ပင္လည္ဘူး)",
+      "src": "2018exam/src/sagaing/115.pdf"
+    },
+    {
+      "title": "(စဠ) မိေခ်ာင္းအင္း (ပင္လည္ဘူး)",
+      "src": "2018exam/src/sagaing/113.pdf"
+    },
+    {
+      "title": "(စဠ) ပင္လည္ဘူး",
+      "src": "2018exam/src/sagaing/112.pdf"
+    },
+    {
+      "title": "(စဎ) ပုလဲ",
+      "src": "2018exam/src/sagaing/91.pdf"
+    },
+    {
+      "title": "ပုလဲ",
+      "src": "2018exam/src/sagaing/94.pdf"
+    },
+    {
+      "title": "(စပလ)မင္းတိုင္ပင္ (ပုလဲ)",
+      "src": "2018exam/src/sagaing/93.pdf"
+    },
+    {
+      "title": "(စဎတ)ေတာင္ပိေတာက္ကုန္း (ပုလဲ)",
+      "src": "2018exam/src/sagaing/92.pdf"
+    },
+    {
+      "title": "(စဗစ) မံစီ (ဗန္းေမာက္)",
+      "src": "2018exam/src/sagaing/120.pdf"
+    },
+    {
+      "title": "(စဗမ)  ဗန္းေမာက္",
+      "src": "2018exam/src/sagaing/119.pdf"
+    },
+    {
+      "title": "(စပသ) သခြတၱနယ္ (ဘုတလင္)",
+      "src": "2018exam/src/sagaing/76.pdf"
+    },
+    {
+      "title": "(စပထ) ေမာင္းေထာင္ (ဘုတလင္)",
+      "src": "2018exam/src/sagaing/75.pdf"
+    },
+    {
+      "title": "(စပည) ေညာင္ကန္ (ဘုတလင္)",
+      "src": "2018exam/src/sagaing/74.pdf"
+    },
+    {
+      "title": "(စပ) ဘုတလင္",
+      "src": "2018exam/src/sagaing/73.pdf"
+    },
+    {
+      "title": "(စပဆ) ပန္းဆက္ (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/26.pdf"
+    },
+    {
+      "title": "(စညသ) ပေသး (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/24.pdf"
+    },
+    {
+      "title": "(စညလ) ပြင့္လ်က္ (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/24.pdf"
+    },
+    {
+      "title": "(စကပ) ၾကာပင္ (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/23.pdf"
+    },
+    {
+      "title": "(စည) မင္းကင္း",
+      "src": "2018exam/src/sagaing/22.pdf"
+    },
+    {
+      "title": "(စအလ) အလုံ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/69.pdf"
+    },
+    {
+      "title": "(စရရ) ေက်ာကၠာ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/68.pdf"
+    },
+    {
+      "title": "(စရည) ေညာင္ျဖဴပင္ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/67.pdf"
+    },
+    {
+      "title": "(စရည) ေညာင္ျဖဴပင္ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/67.pdf"
+    },
+    {
+      "title": "(စမရ) မုံေ႐ြးေၾကးမုံ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/66.pdf"
+    },
+    {
+      "title": "(စရ) မုံ႐ြာ",
+      "src": "2018exam/src/sagaing/65.pdf"
+    },
+    {
+      "title": "(စရပ) ရင္ေပါင္တိုင္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/84.pdf"
+    },
+    {
+      "title": "(စယထ) ထန္းေတာႀကီး (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/83.pdf"
+    },
+    {
+      "title": "(စယဆ) ဆင္စြယ္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/82.pdf"
+    },
+    {
+      "title": "(စကမ) စုန္းေခ်ာင္း၊ ေက်ာက္ေမွာ္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/81.pdf"
+    },
+    {
+      "title": "(စကမ) ေက်ာက္ေမွာ္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/80.pdf"
+    },
+    {
+      "title": "(စယ) ယင္းမာပင္",
+      "src": "2018exam/src/sagaing/79.pdf"
+    },
+    {
+      "title": "(စဆလ) အလႅကပၸ (ျမင္းမူ)",
+      "src": "2018exam/src/sagaing/11.pdf"
+    },
+    {
+      "title": "(စဆ) ျမင္းမူ",
+      "src": "2018exam/src/sagaing/10.pdf"
+    },
+    {
+      "title": "(စလဟ) လဟယ္",
+      "src": "2018exam/src/sagaing/139.pdf"
+    },
+    {
+      "title": "(စလရ) ေလရွီး",
+      "src": "2018exam/src/sagaing/137.pdf"
+    },
+    {
+      "title": "(စဟသ) ေသာင္သြပ္ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/136.pdf"
+    },
+    {
+      "title": "(စဟရ) ေ႐ႊျပည္ေအး (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/135.pdf"
+    },
+    {
+      "title": "(စဟမ) ေမာင္းခမ္း (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/134.pdf"
+    },
+    {
+      "title": "(စဟန) နမ့္ေတာ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/133.pdf"
+    },
+    {
+      "title": "(စဟထ) ထမံသီ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/132.pdf"
+    },
+    {
+      "title": "(စဟက) ကက္သာ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/131.pdf"
+    },
+    {
+      "title": "(စနပ) ေနာင္ပိုေအာင္ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/130.pdf"
+    },
+    {
+      "title": "(စဟ) ဟုမၼလင္း",
+      "src": "2018exam/src/sagaing/129.pdf"
+    },
+    {
+      "title": "(စအဇ) မဲဇာ (အင္းေတာ္)",
+      "src": "2018exam/src/sagaing/118.pdf"
+    },
+    {
+      "title": "(စမလ) ေမာ္လူး (အင္းေတာ္)",
+      "src": "2018exam/src/sagaing/117.pdf"
+    },
+    {
+      "title": "(စအ) အင္းေတာ္",
+      "src": "2018exam/src/sagaing/116.pdf"
+    },
+    {
+      "title": "(စတသ) သလဲဘာ (အရာေတာ္)",
+      "src": "2018exam/src/sagaing/71.pdf"
+    },
+    {
+      "title": "(စတ) အရာေတာ္",
+      "src": "2018exam/src/sagaing/70.pdf"
+    },
+    {
+      "title": "(စနဥ) ဥကၠံ (ေကာလင္း)",
+      "src": "2018exam/src/sagaing/111.pdf"
+    },
+    {
+      "title": "(စနခ) ခံသာ (ေကာလင္း)",
+      "src": "2018exam/src/sagaing/110.pdf"
+    },
+    {
+      "title": "(စန) ေကာလင္း",
+      "src": "2018exam/src/sagaing/109.pdf"
+    },
+    {
+      "title": "(စအမ) အျမင့္ (ေခ်ာင္းဦး)",
+      "src": "2018exam/src/sagaing/78.pdf"
+    },
+    {
+      "title": "(စဗ) ေခ်ာင္းဦး",
+      "src": "2018exam/src/sagaing/77.pdf"
+    },
+    {
+      "title": "(စမယ) မင္းယား (ေဖာင္းျပင္)",
+      "src": "2018exam/src/sagaing/127.pdf"
+    },
+    {
+      "title": "(စဖအ) ေရေအာက္ေတာင္း (ေဖာင္းျပင္)",
+      "src": "2018exam/src/sagaing/127.pdf"
+    },
+    {
+      "title": "(စဖရ) သေရာင္း (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/125.pdf"
+    },
+    {
+      "title": "(စဖရ) သေရာင္း (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/124.pdf"
+    },
+    {
+      "title": "(စဖ) ေဖာင္းျပင္",
+      "src": "2018exam/src/sagaing/123.pdf"
+    },
+    {
+      "title": "(စနအ) ေနာင္ႀကီးအိုင္ (အရာေတာ္)",
+      "src": "2018exam/src/sagaing/72.pdf"
+    },
+    {
+      "title": "(စငပ) ပန္းသာ (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/122.pdf"
+    },
+    {
+      "title": "(စငတ) ကင္းတပ္ (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/121.pdf"
+    },
+    {
+      "title": "(စငလ) ေမာ္လိုက္",
+      "src": "2018exam/src/sagaing/121.pdf"
+    },
+    {
+      "title": "(စမက) ေက်ာက္ရစ္ (ေျမာင္)",
+      "src": "2018exam/src/sagaing/15.pdf"
+    },
+    {
+      "title": "(စပမ) ပရိမၼ (ေျမာင္)",
+      "src": "2018exam/src/sagaing/14.pdf"
+    },
+    {
+      "title": "(စနဘ) နဘက္ (ေျမာင္)",
+      "src": "2018exam/src/sagaing/13.pdf"
+    },
+    {
+      "title": "(စမ) ေျမာင္",
+      "src": "2018exam/src/sagaing/12.pdf"
+    },
+    {
+      "title": "(စထဗ) ထန္းေတာေဗာဓိ (ေရဦး)",
+      "src": "2018exam/src/sagaing/45.pdf"
+    },
+    {
+      "title": "(စဇမ) မုံတိုင္ပင္ (ေရဦး)",
+      "src": "2018exam/src/sagaing/45.pdf"
+    },
+    {
+      "title": "(စဇ) ေရဦး",
+      "src": "2018exam/src/sagaing/44.pdf"
+    },
+    {
+      "title": "(စဘည) ေညာင္ပင္သာ (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/36.pdf"
+    },
+    {
+      "title": "(စဘဆ) ဆိပ္ခြန္ (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/35.pdf"
+    },
+    {
+      "title": "(စဘက) ေက်ာက္ေျမာင္း (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/34.pdf"
+    },
+    {
+      "title": "(စဆအ) ဆင္အင္း (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/33.pdf"
+    },
+    {
+      "title": "(စဘ) ေ႐ႊဘို",
+      "src": "2018exam/src/sagaing/32.pdf"
+    },
+    {
+      "title": "(စလမ) ဆြမၼရာ (ေလရွီး)",
+      "src": "2018exam/src/sagaing/138.pdf"
+    },
+    {
+      "title": "(စလတ) လွေတာ (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/62.pdf"
+    },
+    {
+      "title": "(စရမ) ရွိမၼကား (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/61.pdf"
+    },
+    {
+      "title": "(စဍရ)  ႐ြာသာႀကီး (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/60.pdf"
+    },
+    {
+      "title": "(စဍပ) ေ႐ႊပန္းကုံး (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/59.pdf"
+    },
+    {
+      "title": "(စဍက) ေပါက္ကန္ (ဝက္လက္)",
+      "src": "2018exam/src/sagaing/58.pdf"
+    },
+    {
+      "title": "(စဍ) ဝက္လက္",
+      "src": "2018exam/src/sagaing/57.pdf"
+    },
+    {
+      "title": "(စဂတ) ဂ်ိဳးေတာင္ (ဝန္းသို)",
+      "src": "2018exam/src/sagaing/108.pdf"
+    },
+    {
+      "title": "(စဒ) ဝန္းသို",
+      "src": "2018exam/src/sagaing/107.pdf"
+    },
+    {
+      "title": "(စမန) ဝင္မနား (ကနီ)",
+      "src": "2018exam/src/sagaing/90.pdf"
+    },
+    {
+      "title": "(စဂန) နတ္ႀကီး (ကနီ)",
+      "src": "2018exam/src/sagaing/88.pdf"
+    },
+    {
+      "title": "(စခန) ခ်ိဳင္ (ကနီ)",
+      "src": "2018exam/src/sagaing/87.pdf"
+    },
+    {
+      "title": "(စကရ) ကင္း (ကနီ)",
+      "src": "2018exam/src/sagaing/86.pdf"
+    },
+    {
+      "title": "(စဂ) ကနီ",
+      "src": "2018exam/src/sagaing/85.pdf"
+    },
+    {
+      "title": "(စဃမ) မလယ္ (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/43.pdf"
+    },
+    {
+      "title": "(စဃဘ) ကာဘိုး (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/42.pdf"
+    },
+    {
+      "title": "(စဃထ) ထန္းကုန္း (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/41.pdf"
+    },
+    {
+      "title": "(စဃက) ကိုးေထာင္ဘို႔ (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/40.pdf"
+    },
+    {
+      "title": "(စခသ) ခ်ပ္သင္း (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/39.pdf"
+    },
+    {
+      "title": "(စဧ) ဇီးကုန္း (ကန႔္ဘလူ)",
+      "src": "2018exam/src/sagaing/38.pdf"
+    },
+    {
+      "title": "(စဈရ) ႐ြာကုန္းႀကီး (ကြၽန္းလွ)",
+      "src": "2018exam/src/sagaing/50.pdf"
+    },
+    {
+      "title": "(စဈည) ေညာင္ကိုင္း (ကြၽန္းလွ)",
+      "src": "2018exam/src/sagaing/49.pdf"
+    },
+    {
+      "title": "(စဈသ) သစ္ရာၿမိဳင္ (ကြၽန္းလွ)",
+      "src": "2018exam/src/sagaing/48.pdf"
+    },
+    {
+      "title": "(စဈ) ကြၽန္းလွ",
+      "src": "2018exam/src/sagaing/47.pdf"
+    },
+    {
+      "title": "ကသာ",
+      "src": "2018exam/src/sagaing/101.pdf"
+    },
+    {
+      "title": "(စသက)ေက်ာက္ထုံးႀကီး (ကသာ)",
+      "src": "2018exam/src/sagaing/100.pdf"
+    },
+    {
+      "title": "(စမတ)မိုးတား (ကသာ)",
+      "src": "2018exam/src/sagaing/99.pdf"
+    },
+    {
+      "title": "(စအက) အင္ဒိုင္းႀကီး (ကေလး)",
+      "src": "2018exam/src/sagaing/21.pdf"
+    },
+    {
+      "title": "(စကသ) တင္သား (ကေလး)",
+      "src": "2018exam/src/sagaing/20.pdf"
+    },
+    {
+      "title": "(စကလ) လက္ပံေခ်ာင္း (ကေလး)",
+      "src": "2018exam/src/sagaing/19.pdf"
+    },
+    {
+      "title": "(စကခ) နတ္ေခ်ာင္း (ကေလး)",
+      "src": "2018exam/src/sagaing/18.pdf"
+    },
+    {
+      "title": "(စကက) ေက်ာ္႐ြာ (ကေလး)",
+      "src": "2018exam/src/sagaing/17.pdf"
+    },
+    {
+      "title": "(စက) ကေလး",
+      "src": "2018exam/src/sagaing/16.pdf"
+    },
+    {
+      "title": "(စဃ) ကန႔္ဘလူ",
+      "src": "2018exam/src/sagaing/37.pdf"
+    },
+    {
+      "title": "(စဝ) မစိန္ (ကေလးဝ)",
+      "src": "2018exam/src/sagaing/31.pdf"
+    },
+    {
+      "title": "(စဝ) ကေလးဝ",
+      "src": "2018exam/src/sagaing/30.pdf"
+    },
+    {
+      "title": "(စမဒ) ျမင္းေဒါင္း (ခင္ဦး)",
+      "src": "2018exam/src/sagaing/64.pdf"
+    },
+    {
+      "title": "(စဥ) ခင္ဦး",
+      "src": "2018exam/src/sagaing/63.pdf"
+    },
+    {
+      "title": "(စခ) ခႏၲီး",
+      "src": "2018exam/src/sagaing/128.pdf"
+    },
+    {
+      "title": "(စအတ) အုန္းေတာ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/9.pdf"
+    },
+    {
+      "title": "(စရက) ႐ြာသစ္ႀကီး (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/8.pdf"
+    },
+    {
+      "title": "(စစဝ) ေ႐ႊမင္းဝံ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/7.pdf"
+    },
+    {
+      "title": "(စစမ) မင္းကြန္း (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/6.pdf"
+    },
+    {
+      "title": "(စစတ) ဆားေတာင္ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/5.pdf"
+    },
+    {
+      "title": "(စစည) ေညာင္ပင္ဝန္း (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/4.pdf"
+    },
+    {
+      "title": "(စစရ) ထ(ခြဲ)ရန္ႏိုင္ (စစ္ကိုင္း)",
+      "src": "2018exam/src/sagaing/3.pdf"
+    },
+    {
+      "title": "(စစက) ထ(၃)စစ္ကိုင္း",
+      "src": "2018exam/src/sagaing/2.pdf"
+    },
+    {
+      "title": "(စစ) စစ္ကိုင္း",
+      "src": "2018exam/src/sagaing/1.pdf"
+    },
+    {
+      "title": "စစ္ကိုင္း",
+      "src": "2018exam/src/sagaing/102.pdf"
+    },
+    {
+      "title": "(စဏပ)ေညာင္ပင္ႀကီး (ဆားလင္းႀကီး)",
+      "src": "2018exam/src/sagaing/98.pdf"
+    },
+    {
+      "title": "ဆားလင္းၾကီး",
+      "src": "2018exam/src/sagaing/97.pdf"
+    },
+    {
+      "title": "(စကန)ေၾကးနီ (ဆားလင္းႀကီး)",
+      "src": "2018exam/src/sagaing/96.pdf"
+    },
+    {
+      "title": "(စကတ)က်ားတက္ (ဆားလင္းႀကီး)",
+      "src": "2018exam/src/sagaing/95.pdf"
+    },
+    {
+      "title": "(စနက) နဘက္ႀကီး (တန႔္ဆည္)",
+      "src": "2018exam/src/sagaing/56.pdf"
+    },
+    {
+      "title": "(စကထ) ကံထူးမ (တန႔္ဆည္)",
+      "src": "2018exam/src/sagaing/55.pdf"
+    },
+    {
+      "title": "(စဌ) တန႔္ဆည္",
+      "src": "2018exam/src/sagaing/54.pdf"
+    },
+    {
+      "title": "(စဓသ) ၿမိဳ႕သစ္ (တမူး)",
+      "src": "2018exam/src/sagaing/29.pdf"
+    },
+    {
+      "title": "(စခပ) ခမ္းပတ္ (တမူး)",
+      "src": "2018exam/src/sagaing/28.pdf"
+    },
+    {
+      "title": "(စဓ) တမူး",
+      "src": "2018exam/src/sagaing/27.pdf"
+    },
+    {
+      "title": "(စထအ) အလယ္ေတာ (ထီးခ်ိဳင့္)",
+      "src": "2018exam/src/sagaing/106.pdf"
+    },
+    {
+      "title": "(စထမ) ျမေတာင္ (ထီးခ်ိဳင့္)",
+      "src": "2018exam/src/sagaing/105.pdf"
+    },
+    {
+      "title": "(စထန) ကမ္းနီ (ထီးခ်ိဳင့္)",
+      "src": "2018exam/src/sagaing/104.pdf"
+    },
+    {
+      "title": "(စထ) ထီးခ်ိဳင့္",
+      "src": "2018exam/src/sagaing/103.pdf"
+    },
+    {
+      "title": "(စနဆ) ပန္ေဆာင္ (နန္းယြန္း)",
+      "src": "2018exam/src/sagaing/141.pdf"
+    },
+    {
+      "title": "(စနယ) နန္းယြန္း",
+      "src": "2018exam/src/sagaing/140.pdf"
+    },
+    {
+      "title": "(စဠမ) ေျမလင္း (ပင္လည္ဘူး)",
+      "src": "2018exam/src/sagaing/115.pdf"
+    },
+    {
+      "title": "(စဠ) မိေခ်ာင္းအင္း (ပင္လည္ဘူး)",
+      "src": "2018exam/src/sagaing/113.pdf"
+    },
+    {
+      "title": "(စဠ) ပင္လည္ဘူး",
+      "src": "2018exam/src/sagaing/112.pdf"
+    },
+    {
+      "title": "(စဎ) ပုလဲ",
+      "src": "2018exam/src/sagaing/91.pdf"
+    },
+    {
+      "title": "ပုလဲ",
+      "src": "2018exam/src/sagaing/94.pdf"
+    },
+    {
+      "title": "(စပလ)မင္းတိုင္ပင္ (ပုလဲ)",
+      "src": "2018exam/src/sagaing/93.pdf"
+    },
+    {
+      "title": "(စဎတ)ေတာင္ပိေတာက္ကုန္း (ပုလဲ)",
+      "src": "2018exam/src/sagaing/92.pdf"
+    },
+    {
+      "title": "(စဗစ) မံစီ (ဗန္းေမာက္)",
+      "src": "2018exam/src/sagaing/120.pdf"
+    },
+    {
+      "title": "(စဗမ)  ဗန္းေမာက္",
+      "src": "2018exam/src/sagaing/119.pdf"
+    },
+    {
+      "title": "(စပသ) သခြတၱနယ္ (ဘုတလင္)",
+      "src": "2018exam/src/sagaing/76.pdf"
+    },
+    {
+      "title": "(စပထ) ေမာင္းေထာင္ (ဘုတလင္)",
+      "src": "2018exam/src/sagaing/75.pdf"
+    },
+    {
+      "title": "(စပည) ေညာင္ကန္ (ဘုတလင္)",
+      "src": "2018exam/src/sagaing/74.pdf"
+    },
+    {
+      "title": "(စပ) ဘုတလင္",
+      "src": "2018exam/src/sagaing/73.pdf"
+    },
+    {
+      "title": "(စပဆ) ပန္းဆက္ (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/26.pdf"
+    },
+    {
+      "title": "(စညသ) ပေသး (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/24.pdf"
+    },
+    {
+      "title": "(စညလ) ပြင့္လ်က္ (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/24.pdf"
+    },
+    {
+      "title": "(စကပ) ၾကာပင္ (မင္းကင္း)",
+      "src": "2018exam/src/sagaing/23.pdf"
+    },
+    {
+      "title": "(စည) မင္းကင္း",
+      "src": "2018exam/src/sagaing/22.pdf"
+    },
+    {
+      "title": "(စအလ) အလုံ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/69.pdf"
+    },
+    {
+      "title": "(စရရ) ေက်ာကၠာ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/68.pdf"
+    },
+    {
+      "title": "(စရည) ေညာင္ျဖဴပင္ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/67.pdf"
+    },
+    {
+      "title": "(စရည) ေညာင္ျဖဴပင္ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/67.pdf"
+    },
+    {
+      "title": "(စမရ) မုံေ႐ြးေၾကးမုံ (မုံ႐ြာ)",
+      "src": "2018exam/src/sagaing/66.pdf"
+    },
+    {
+      "title": "(စရ) မုံ႐ြာ",
+      "src": "2018exam/src/sagaing/65.pdf"
+    },
+    {
+      "title": "(စရပ) ရင္ေပါင္တိုင္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/84.pdf"
+    },
+    {
+      "title": "(စယထ) ထန္းေတာႀကီး (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/83.pdf"
+    },
+    {
+      "title": "(စယဆ) ဆင္စြယ္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/82.pdf"
+    },
+    {
+      "title": "(စကမ) စုန္းေခ်ာင္း၊ ေက်ာက္ေမွာ္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/81.pdf"
+    },
+    {
+      "title": "(စကမ) ေက်ာက္ေမွာ္ (ယင္းမာပင္)",
+      "src": "2018exam/src/sagaing/80.pdf"
+    },
+    {
+      "title": "(စယ) ယင္းမာပင္",
+      "src": "2018exam/src/sagaing/79.pdf"
+    },
+    {
+      "title": "(စဆလ) အလႅကပၸ (ျမင္းမူ)",
+      "src": "2018exam/src/sagaing/11.pdf"
+    },
+    {
+      "title": "(စဆ) ျမင္းမူ",
+      "src": "2018exam/src/sagaing/10.pdf"
+    },
+    {
+      "title": "(စလဟ) လဟယ္",
+      "src": "2018exam/src/sagaing/139.pdf"
+    },
+    {
+      "title": "(စလရ) ေလရွီး",
+      "src": "2018exam/src/sagaing/137.pdf"
+    },
+    {
+      "title": "(စဟသ) ေသာင္သြပ္ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/136.pdf"
+    },
+    {
+      "title": "(စဟရ) ေ႐ႊျပည္ေအး (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/135.pdf"
+    },
+    {
+      "title": "(စဟမ) ေမာင္းခမ္း (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/134.pdf"
+    },
+    {
+      "title": "(စဟန) နမ့္ေတာ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/133.pdf"
+    },
+    {
+      "title": "(စဟထ) ထမံသီ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/132.pdf"
+    },
+    {
+      "title": "(စဟက) ကက္သာ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/131.pdf"
+    },
+    {
+      "title": "(စနပ) ေနာင္ပိုေအာင္ (ဟုမၼလင္း)",
+      "src": "2018exam/src/sagaing/130.pdf"
+    },
+    {
+      "title": "(စဟ) ဟုမၼလင္း",
+      "src": "2018exam/src/sagaing/129.pdf"
+    },
+    {
+      "title": "(စအဇ) မဲဇာ (အင္းေတာ္)",
+      "src": "2018exam/src/sagaing/118.pdf"
+    },
+    {
+      "title": "(စမလ) ေမာ္လူး (အင္းေတာ္)",
+      "src": "2018exam/src/sagaing/117.pdf"
+    },
+    {
+      "title": "(စအ) အင္းေတာ္",
+      "src": "2018exam/src/sagaing/116.pdf"
+    },
+    {
+      "title": "(စတသ) သလဲဘာ (အရာေတာ္)",
+      "src": "2018exam/src/sagaing/71.pdf"
+    },
+    {
+      "title": "(စတ) အရာေတာ္",
+      "src": "2018exam/src/sagaing/70.pdf"
+    },
+    {
+      "title": "(စနဥ) ဥကၠံ (ေကာလင္း)",
+      "src": "2018exam/src/sagaing/111.pdf"
+    },
+    {
+      "title": "(စနခ) ခံသာ (ေကာလင္း)",
+      "src": "2018exam/src/sagaing/110.pdf"
+    },
+    {
+      "title": "(စန) ေကာလင္း",
+      "src": "2018exam/src/sagaing/109.pdf"
+    },
+    {
+      "title": "(စအမ) အျမင့္ (ေခ်ာင္းဦး)",
+      "src": "2018exam/src/sagaing/78.pdf"
+    },
+    {
+      "title": "(စဗ) ေခ်ာင္းဦး",
+      "src": "2018exam/src/sagaing/77.pdf"
+    },
+    {
+      "title": "(စမယ) မင္းယား (ေဖာင္းျပင္)",
+      "src": "2018exam/src/sagaing/127.pdf"
+    },
+    {
+      "title": "(စဖအ) ေရေအာက္ေတာင္း (ေဖာင္းျပင္)",
+      "src": "2018exam/src/sagaing/127.pdf"
+    },
+    {
+      "title": "(စဖရ) သေရာင္း (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/125.pdf"
+    },
+    {
+      "title": "(စဖရ) သေရာင္း (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/124.pdf"
+    },
+    {
+      "title": "(စဖ) ေဖာင္းျပင္",
+      "src": "2018exam/src/sagaing/123.pdf"
+    },
+    {
+      "title": "(စနအ) ေနာင္ႀကီးအိုင္ (အရာေတာ္)",
+      "src": "2018exam/src/sagaing/72.pdf"
+    },
+    {
+      "title": "(စငပ) ပန္းသာ (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/122.pdf"
+    },
+    {
+      "title": "(စငတ) ကင္းတပ္ (ေမာ္လိုက္)",
+      "src": "2018exam/src/sagaing/121.pdf"
+    },
+    {
+      "title": "(စငလ) ေမာ္လိုက္",
+      "src": "2018exam/src/sagaing/121.pdf"
+    },
+    {
+      "title": "(စမက) ေက်ာက္ရစ္ (ေျမာင္)",
+      "src": "2018exam/src/sagaing/15.pdf"
+    },
+    {
+      "title": "(စပမ) ပရိမၼ (ေျမာင္)",
+      "src": "2018exam/src/sagaing/14.pdf"
+    },
+    {
+      "title": "(စနဘ) နဘက္ (ေျမာင္)",
+      "src": "2018exam/src/sagaing/13.pdf"
+    },
+    {
+      "title": "(စမ) ေျမာင္",
+      "src": "2018exam/src/sagaing/12.pdf"
+    },
+    {
+      "title": "(စထဗ) ထန္းေတာေဗာဓိ (ေရဦး)",
+      "src": "2018exam/src/sagaing/45.pdf"
+    },
+    {
+      "title": "(စဇမ) မုံတိုင္ပင္ (ေရဦး)",
+      "src": "2018exam/src/sagaing/45.pdf"
+    },
+    {
+      "title": "(စဇ) ေရဦး",
+      "src": "2018exam/src/sagaing/44.pdf"
+    },
+    {
+      "title": "(စဘည) ေညာင္ပင္သာ (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/36.pdf"
+    },
+    {
+      "title": "(စဘဆ) ဆိပ္ခြန္ (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/35.pdf"
+    },
+    {
+      "title": "(စဘက) ေက်ာက္ေျမာင္း (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/34.pdf"
+    },
+    {
+      "title": "(စဆအ) ဆင္အင္း (ေ႐ႊဘို)",
+      "src": "2018exam/src/sagaing/33.pdf"
+    },
+    {
+      "title": "(စဘ) ေ႐ႊဘို",
+      "src": "2018exam/src/sagaing/32.pdf"
+    },
+    {
+      "title": "(စလမ) ဆြမၼရာ (ေလရွီး)",
+      "src": "2018exam/src/sagaing/138.pdf"
+    }
+  ],
+  "မကွေးတိုင်းဒေသကြီး": [
+    {
+      "title": "၅၁ (ဖဝရ) ေရနံသာ (ကံမ)",
+      "src": "2018exam/src/magway/51.pdf"
+    },
+    {
+      "title": "၅၀ (ဖဝ) ကံမ",
+      "src": "2018exam/src/magway/50.pdf"
+    },
+    {
+      "title": "၉၉ (ဖမရ) မင္း႐ြာ (ဂန႔္ေဂါ)",
+      "src": "2018exam/src/magway/99.pdf"
+    },
+    {
+      "title": "၉၈ (ဖရရ) ရႈံးရွီ (ဂန႔္ေဂါ)",
+      "src": "2018exam/src/magway/98.pdf"
+    },
+    {
+      "title": "၉၇ (ဖဂဟ) ဟံသာဝတီ (ဂန႔္ေဂါ)",
+      "src": "2018exam/src/magway/97.pdf"
+    },
+    {
+      "title": "၉၆ (ဖတရ) ေတာင္ခင္းရန္း (ဂန႔္ေဂါ)",
+      "src": "2018exam/src/magway/96.pdf"
+    },
+    {
+      "title": "၉၅ (ဖကက) ေက်ာ (ဂန႔္ေဂါ)",
+      "src": "2018exam/src/magway/95.pdf"
+    },
+    {
+      "title": "၉၄ (ဖဧ) ကန္ (ဂန႔္ေဂါ)",
+      "src": "2018exam/src/magway/94.pdf"
+    },
+    {
+      "title": "၉၃ (ဖဂ) ဂန႔္ေဂါ",
+      "src": "2018exam/src/magway/93.pdf"
+    },
+    {
+      "title": "၄၁ (ဖဥပ) ပဒါန္း (ငဖဲ)",
+      "src": "2018exam/src/magway/41.pdf"
+    },
+    {
+      "title": "၄၀ (ဖဥ) ငဖဲ",
+      "src": "2018exam/src/magway/40.pdf"
+    },
+    {
+      "title": "၃၆ (ဖတည) တေညာင္ (စလင္း)",
+      "src": "2018exam/src/magway/36.pdf"
+    },
+    {
+      "title": "၃၅ (ဖစပ) ျပည္စိုးကုန္း (စလင္း)",
+      "src": "2018exam/src/magway/35.pdf"
+    },
+    {
+      "title": "၃၄ (ဖစဇ) ဇီးျဖဴပင္ (စလင္း)",
+      "src": "2018exam/src/magway/34.pdf"
+    },
+    {
+      "title": "၃၃ (ဖဈ) ဆင္ျဖဴကြၽန္း (စလင္း)",
+      "src": "2018exam/src/magway/33.pdf"
+    },
+    {
+      "title": "၃၂ (ဖစ) စလင္း",
+      "src": "2018exam/src/magway/32.pdf"
+    },
+    {
+      "title": "၄၃ (ဖဃ) ဆင္ေပါင္ဝဲ",
+      "src": "2018exam/src/magway/43.pdf"
+    },
+    {
+      "title": "၉၂ (ဖဖန) အေနာက္ကမ္းျဖဴ (ဆိပ္ျဖဴ)",
+      "src": "2018exam/src/magway/92.pdf"
+    },
+    {
+      "title": "၉၁ (ဖလဆ) လက္ဆည္ (ဆိပ္ျဖဴ)",
+      "src": "2018exam/src/magway/91.pdf"
+    },
+    {
+      "title": "၉၀ (ဖဖက) ကဇြန္းမ (ဆိပ္ျဖဴ)",
+      "src": "2018exam/src/magway/89.pdf"
+    },
+    {
+      "title": "၈၉ (ဖဖဆ) ေအာက္ဆိပ္ (ဆိပ္ျဖဴ)",
+      "src": "2018exam/src/magway/89.pdf"
+    },
+    {
+      "title": "၈၈ (ဖဖထ) ထိန္ကန္ (ဆိပ္ျဖဴ)",
+      "src": "2018exam/src/magway/88.pdf"
+    },
+    {
+      "title": "၈၇ (ဖဖ) ဆိပ္ျဖဴ",
+      "src": "2018exam/src/magway/87.pdf"
+    },
+    {
+      "title": "၁၀၄ (ဖထဆ) ေဆးမင္းေတာ (ထီးလင္း)",
+      "src": "2018exam/src/magway/104.pdf"
+    },
+    {
+      "title": "၁၀၃ (ဖထည) ေညာင္ကန္ (ထီးလင္း)",
+      "src": "2018exam/src/magway/103.pdf"
+    },
+    {
+      "title": "၁၀၂ (ဖထရ) ေရမ်က္နီ (ထီးလင္း)",
+      "src": "2018exam/src/magway/102.pdf"
+    },
+    {
+      "title": "၁၀၁ (ဖထက) က်င္း (ထီးလင္း)",
+      "src": "2018exam/src/magway/101.pdf"
+    },
+    {
+      "title": "၁၀၀ (ဖထ) ထီးလင္း",
+      "src": "2018exam/src/magway/100.pdf"
+    },
+    {
+      "title": "(ဖရမ) ႐ြာမြန္ (နတ္ေမာက္)",
+      "src": "2018exam/src/magway/19.pdf"
+    },
+    {
+      "title": "(ဖနအ) အင္းကန္ (နတ္ေမာက္)",
+      "src": "2018exam/src/magway/18.pdf"
+    },
+    {
+      "title": "(ဖရတ) ေ႐ႊပန္းေတာ (နတ္ေမာက္)",
+      "src": "2018exam/src/magway/17.pdf"
+    },
+    {
+      "title": "(ဖနစ) စိုင္ေကာင္း (နတ္ေမာက္)",
+      "src": "2018exam/src/magway/16.pdf"
+    },
+    {
+      "title": "(ဖန) နတ္ေမာက္",
+      "src": "2018exam/src/magway/15.pdf"
+    },
+    {
+      "title": "၆၄ (ဖကခ) ကြၽန္းေခ်ာင္း (ပခုကၠဴ)",
+      "src": "2018exam/src/magway/64.pdf"
+    },
+    {
+      "title": "၆၃ (ဖဠ) ကမၼ (ပခုကၠဴ)",
+      "src": "2018exam/src/magway/63.pdf"
+    },
+    {
+      "title": "၆၂ (ဖပပ) က်ပ္ျပည့္ (ပခုကၠဴ)",
+      "src": "2018exam/src/magway/62.pdf"
+    },
+    {
+      "title": "၆၁ (ဖပန) နန္းေတာ္ရပ္ (ပခုကၠဴ)",
+      "src": "2018exam/src/magway/61.pdf"
+    },
+    {
+      "title": "၅၉ (ဖဌ) ဝါဇီ (ပခုကၠဴ)",
+      "src": "2018exam/src/magway/59.pdf"
+    },
+    {
+      "title": "၅၈ (ဖပ) ပခုကၠဴ",
+      "src": "2018exam/src/magway/58.pdf"
+    },
+    {
+      "title": "၃၁ (ဖပရ) ေရွာက္ေတာ (ပြင့္ျဖဴ)",
+      "src": "2018exam/src/magway/31.pdf"
+    },
+    {
+      "title": "၃၀ (ဖဋ) ကုန္းေဇာင္း (ပြင့္ျဖဴ)",
+      "src": "2018exam/src/magway/30.pdf"
+    },
+    {
+      "title": "၂၉ (ဖငလ) လယ္ကိုင္း (ပြင့္ျဖဴ)",
+      "src": "2018exam/src/magway/29.pdf"
+    },
+    {
+      "title": "၂၈ (ဖငက) ကံသာႀကီး (ပြင့္ျဖဴ)",
+      "src": "2018exam/src/magway/28.pdf"
+    },
+    {
+      "title": "၂၇ (ဖငရ) ေက်ာင္းေတာ္ရာ (ပြင့္ျဖဴ)",
+      "src": "2018exam/src/magway/27.pdf"
+    },
+    {
+      "title": "၂၆ (ဖင) ပြင့္ျဖဴ",
+      "src": "2018exam/src/magway/26.pdf"
+    },
+    {
+      "title": "၄၅ (ဖဒ) မင္းတုန္း",
+      "src": "2018exam/src/magway/45.pdf"
+    },
+    {
+      "title": "၂၅ (ဖဗ) စကု (မင္းဘူး)",
+      "src": "2018exam/src/magway/25.pdf"
+    },
+    {
+      "title": "၂၄ (ဖဘရ) ႐ြာသာယာ (မင္းဘူး)",
+      "src": "2018exam/src/magway/24.pdf"
+    },
+    {
+      "title": "၂၃ (ဖဘမ) မုန္ေတာင္ (မင္းဘူး)",
+      "src": "2018exam/src/magway/23.pdf"
+    },
+    {
+      "title": "မင္းဘူး",
+      "src": "2018exam/src/magway/22.pdf"
+    },
+    {
+      "title": "၄၉ (ဖလလ) လက္ပံတံခါး (မင္းလွ)",
+      "src": "2018exam/src/magway/file_1378KF80BC0U8V7Y1stKjETa9s84zwrDL.bin"
+    },
+    {
+      "title": "၄၈ (ဖမလ) မလြန္ (မင္းလွ)",
+      "src": "2018exam/src/magway/48.pdf"
+    },
+    {
+      "title": "၄၇ (ဖလက) လင္းကယ္ (မင္းလွ)",
+      "src": "2018exam/src/magway/47.pdf"
+    },
+    {
+      "title": "၄၆ (ဖလ) မင္းလွ",
+      "src": "2018exam/src/magway/46.pdf"
+    },
+    {
+      "title": "၆၀ (ဖဓ) ျမစ္ေျခ (ပခုကၠဴ)",
+      "src": "2018exam/src/magway/60.pdf"
+    },
+    {
+      "title": "(ဖသက) သစ္ရာေကာက္ (မေကြး)",
+      "src": "2018exam/src/magway/5.pdf"
+    },
+    {
+      "title": "(ဖမမ) ျမင္ကြန္း (မေကြး)",
+      "src": "2018exam/src/magway/4.pdf"
+    },
+    {
+      "title": "(ဖမက) မိေက်ာင္းရဲ (မေကြး)",
+      "src": "2018exam/src/magway/3.pdf"
+    },
+    {
+      "title": "(ဖမပ) ကန္ျပား (မေကြး)",
+      "src": "2018exam/src/magway/2.pdf"
+    },
+    {
+      "title": "(ဖမ) မေကြး",
+      "src": "2018exam/src/magway/1.pdf"
+    },
+    {
+      "title": "(ဖကအ) ဝါးႀကီးအိုင္ (ၿမိဳ႕သစ္)",
+      "src": "2018exam/src/magway/12.pdf"
+    },
+    {
+      "title": "(ဖဆ) ၿမိဳ႕သစ္",
+      "src": "2018exam/src/magway/11.pdf"
+    },
+    {
+      "title": "၇၉ (ဖဇလ) လင္းကေတာ (ၿမိဳင္)",
+      "src": "2018exam/src/magway/79.pdf"
+    },
+    {
+      "title": "၇၈ (ဖလယ) လက္ယက္မ (ၿမိဳင္)",
+      "src": "2018exam/src/magway/78.pdf"
+    },
+    {
+      "title": "၇၇ (ဖကတ) ကိုင္းေတာမ (ၿမိဳင္)",
+      "src": "2018exam/src/magway/77.pdf"
+    },
+    {
+      "title": "၇၆ (ဖဇတ) တြင္းမ (ၿမိဳင္)",
+      "src": "2018exam/src/magway/76.pdf"
+    },
+    {
+      "title": "၇၅ (ဖဇဟ) ဗဟင္း (ၿမိဳင္)",
+      "src": "2018exam/src/magway/75.pdf"
+    },
+    {
+      "title": "၇၄ (ဖဇ) ၿမိဳင္",
+      "src": "2018exam/src/magway/74.pdf"
+    },
+    {
+      "title": "၄၂ (ဖသ) သရက္",
+      "src": "2018exam/src/magway/42.pdf"
+    },
+    {
+      "title": "(ဖခတ) ေၾကာင္လွ်ာေတာ (ေခ်ာက္)",
+      "src": "2018exam/src/magway/10.pdf"
+    },
+    {
+      "title": "(ဖဂပ) ေဂြးပင္ (ေခ်ာက္)",
+      "src": "2018exam/src/magway/9.pdf"
+    },
+    {
+      "title": "(ဖဂခ) ေဂြးခ်ိဳ (ေခ်ာက္)",
+      "src": "2018exam/src/magway/8.pdf"
+    },
+    {
+      "title": "(ဖဎ) စေလ (ေခ်ာက္)",
+      "src": "2018exam/src/magway/7.pdf"
+    },
+    {
+      "title": "(ဖခ) ေခ်ာက္",
+      "src": "2018exam/src/magway/6.pdf"
+    },
+    {
+      "title": "၃၉ (ဖဏဘ) ဘူး (ေစတုတၱရာ)",
+      "src": "2018exam/src/magway/39.pdf"
+    },
+    {
+      "title": "၃၈ (ဖဏတ) တန႔္လည္က်င္း (ေစတုတၱရာ)",
+      "src": "2018exam/src/magway/38.pdf"
+    },
+    {
+      "title": "၃၇ (ဖဏ) ေစတုတၱရာ",
+      "src": "2018exam/src/magway/37.pdf"
+    },
+    {
+      "title": "၁၀၉ (ဖလရ) ေလာင္းရွည္ (ေဆာ)",
+      "src": "2018exam/src/magway/109.pdf"
+    },
+    {
+      "title": "၁၀၈ (ဖယပ) တျပင္း (ေဆာ)",
+      "src": "2018exam/src/magway/108.pdf"
+    },
+    {
+      "title": "၁၀၇ (ဖယက) ကံႀကီး (ေဆာ)",
+      "src": "2018exam/src/magway/107.pdf"
+    },
+    {
+      "title": "၁၀၆ (ဖဟ) ေက်ာက္ထု (ေဆာ)",
+      "src": "2018exam/src/magway/106.pdf"
+    },
+    {
+      "title": "၁၀၅ (ဖယ) ေဆာ",
+      "src": "2018exam/src/magway/105.pdf"
+    },
+    {
+      "title": "(ဖဍ) ဆတ္သြား (ေတာင္တြင္းႀကီး)",
+      "src": "2018exam/src/magway/14.pdf"
+    },
+    {
+      "title": "(ဖတ) ေတာင္တြင္းႀကီး",
+      "src": "2018exam/src/magway/13.pdf"
+    },
+    {
+      "title": "၈၆ (ဖညန) နံ႔သာ (ေပါက္)",
+      "src": "2018exam/src/magway/86.pdf"
+    },
+    {
+      "title": "၈၅ (ဖညပ) ကမ္းပ်ိဳ (ေပါက္)",
+      "src": "2018exam/src/magway/85.pdf"
+    },
+    {
+      "title": "၈၄ (ဖရပ) ေရျပာ (ေပါက္)",
+      "src": "2018exam/src/magway/84.pdf"
+    },
+    {
+      "title": "၈၃ (ဖညက) ကိုင္းလယ္ (ေပါက္)",
+      "src": "2018exam/src/magway/83.pdf"
+    },
+    {
+      "title": "၈၂ (ဖညဇ) ဇီးျပား (ေပါက္)",
+      "src": "2018exam/src/magway/82.pdf"
+    },
+    {
+      "title": "၈၁ (ဖညစ) စသိန္း (ေပါက္)",
+      "src": "2018exam/src/magway/81.pdf"
+    },
+    {
+      "title": "၈၀ (ဖည) ေပါက္",
+      "src": "2018exam/src/magway/80.pdf"
+    },
+    {
+      "title": "၇၃ (ဖအဆ) မအူေအာက္ဆိပ္ (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/73.pdf"
+    },
+    {
+      "title": "၇၂ (ဖလဗ) ဗလဗ (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/72.pdf"
+    },
+    {
+      "title": "၇၁ (ဖကဆ) ဆင္ေခ်ာင္း (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/71.pdf"
+    },
+    {
+      "title": "၇၀ (ဖကင) ပခန္းငယ္ (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/70.pdf"
+    },
+    {
+      "title": "၆၉ (ဖကရ) ဆားေတာင္ (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/69.pdf"
+    },
+    {
+      "title": "၆၈ (ဖပက) ပခန္းႀကီး (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/68.pdf"
+    },
+    {
+      "title": "၆၇ (ဖဖလ) ဖူလုံ (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/67.pdf"
+    },
+    {
+      "title": "၆၆ (ဖကမ) ေျမေတာ္ (ေရစႀကိဳ)",
+      "src": "2018exam/src/magway/66.pdf"
+    },
+    {
+      "title": "၆၅ (ဖက) ေရစႀကိဳ",
+      "src": "2018exam/src/magway/65.pdf"
+    },
+    {
+      "title": "အလယ္ကုန္း (ေရနံေခ်ာင္း)",
+      "src": "2018exam/src/magway/21.pdf"
+    },
+    {
+      "title": "(ဖရ) ေရနံေခ်ာင္း",
+      "src": "2018exam/src/magway/20.pdf"
+    },
+    {
+      "title": "၅၇ (ဖအအ) က်ီရပ္ကုန္း (ေအာင္လံ)",
+      "src": "2018exam/src/magway/57.pdf"
+    },
+    {
+      "title": "၅၆ (ဖပလ) ျပလို႔ (ေအာင္လံ)",
+      "src": "2018exam/src/magway/56.pdf"
+    },
+    {
+      "title": "၅၅ (ဖအသ) သမၻဴလ (ေအာင္လံ)",
+      "src": "2018exam/src/magway/55.pdf"
+    },
+    {
+      "title": "၅၄ (ဖအရ) ေ႐ႊပန္းေတာ (ေအာင္လံ)",
+      "src": "2018exam/src/magway/54.pdf"
+    },
+    {
+      "title": "၅၃ (ဖအမ) ၿမိဳ႕လွ (ေအာင္လံ)",
+      "src": "2018exam/src/magway/53.pdf"
+    },
+    {
+      "title": "၅၂ (ဖအ) ေအာင္လံ",
+      "src": "2018exam/src/magway/52.pdf"
+    }
+  ],
+  "ပဲခူးတိုင်းဒေသကြီး": [
+    {
+      "title": "ကဝ",
+      "src": "2018exam/src/default/BG-37.pdf"
+    },
+    {
+      "title": "ဇီးကုန္း",
+      "src": "2018exam/src/default/BG-96.pdf"
+    },
+    {
+      "title": "ထန္းတပင္",
+      "src": "2018exam/src/default/BG-47.pdf"
+    },
+    {
+      "title": "ဒိုက္ဦး",
+      "src": "2018exam/src/default/BG-27.pdf"
+    },
+    {
+      "title": "နတ္တလင္း",
+      "src": "2018exam/src/default/BG-98.pdf"
+    },
+    {
+      "title": "ပန္းေတာင္း",
+      "src": "2018exam/src/default/BG-74.pdf"
+    },
+    {
+      "title": "ပဲခူး",
+      "src": "2018exam/src/default/BG-1.pdf"
+    },
+    {
+      "title": "မင္းလွ",
+      "src": "2018exam/src/default/BG-94.pdf"
+    },
+    {
+      "title": "မိုးညိဳ",
+      "src": "2018exam/src/default/BG-100.pdf"
+    },
+    {
+      "title": "ျပည္",
+      "src": "2018exam/src/default/BG-70.pdf"
+    },
+    {
+      "title": "ျဖဴး",
+      "src": "2018exam/src/default/BG-59.pdf"
+    },
+    {
+      "title": "လက္ပံတန္း",
+      "src": "2018exam/src/default/BG-90.pdf"
+    },
+    {
+      "title": "ႀကိဳ႕ပင္ေကာက္",
+      "src": "2018exam/src/default/BG-105.pdf"
+    },
+    {
+      "title": "သနပ္ပင္",
+      "src": "2018exam/src/default/BG-23.pdf"
+    },
+    {
+      "title": "သာယာဝတီ",
+      "src": "2018exam/src/default/BG-88.pdf"
+    },
+    {
+      "title": "သဲကုန္း",
+      "src": "2018exam/src/default/BG-84.pdf"
+    },
+    {
+      "title": "အုတ္တြင္း",
+      "src": "2018exam/src/default/BG-53.pdf"
+    },
+    {
+      "title": "အုတ္ဖို",
+      "src": "2018exam/src/default/BG-107.pdf"
+    },
+    {
+      "title": "ေက်ာက္တံခါး",
+      "src": "2018exam/src/default/BG-9.pdf"
+    },
+    {
+      "title": "ေက်ာက္ႀကီး",
+      "src": "2018exam/src/default/BG-50.pdf"
+    },
+    {
+      "title": "ေညာင္ေလးပင္",
+      "src": "2018exam/src/default/BG-14.pdf"
+    },
+    {
+      "title": "ေတာင္ငူ",
+      "src": "2018exam/src/default/BG-44.pdf"
+    },
+    {
+      "title": "ေပါင္းတည္",
+      "src": "2018exam/src/default/BG-79.pdf"
+    },
+    {
+      "title": "ေရတာရွည္",
+      "src": "2018exam/src/default/BG-64.pdf"
+    },
+    {
+      "title": "ေရႊက်င္",
+      "src": "2018exam/src/default/BG-19.pdf"
+    },
+    {
+      "title": "ေရႊေတာင္",
+      "src": "2018exam/src/default/BG-80.pdf"
+    },
+    {
+      "title": "ေဝါ",
+      "src": "2018exam/src/default/BG-32.pdf"
+    },
+    {
+      "title": "ကဝ",
+      "src": "2018exam/src/default/BG-37.pdf"
+    },
+    {
+      "title": "ဇီးကုန္း",
+      "src": "2018exam/src/default/BG-96.pdf"
+    },
+    {
+      "title": "ထန္းတပင္",
+      "src": "2018exam/src/default/BG-47.pdf"
+    },
+    {
+      "title": "ဒိုက္ဦး",
+      "src": "2018exam/src/default/BG-27.pdf"
+    },
+    {
+      "title": "နတ္တလင္း",
+      "src": "2018exam/src/default/BG-98.pdf"
+    },
+    {
+      "title": "ပန္းေတာင္း",
+      "src": "2018exam/src/default/BG-74.pdf"
+    },
+    {
+      "title": "ပဲခူး",
+      "src": "2018exam/src/default/BG-1.pdf"
+    },
+    {
+      "title": "မင္းလွ",
+      "src": "2018exam/src/default/BG-94.pdf"
+    },
+    {
+      "title": "မိုးညိဳ",
+      "src": "2018exam/src/default/BG-100.pdf"
+    },
+    {
+      "title": "ျပည္",
+      "src": "2018exam/src/default/BG-70.pdf"
+    },
+    {
+      "title": "ျဖဴး",
+      "src": "2018exam/src/default/BG-59.pdf"
+    },
+    {
+      "title": "လက္ပံတန္း",
+      "src": "2018exam/src/default/BG-90.pdf"
+    },
+    {
+      "title": "ႀကိဳ႕ပင္ေကာက္",
+      "src": "2018exam/src/default/BG-105.pdf"
+    },
+    {
+      "title": "သနပ္ပင္",
+      "src": "2018exam/src/default/BG-23.pdf"
+    },
+    {
+      "title": "သာယာဝတီ",
+      "src": "2018exam/src/default/BG-88.pdf"
+    },
+    {
+      "title": "သဲကုန္း",
+      "src": "2018exam/src/default/BG-84.pdf"
+    },
+    {
+      "title": "အုတ္တြင္း",
+      "src": "2018exam/src/default/BG-53.pdf"
+    },
+    {
+      "title": "အုတ္ဖို",
+      "src": "2018exam/src/default/BG-107.pdf"
+    },
+    {
+      "title": "ေက်ာက္တံခါး",
+      "src": "2018exam/src/default/BG-9.pdf"
+    },
+    {
+      "title": "ေက်ာက္ႀကီး",
+      "src": "2018exam/src/default/BG-50.pdf"
+    },
+    {
+      "title": "ေညာင္ေလးပင္",
+      "src": "2018exam/src/default/BG-14.pdf"
+    },
+    {
+      "title": "ေတာင္ငူ",
+      "src": "2018exam/src/default/BG-44.pdf"
+    },
+    {
+      "title": "ေပါင္းတည္",
+      "src": "2018exam/src/default/BG-79.pdf"
+    },
+    {
+      "title": "ေရတာရွည္",
+      "src": "2018exam/src/default/BG-64.pdf"
+    },
+    {
+      "title": "ေရႊက်င္",
+      "src": "2018exam/src/default/BG-19.pdf"
+    },
+    {
+      "title": "ေရႊေတာင္",
+      "src": "2018exam/src/default/BG-80.pdf"
+    },
+    {
+      "title": "ေဝါ",
+      "src": "2018exam/src/default/BG-32.pdf"
+    }
+  ],
+  "တနင်္သာရီတိုင်းဒေသကြီး": [
+    {
+      "title": "ကၽြန္းစု",
+      "src": "2018exam/src/tanintharyi/TTY-22.pdf"
+    },
+    {
+      "title": "တနသၤာရီ",
+      "src": "2018exam/src/tanintharyi/TTY-18.pdf"
+    },
+    {
+      "title": "ေမတၱာ (ထားဝယ္)",
+      "src": "2018exam/src/tanintharyi/TTY-2.pdf"
+    },
+    {
+      "title": "ထားဝယ္",
+      "src": "2018exam/src/tanintharyi/TTY-1.pdf"
+    },
+    {
+      "title": "ပုေလာ",
+      "src": "2018exam/src/tanintharyi/TTY-27.pdf"
+    },
+    {
+      "title": "ၿမိတ္",
+      "src": "2018exam/src/tanintharyi/TTY-15.pdf"
+    },
+    {
+      "title": "ဘုတ္ျပင္း",
+      "src": "2018exam/src/tanintharyi/TTY-32.pdf"
+    },
+    {
+      "title": "သရက္ေခ်ာင္း",
+      "src": "2018exam/src/tanintharyi/TTY-11.pdf"
+    },
+    {
+      "title": "ေကာ့ေသာင္း",
+      "src": "2018exam/src/tanintharyi/TTY-30.pdf"
+    },
+    {
+      "title": "ေရျဖဴ",
+      "src": "2018exam/src/tanintharyi/TTY-3.pdf"
+    },
+    {
+      "title": "ေလာင္းလံုး",
+      "src": "2018exam/src/tanintharyi/TTY-7.pdf"
+    }
+  ],
+  "ကချင်ပြည်နယ်": [
+    {
+      "title": "(ကဇ) ခ်ီေဖြ",
+      "src": "2018exam/src/kachin/KC-9.pdf"
+    },
+    {
+      "title": "(ကဆ) ဆြမ္ပရာဘြမ္",
+      "src": "2018exam/src/kachin/KC-8.pdf"
+    },
+    {
+      "title": "(ကယ) ရွင္ေဗြယန္ (တႏုိင္း)",
+      "src": "2018exam/src/kachin/KC-17.pdf"
+    },
+    {
+      "title": "(ကန) တႏုိင္း",
+      "src": "2018exam/src/kachin/KC-12.pdf"
+    },
+    {
+      "title": "(ကအ) ပူတာအို",
+      "src": "2018exam/src/kachin/KC-19.pdf"
+    },
+    {
+      "title": "(ကဃ) ကာမိုင္း (ဖားကန္႕)",
+      "src": "2018exam/src/kachin/KC-5.pdf"
+    },
+    {
+      "title": "(ကဖလ)  လုံးခင္း (ဖားကန္႕)",
+      "src": "2018exam/src/kachin/KC-32.pdf"
+    },
+    {
+      "title": "(ကဖတ) တာမခန္ (ဖားကန္႕)",
+      "src": "2018exam/src/kachin/KC-34.pdf"
+    },
+    {
+      "title": "(ကဖဆ) ဆိပ္မူ (ဖားကန္႕)",
+      "src": "2018exam/src/kachin/KC-40.pdf"
+    },
+    {
+      "title": "(ကဖ) ဖားကန္႕",
+      "src": "2018exam/src/kachin/KC-14.pdf"
+    },
+    {
+      "title": "(ကဗ) ဗန္းေမာ္",
+      "src": "2018exam/src/kachin/KC-15.pdf"
+    },
+    {
+      "title": "(ကဘ) မခ်မ္းေဘာ",
+      "src": "2018exam/src/kachin/KC-16.pdf"
+    },
+    {
+      "title": "(ကစ) မန္စီ",
+      "src": "2018exam/src/kachin/KC-7.pdf"
+    },
+    {
+      "title": "(ကနမ) နန္းမား (မိုးညွင္း)",
+      "src": "2018exam/src/kachin/KC-21.pdf"
+    },
+    {
+      "title": "(ကပ) ဟိုပင္ (မိုးညွင္း)",
+      "src": "2018exam/src/kachin/KC-13.pdf"
+    },
+    {
+      "title": "(ကင) နန္႕မြန္း (မိုးညွင္း)",
+      "src": "2018exam/src/kachin/KC-6.pdf"
+    },
+    {
+      "title": "(ကညဘ) ဘီလူး (မိုးညွင္း)",
+      "src": "2018exam/src/kachin/KC-38.pdf"
+    },
+    {
+      "title": "(ကညတ) လံုးတံု (မိုးညွင္း)",
+      "src": "2018exam/src/kachin/KC-27.pdf"
+    },
+    {
+      "title": "(ကည) မိုးညွင္း",
+      "src": "2018exam/src/kachin/KC-10.pdf"
+    },
+    {
+      "title": "(ကပဘ) ပင္းေဘာ (မိုးေကာင္း)",
+      "src": "2018exam/src/kachin/KC-22.pdf"
+    },
+    {
+      "title": "(ကတခ) လမ္းခြ (နမၼတီး)(မိုးေကာင္း)",
+      "src": "2018exam/src/kachin/KC-28.pdf"
+    },
+    {
+      "title": "(ကတ) နမၼတီး (မိုးေကာင္း)",
+      "src": "2018exam/src/kachin/KC-11.pdf"
+    },
+    {
+      "title": "(ကခမ) ဆားေမွာ္ (မိုးေကာင္း)",
+      "src": "2018exam/src/kachin/KC-33.pdf"
+    },
+    {
+      "title": "(ကခ) မိုးေကာင္း",
+      "src": "2018exam/src/kachin/KC-3.pdf"
+    },
+    {
+      "title": "(ကမသ) ျမိဳ႕သစ္ (မိုးေမာက္)",
+      "src": "2018exam/src/kachin/KC-23.pdf"
+    },
+    {
+      "title": "(ကဂလ)  လြယ္ဂ်ယ္ (မိုးေမာက္)",
+      "src": "2018exam/src/kachin/KC-25.pdf"
+    },
+    {
+      "title": "(ကဂဒ)  ေဒါ့ဖုန္းယန္ (မိုးေမာက္)",
+      "src": "2018exam/src/kachin/KC-44.pdf"
+    },
+    {
+      "title": "(ကဂ) မိုးေမာက္",
+      "src": "2018exam/src/kachin/KC-4.pdf"
+    },
+    {
+      "title": "(ကဆဘ) ဆင္ဘို (ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-20.pdf"
+    },
+    {
+      "title": "(ကမယ) အင္ဂ်န္းယန္ (ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-43.pdf"
+    },
+    {
+      "title": "(ကမပ) နန္႕ေပါင္ (ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-36.pdf"
+    },
+    {
+      "title": "(ကမန) ပလန (ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-41.pdf"
+    },
+    {
+      "title": "(ကမတ) တာေလာၾကီး (ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-35.pdf"
+    },
+    {
+      "title": "(ကမဇ) ဇီးလြန္(ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-37.pdf"
+    },
+    {
+      "title": "(ကမစ) စီတာပူ(ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-42.pdf"
+    },
+    {
+      "title": "(ကမခ) မန္ခိန္ (ျမစ္ၾကီးနား)",
+      "src": "2018exam/src/kachin/KC-39.pdf"
+    },
+    {
+      "title": "(ကမ) ျမစ္ၾကီးနား",
+      "src": "2018exam/src/kachin/KC-1.pdf"
+    },
+    {
+      "title": "(ကဝန) မုိင္းနား (ဝိုင္းေမာ ္)",
+      "src": "2018exam/src/kachin/KC-30.pdf"
+    },
+    {
+      "title": "(ကဝဒ) ဆဒံုး (ဝိုင္းေမာ္)",
+      "src": "2018exam/src/kachin/KC-29.pdf"
+    },
+    {
+      "title": "(ကဝခ) ခတ္ခ်ိဳ (ဝိုင္းေမာ္)",
+      "src": "2018exam/src/kachin/KC-31.pdf"
+    },
+    {
+      "title": "(ကဝ) ဝိုင္းေမာ္",
+      "src": "2018exam/src/kachin/KC-18.pdf"
+    },
+    {
+      "title": "(ကအမ) ေနာင္မြန္",
+      "src": "2018exam/src/kachin/KC-24.pdf"
+    },
+    {
+      "title": "(ကကဘ) ဘိုကုန္း (ေ႐ႊကူ)",
+      "src": "2018exam/src/kachin/KC-26.pdf"
+    },
+    {
+      "title": "(ကက) ေ႐ႊကူ",
+      "src": "2018exam/src/kachin/KC-2.pdf"
+    }
+  ],
+  "ကယားပြည်နယ်": [
+    {
+      "title": "(ယဒန) နန္းမယ္ခုံ (ဒီးေမာ့ဆို)",
+      "src": "2018exam/src/kaya/KL-12.pdf"
+    },
+    {
+      "title": "(ယဒင)  ေဒါငံခါး (ဒီးေမာ့ဆို)",
+      "src": "2018exam/src/kaya/KL-11.pdf"
+    },
+    {
+      "title": "(ယဒ) ဒီးေမာ့ဆို",
+      "src": "2018exam/src/kaya/KL-3.pdf"
+    },
+    {
+      "title": "(ယဖ) ဖ႐ူဆို",
+      "src": "2018exam/src/kaya/KL-4.pdf"
+    },
+    {
+      "title": "(ယဆ)  ဖားေဆာင္း",
+      "src": "2018exam/src/kaya/KL-2.pdf"
+    },
+    {
+      "title": "(ယမ) မယ္စဲ့",
+      "src": "2018exam/src/kaya/KL-10.pdf"
+    },
+    {
+      "title": "(ယရတ) ရွားေတာ",
+      "src": "2018exam/src/kaya/KL-9.pdf"
+    },
+    {
+      "title": "(ယလလ) လြိဳင္လင္ေလး (လြိဳင္ေကာ္)",
+      "src": "2018exam/src/kaya/KL-8.pdf"
+    },
+    {
+      "title": "(ယလတ) ေလာပိတ (လြိဳင္ေကာ္)",
+      "src": "2018exam/src/kaya/KYH-07.pdf"
+    },
+    {
+      "title": "(ယလက) အထက(၄)လြိဳင္ေကာ္ (လြိဳင္ေကာ္)",
+      "src": "2018exam/src/kaya/file_1e3Se2WUq3xuqmi6IM3i_iYujHLKxvwTm.bin"
+    },
+    {
+      "title": "(ယလ) လြိဳင္ေကာ္",
+      "src": "2018exam/src/kaya/KL-1.pdf"
+    },
+    {
+      "title": "(ယဘ) ေဘာလခဲ",
+      "src": "2018exam/src/kaya/KL-5.pdf"
+    }
+  ],
+  "ကရင်ပြည်နယ်": [
+    {
+      "title": "(လဃ) ကမေမာင္း (ဖာပြန္)",
+      "src": "2018exam/src/karen/KY-5.pdf"
+    },
+    {
+      "title": "(လဖ) ဖာပြန္",
+      "src": "2018exam/src/karen/KY-10.pdf"
+    },
+    {
+      "title": "(လအက)  က်ိဳက္ဒုံ (ၾကာအင္းဆိပ္ႀကီး)",
+      "src": "2018exam/src/karen/KY-24.pdf"
+    },
+    {
+      "title": "(လတခ) တံခြန္တိုင္ (ၾကာအင္းဆိပ္ႀကီး)",
+      "src": "2018exam/src/karen/KY-16.pdf"
+    },
+    {
+      "title": "(လအဆ) ဘုရားသုံးဆူ (ၾကာအင္းဆိပ္ႀကီး)",
+      "src": "2018exam/src/karen/KY-32.pdf"
+    },
+    {
+      "title": "(လအ) ၾကာအင္းဆိပ္ႀကီး",
+      "src": "2018exam/src/karen/KY-15.pdf"
+    },
+    {
+      "title": "(လပ)  ဇာသျပင္ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-9.pdf"
+    },
+    {
+      "title": "(လဘခ) ခရားအတြင္း (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-27.pdf"
+    },
+    {
+      "title": "(လဘရ)  ဝဲကရင္ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-21.pdf"
+    },
+    {
+      "title": "(လန)  အိႏၵဳ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-8.pdf"
+    },
+    {
+      "title": "(လထ) ထုံးအိုင္ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-7.pdf"
+    },
+    {
+      "title": "(လဘဘ) ဘားကပ္ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-33.pdf"
+    },
+    {
+      "title": "(လဘက) ေကာ့က်ိဳက္ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-28.pdf"
+    },
+    {
+      "title": "(လဘလ)  လွာကာ (ဘားအံ)",
+      "src": "2018exam/src/karen/KY-17.pdf"
+    },
+    {
+      "title": "(လဘ) ဘားအံ",
+      "src": "2018exam/src/karen/KY-1.pdf"
+    },
+    {
+      "title": "(လမသ) သကၤန္းညီေနာင္ (ျမဝတီ)",
+      "src": "2018exam/src/karen/KY-23.pdf"
+    },
+    {
+      "title": "(လမ) ျမဝတီ",
+      "src": "2018exam/src/karen/KY-11.pdf"
+    },
+    {
+      "title": "(လလမ) ၿမိဳင္ႀကီးငူ (လႈိင္းဘြဲ႕)",
+      "src": "2018exam/src/karen/KY-20.pdf"
+    },
+    {
+      "title": "(လလပ)  ကပၸလီ (လွုိင္းဘြဲ႕)",
+      "src": "2018exam/src/karen/KY-30.pdf"
+    },
+    {
+      "title": "(လဂ)  ေ႐ႊဂြန္း (လႈိင္းဘြဲ႕)",
+      "src": "2018exam/src/karen/KY-4.pdf"
+    },
+    {
+      "title": "(လလထ) ထီလုံ (လႈိင္းဘြဲ႕)",
+      "src": "2018exam/src/karen/KY-31.pdf"
+    },
+    {
+      "title": "(လလက) ပိုင္က်ဳံ (လႈိင္းဘြဲ႕)",
+      "src": "2018exam/src/karen/KY-25.pdf"
+    },
+    {
+      "title": "(လလ) လႈိင္းဘြဲ႕",
+      "src": "2018exam/src/karen/KY-13.pdf"
+    },
+    {
+      "title": "(လသ) လိပ္သို (သံေတာင္)",
+      "src": "2018exam/src/karen/KY-14.pdf"
+    },
+    {
+      "title": "(လတည)  သေျပၫြန္႔ (သံေတာင္ႀကီး)",
+      "src": "2018exam/src/karen/KY-26.pdf"
+    },
+    {
+      "title": "(လတသ) သံေတာင္ႀကီး (သံေတာင္)",
+      "src": "2018exam/src/karen/KY-29.pdf"
+    },
+    {
+      "title": "(လရ) ဘုရင့္ေနာင္တပ္ (သံေတာင္)",
+      "src": "2018exam/src/karen/KY-12.pdf"
+    },
+    {
+      "title": "(လတ) သံေတာင္",
+      "src": "2018exam/src/karen/KY-6.pdf"
+    },
+    {
+      "title": "(လခဘ)  ေကာ့ဘိန္း (ေကာ့ကရိတ္)",
+      "src": "2018exam/src/karen/KY-18.pdf"
+    },
+    {
+      "title": "(လက) ေကာ့ကရိတ္",
+      "src": "2018exam/src/karen/KY-2.pdf"
+    },
+    {
+      "title": "(လကန) နဘူး (ေကာ့ကရိတ္)",
+      "src": "2018exam/src/karen/KY-22.pdf"
+    },
+    {
+      "title": "(လခ) က်ဳံဒိုး (ေကာ့ကရိတ္)",
+      "src": "2018exam/src/karen/KY-3.pdf"
+    },
+    {
+      "title": "(လကအ) ေတာင္ၾကာအင္း (ေကာ့ကရိတ္)",
+      "src": "2018exam/src/karen/KY-19.pdf"
+    }
+  ],
+  "ချင်းပြည်နယ်": [
+    {
+      "title": "(ခကဒ) က်င္ေဒြး (ကန္ပက္လက္)",
+      "src": "2018exam/src/chin/C-14.pdf"
+    },
+    {
+      "title": "(ခက) ကန္ပက္လက္",
+      "src": "2018exam/src/chin/C-2.pdf"
+    },
+    {
+      "title": "(ခဇ) တြန္းဇန္",
+      "src": "2018exam/src/chin/C-3.pdf"
+    },
+    {
+      "title": "(ခခ) က်ီခါး (တြန္းဇန္)",
+      "src": "2018exam/src/chin/C-13.pdf"
+    },
+    {
+      "title": "(ခလ) ထုတ္လိုင္ (တီးတိန္)",
+      "src": "2018exam/src/chin/C-12.pdf"
+    },
+    {
+      "title": "(ခတ) တီးတိန္",
+      "src": "2018exam/src/chin/C-4.pdf"
+    },
+    {
+      "title": "(ခထ) ထန္တလန္",
+      "src": "2018exam/src/chin/C-5.pdf"
+    },
+    {
+      "title": "(ခဝမ) ဆမီး (ပလက္ဝ)",
+      "src": "2018exam/src/chin/C-16.pdf"
+    },
+    {
+      "title": "(ခဝ) ပလက္ဝ",
+      "src": "2018exam/src/chin/C-15.pdf"
+    },
+    {
+      "title": "(ခဒ) ရိေခါဒါရ္ (ဖလမ္း)",
+      "src": "2018exam/src/chin/C-6.pdf"
+    },
+    {
+      "title": "(ခဖ) ဖလမ္း",
+      "src": "2018exam/src/chin/C-8.pdf"
+    },
+    {
+      "title": "(ခမ) မင္းတပ္",
+      "src": "2018exam/src/chin/C-10.pdf"
+    }
+  ],
+  "မွန်ပြည်နယ်": [
+    {
+      "title": "(ညဟ) သိမ္ဇရပ္ (က်ိဳက္ထို)",
+      "src": "2018exam/src/mon/M-24.pdf"
+    },
+    {
+      "title": "(ညထ) စစ္ေတာင္း (က်ိဳက္ထို)",
+      "src": "2018exam/src/mon/M-12.pdf"
+    },
+    {
+      "title": "(ညကက) က်ဴေခ်ာင္ (က်ိဳက္ထို)",
+      "src": "2018exam/src/mon/M-32.pdf"
+    },
+    {
+      "title": "(ညက)  က်ိဳက္ထို",
+      "src": "2018exam/src/mon/M-2.pdf"
+    },
+    {
+      "title": "(ညမတ) တရနာ (က်ိဳက္မေရာ)",
+      "src": "2018exam/src/mon/M-27.pdf"
+    },
+    {
+      "title": "(ညမဒ) ကဒါ (က်ိဳက္မေရာ)",
+      "src": "2018exam/src/mon/M-28.pdf"
+    },
+    {
+      "title": "(ညမ) က်ိဳက္မေရာ",
+      "src": "2018exam/src/mon/M-20.pdf"
+    },
+    {
+      "title": "(ညလည) ေညာင္ပင္ဆိပ္ (က်ိဳက္မေရာ)",
+      "src": "2018exam/src/mon/M-10.pdf"
+    },
+    {
+      "title": "(ညလရ) ေ႐ႊနတ္ေတာင္ (က်ိဳက္မေရာ)",
+      "src": "2018exam/src/mon/M-38.pdf"
+    },
+    {
+      "title": "(ညဘလ) ေ႐ႊေလွ (ဘီးလင္း)",
+      "src": "2018exam/src/mon/M-36.pdf"
+    },
+    {
+      "title": "(ညစ) ေတာင္စြန္း (ဘီးလင္း)",
+      "src": "2018exam/src/mon/M-7.pdf"
+    },
+    {
+      "title": "(ညဘရ) ကင္း႐ြာ (ဘီးလင္း)",
+      "src": "2018exam/src/mon/M-34.pdf"
+    },
+    {
+      "title": "(ညဘက) ကန္သာယာ (ဘီးလင္း)",
+      "src": "2018exam/src/mon/file_1OSeelpE1qDr7rXouVdlY6APparZ-iy-y.bin"
+    },
+    {
+      "title": "(ညဘ) ဘီးလင္း",
+      "src": "2018exam/src/mon/M-19.pdf"
+    },
+    {
+      "title": "ဘီးလင္း",
+      "src": "2018exam/src/mon/M-36.pdf"
+    },
+    {
+      "title": "(ညဘလ) ေ႐ႊေလွ (ဘီးလင္း)",
+      "src": "2018exam/src/mon/M-7.pdf"
+    },
+    {
+      "title": "(ညဓ) ကမာဝက္ (မုဒုံ)",
+      "src": "2018exam/src/mon/M-14.pdf"
+    },
+    {
+      "title": "(ညဒ) မုဒုံ",
+      "src": "2018exam/src/mon/M-13.pdf"
+    },
+    {
+      "title": "(ညသန)  ေနာင္ကုလားရွမ္း႐ြာ (သထုံ)",
+      "src": "2018exam/src/mon/M-39.pdf"
+    },
+    {
+      "title": "(ညသက) ၾကာပန္း (သထုံ)",
+      "src": "2018exam/src/mon/M-40.pdf"
+    },
+    {
+      "title": "(ညသသ) သိမ္ဆိပ္ (သထုံ)",
+      "src": "2018exam/src/mon/M-33.pdf"
+    },
+    {
+      "title": "(ညအ) က်ိဳေကၠာ္ (သထုံ)",
+      "src": "2018exam/src/mon/M-25.pdf"
+    },
+    {
+      "title": "(ညသ) သထုံ",
+      "src": "2018exam/src/mon/M-23.pdf"
+    },
+    {
+      "title": "(ညဇ) က႐ုပၸိ (သံျဖဴဇရပ္)",
+      "src": "2018exam/src/mon/M-9.pdf"
+    },
+    {
+      "title": "(ညင) က်ိဳကၡမီ (သံျဖဴဇရပ္)",
+      "src": "2018exam/src/mon/M-6.pdf"
+    },
+    {
+      "title": "(ညဃ) က်ဳံကဒတ္ (သံျဖဴဇရပ္)",
+      "src": "2018exam/src/mon/M-5.pdf"
+    },
+    {
+      "title": "(ညဖ) သံျဖဴဇရပ္",
+      "src": "2018exam/src/mon/M-17.pdf"
+    },
+    {
+      "title": "(ညဆ) မုရစ္ကေလး (ေခ်ာင္းဆုံ)",
+      "src": "2018exam/src/mon/M-8.pdf"
+    },
+    {
+      "title": "(ညခမ) မုဒြန္း (ေခ်ာင္းဆုံ)",
+      "src": "2018exam/src/mon/M-29.pdf"
+    },
+    {
+      "title": "(ညဂ) ႐ြာလြတ္ (ေခ်ာင္းဆုံ)",
+      "src": "2018exam/src/mon/M-4.pdf"
+    },
+    {
+      "title": "(ညခ) ေခ်ာင္းဆုံ",
+      "src": "2018exam/src/mon/M-3.pdf"
+    },
+    {
+      "title": "(ညပအ) အလွပ္ (ေပါင္)",
+      "src": "2018exam/src/mon/M-35.pdf"
+    },
+    {
+      "title": "(ညဗ) ရင္းၿငိမ္ (ေပါင္)",
+      "src": "2018exam/src/mon/M-18.pdf"
+    },
+    {
+      "title": "(ညန) ဇင္းက်ိဳက္ (ေပါင္)",
+      "src": "2018exam/src/mon/M-15.pdf"
+    },
+    {
+      "title": "(ညတ)  မုတၱမ (ေပါင္)",
+      "src": "2018exam/src/mon/M-11.pdf"
+    },
+    {
+      "title": "(ညပန) နတ္ႀကီးေခ်ာင္ (ေပါင္)",
+      "src": "2018exam/src/mon/M-26.pdf"
+    },
+    {
+      "title": "(ညပ) ေပါင္",
+      "src": "2018exam/src/mon/M-16.pdf"
+    },
+    {
+      "title": "(ညလသ) အထက(၁၁) ေမာ္လၿမိဳင္",
+      "src": "2018exam/src/mon/M-30.pdf"
+    },
+    {
+      "title": "(ညလ) ေမာ္လၿမိဳင္",
+      "src": "2018exam/src/mon/M-1.pdf"
+    },
+    {
+      "title": "(ညဝ) လမိုင္း (ေရး)",
+      "src": "2018exam/src/mon/M-22.pdf"
+    },
+    {
+      "title": "(ညရအ) အစင္ (ေရး)",
+      "src": "2018exam/src/mon/M-37.pdf"
+    },
+    {
+      "title": "(ညရ) ေရး",
+      "src": "2018exam/src/mon/M-21.pdf"
+    }
+  ],
+  "ရခိုင်ပြည်နယ်": [
+    {
+      "title": "",
+      "src": ""
+    }
+  ],
+  "ရှမ်းပြည်နယ်": [
+    {
+      "title": "ကၽိဳင္းတံု",
+      "src": "2018exam/src/shan/S-87.pdf"
+    },
+    {
+      "title": "ကြတ္ခိုင္",
+      "src": "2018exam/src/shan/S-69.pdf"
+    },
+    {
+      "title": "ကြန္ဟိန္း",
+      "src": "2018exam/src/shan/S-53.pdf"
+    },
+    {
+      "title": "ကြမ္းလံု",
+      "src": "2018exam/src/shan/S-63.pdf"
+    },
+    {
+      "title": "ကေလာ",
+      "src": "2018exam/src/shan/S-28.pdf"
+    },
+    {
+      "title": "ဆီဆိုင္",
+      "src": "2018exam/src/shan/S-16.pdf"
+    },
+    {
+      "title": "တန္႔ယန္း",
+      "src": "2018exam/src/shan/S-64.pdf"
+    },
+    {
+      "title": "တာခၽီလိတ္",
+      "src": "2018exam/src/shan/S-96.pdf"
+    },
+    {
+      "title": "နမၼတူ",
+      "src": "2018exam/src/shan/S-78.pdf"
+    },
+    {
+      "title": "နမ့္ခမ္း",
+      "src": "2018exam/src/shan/S-71.pdf"
+    },
+    {
+      "title": "နမ့္စန္(တ)",
+      "src": "2018exam/src/shan/S-47.pdf"
+    },
+    {
+      "title": "နမ့္ဆန္ (ေျမာက္)",
+      "src": "2018exam/src/shan/S-77.pdf"
+    },
+    {
+      "title": "ပင္းတယ",
+      "src": "2018exam/src/shan/S-26.pdf"
+    },
+    {
+      "title": "ပင္ေလာင္း",
+      "src": "2018exam/src/shan/S-36.pdf"
+    },
+    {
+      "title": "ဖယ္ခံု",
+      "src": "2018exam/src/shan/S-19.pdf"
+    },
+    {
+      "title": "မန္တံု",
+      "src": "2018exam/src/shan/S-82.pdf"
+    },
+    {
+      "title": "မဘိမ္း",
+      "src": "2018exam/src/shan/S-85.pdf"
+    },
+    {
+      "title": "မိုင္းကိုင္",
+      "src": "2018exam/src/shan/S-49.pdf"
+    },
+    {
+      "title": "မိုင္းခတ္",
+      "src": "2018exam/src/shan/S-88.pdf"
+    },
+    {
+      "title": "မိုင္းဆတ္",
+      "src": "2018exam/src/shan/S-92.pdf"
+    },
+    {
+      "title": "မိုင္းတံု",
+      "src": "2018exam/src/shan/S-93.pdf"
+    },
+    {
+      "title": "မိုင္းပန္",
+      "src": "2018exam/src/shan/S-60.pdf"
+    },
+    {
+      "title": "မိုင္းပၽဥ္း",
+      "src": "2018exam/src/shan/S-94.pdf"
+    },
+    {
+      "title": "မိုင္းယန္း",
+      "src": "2018exam/src/shan/S-89.pdf"
+    },
+    {
+      "title": "မိုင္းျဖတ္",
+      "src": "2018exam/src/shan/S-90.pdf"
+    },
+    {
+      "title": "မိုင္းရယ္",
+      "src": "2018exam/src/shan/S-65.pdf"
+    },
+    {
+      "title": "မိုင္းရွဴး",
+      "src": "2018exam/src/shan/S-54.pdf"
+    },
+    {
+      "title": "မိုင္းေယာင္း",
+      "src": "2018exam/src/shan/S-91.pdf"
+    },
+    {
+      "title": "မိုးနဲ",
+      "src": "2018exam/src/shan/S-57.pdf"
+    },
+    {
+      "title": "မိုးမိတ္",
+      "src": "2018exam/src/shan/S-83.pdf"
+    },
+    {
+      "title": "မူဆယ္",
+      "src": "2018exam/src/shan/S-68.pdf"
+    },
+    {
+      "title": "ရပ္ေစာက္",
+      "src": "2018exam/src/shan/S-21.pdf"
+    },
+    {
+      "title": "ရြာငံ",
+      "src": "2018exam/src/shan/S-32.pdf"
+    },
+    {
+      "title": "လင္းေခး",
+      "src": "2018exam/src/shan/S-56.pdf"
+    },
+    {
+      "title": "လားရွိဴး",
+      "src": "2018exam/src/shan/S-61.pdf"
+    },
+    {
+      "title": "လိြဳင္လင္",
+      "src": "2018exam/src/shan/S-44.pdf"
+    },
+    {
+      "title": "သိန္းနီ",
+      "src": "2018exam/src/shan/S-62.pdf"
+    },
+    {
+      "title": "သီေပါ",
+      "src": "2018exam/src/shan/S-80.pdf"
+    },
+    {
+      "title": "ဟိုပန္",
+      "src": "2018exam/src/shan/file_1FUSJk6wyfD2olVJk_UeqDQrX1QiJpkD6.bin"
+    },
+    {
+      "title": "ဟိုပံုး",
+      "src": "2018exam/src/shan/S-42.pdf"
+    },
+    {
+      "title": "ေကၽးသီးမံစံ",
+      "src": "2018exam/src/shan/S-51.pdf"
+    },
+    {
+      "title": "ေကၽာက္မဲ",
+      "src": "2018exam/src/shan/S-72.pdf"
+    },
+    {
+      "title": "ေညာင္ေရႊ",
+      "src": "2018exam/src/shan/S-7.pdf"
+    },
+    {
+      "title": "ေတာင္ႀကီး",
+      "src": "2018exam/src/shan/S-1.pdf"
+    },
+    {
+      "title": "ေနာင္ခၽိဳ",
+      "src": "2018exam/src/shan/S-74.pdf"
+    },
+    {
+      "title": "ေမာက္မယ္",
+      "src": "2018exam/src/shan/S-59.pdf"
+    },
+    {
+      "title": "ေလာက္ကိုင္",
+      "src": "2018exam/src/shan/S-67.pdf"
+    }
+  ],
+  "နိုင်ငံခြား": [
+    {
+      "title": "ႏိုင္ငံျခား",
+      "src": "2018exam/src/yangon/FGN-01.pdf"
+    }
+  ]
 }
