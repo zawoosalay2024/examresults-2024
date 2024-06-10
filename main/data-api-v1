@@ -7,6 +7,13 @@
     "data_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/year-by-region/2024-v1"
   },
   {
+    "title": "2023",
+    "base_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/2023exam/",
+    "date": "",
+    "auto_refresh": "",
+    "data_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/year-by-region/2023-v1"
+  },
+  {
     "title": "2022",
     "base_url": "https://raw.githubusercontent.com/darklandadmin/examresults-2024/main/2022exam/",
     "date": "",
